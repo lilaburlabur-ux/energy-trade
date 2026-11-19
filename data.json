@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T23:25:49+00:00",
-  "as_of_local": "2026-11-19 23:25:49 UTC",
+  "as_of_utc": "2026-11-19T23:30:56+00:00",
+  "as_of_local": "2026-11-19 23:30:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TLN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1323,6 +1321,34 @@
       ]
     },
     {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 355.91,
+      "previous_close": 360.18,
+      "change_pct": -1.19,
+      "market_cap": 15483975753.24121,
+      "headlines": [
+        {
+          "title": "Bloom Energy Surpasses Its Industry in a Year: How to Play the Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-surpasses-industry-play-153700334.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T15:37:00Z"
+        },
+        {
+          "title": "Will OKLO's $3.1B Liquidity Cushion Advance Its Nuclear Plans?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklos-3-1b-liquidity-cushion-122900957.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T12:29:00Z"
+        },
+        {
+          "title": "What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal?",
+          "url": "https://finance.yahoo.com/energy/articles/talen-energy-tln-signaling-750-131328293.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T13:13:28Z"
+        }
+      ]
+    },
+    {
       "symbol": "DINO",
       "name": "HF Sinclair",
       "price": 89.72,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 83.0,
-      "change_pct": -0.31
+      "price": 83.04,
+      "change_pct": -0.26
     },
     {
       "label": "Brent",
-      "price": 90.02,
-      "change_pct": -2.1
+      "price": 90.01,
+      "change_pct": -2.11
     },
     {
       "label": "NatGas",
