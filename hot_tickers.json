@@ -1,10 +1,27 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-19T20:52:52+00:00",
+  "as_of": "2026-11-19T21:08:11+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
  },
- "hot_tickers": []
+ "hot_tickers": [
+  {
+   "rank": 1,
+   "ticker": "OKLO",
+   "company": "Oklo Inc.",
+   "move_pct": -5.15,
+   "price": 20.68,
+   "volume": 6708694,
+   "volume_vs_avg": "~0.7x",
+   "heat_score": 36,
+   "direction": "down",
+   "why": "Oklo Just Dropped 22% in a Month. What Would It Take to Get OKLO Stock to $25?",
+   "catalyst_type": "momentum_narrative",
+   "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcC1XdFNsSzFWaE5odkgzU0tPX2RwNlh2c1YzQmN4RFEwV1JGZTlKSnlydnk5d0M2X0NMNDhJSDdPSEI0S050TFN1WkstVG9VeXVuRU9BdUUxckJHXzJrQjUtTkh4WmtYc2o2emFIck9EZ3NuaV8tSHdiUmpWazByZUlCS1R4TWZSblBSQnJuZ2liX2NOcFhNT3hNQ3dDNk5yWGRHaVRva013VlhpRGtGY0lmZ3dvdW1jdXc?oc=5",
+   "published": "2026-11-19T20:05:00+00:00",
+   "sector": "Nuclear & Uranium"
+  }
+ ]
 }
