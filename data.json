@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T07:43:09+00:00",
-  "as_of_local": "2026-11-19 07:43:09 UTC",
+  "as_of_utc": "2026-11-19T07:48:46+00:00",
+  "as_of_local": "2026-11-19 07:48:46 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SEDG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1797,34 +1799,6 @@
       ]
     },
     {
-      "symbol": "SEDG",
-      "name": "SolarEdge",
-      "price": 21.01,
-      "previous_close": 21.72,
-      "change_pct": -3.27,
-      "market_cap": 1300821579.1810818,
-      "headlines": [
-        {
-          "title": "Did The Market Read First Solar Stock Right?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-first-solar-154151558.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T15:41:51Z"
-        },
-        {
-          "title": "Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?",
-          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-rebound-brutal-rout-025353544.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-18T02:53:53Z"
-        },
-        {
-          "title": "First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4%",
-          "url": "https://finance.yahoo.com/energy/articles/first-solar-enphase-fall-5-185832430.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T18:58:32Z"
-        }
-      ]
-    },
-    {
       "symbol": "ARRY",
       "name": "Array Technologies",
       "price": 4.21,
@@ -2115,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 82.36,
-      "change_pct": -1.08
+      "price": 82.41,
+      "change_pct": -1.02
     },
     {
       "label": "Brent",
-      "price": 89.37,
-      "change_pct": -2.81
+      "price": 89.55,
+      "change_pct": -2.61
     },
     {
       "label": "NatGas",
