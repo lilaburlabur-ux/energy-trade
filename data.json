@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T22:25:23+00:00",
-  "as_of_local": "2026-11-19 22:25:23 UTC",
+  "as_of_utc": "2026-11-19T22:30:07+00:00",
+  "as_of_local": "2026-11-19 22:30:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "GEV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/video/nvidia-q3-earnings-anthropic-ipo-202556170.html",
           "publisher": "Blockspace",
           "published": "2026-11-18T20:25:56Z"
-        }
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "name": "GE Vernova",
-      "price": 756.28,
-      "previous_close": 772.22,
-      "change_pct": -2.06,
-      "market_cap": 200169979228.69092,
-      "headlines": [
-        {
-          "title": "GE Vernova Is Down 34% From Its July High Despite 3 Guidance Raises. Is It Time to Buy?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-down-34-july-163605393.html",
-          "publisher": "TIKR",
-          "published": "2026-11-19T16:36:05Z"
-        },
-        {
-          "title": "What Erste Group Doubts About GE Vernova (GEV) Next Year",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/erste-group-doubts-ge-vernova-151756375.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-19T15:17:56Z"
-        },
-        {
-          "title": "Can X-Energy's Supply-Chain Partnerships Support SMR Deployment?",
-          "url": "https://finance.yahoo.com/energy/articles/x-energys-supply-chain-partnerships-133300790.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T13:33:00Z"
         }
       ]
     },
