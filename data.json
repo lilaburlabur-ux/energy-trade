@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T00:45:15+00:00",
-  "as_of_local": "2026-11-19 00:45:15 UTC",
+  "as_of_utc": "2026-11-19T00:50:17+00:00",
+  "as_of_local": "2026-11-19 00:50:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 204388916152.30908,
       "headlines": [
         {
+          "title": "GE Vernova Down 24%: What Would Its CEO Say?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-down-24-ceo-003626492.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T00:36:26Z"
+        },
+        {
           "title": "Ken Fisher and 11 Other Big Funds Bought GE Vernova Last Quarter, While 19 Sold. Who\u2019s Right?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-11-other-big-191749440.html",
           "publisher": "TIKR",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-35-below-high-181716013.html",
           "publisher": "TIKR",
           "published": "2026-11-18T18:17:16Z"
-        },
-        {
-          "title": "Is Bloom Energy Stock At $173 Still Worth Owning?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-173-still-175447048.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T17:54:47Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.88,
-      "change_pct": -4.8
+      "price": 81.85,
+      "change_pct": -4.84
     },
     {
       "label": "Brent",
-      "price": 88.62,
-      "change_pct": -4.85
+      "price": 88.59,
+      "change_pct": -4.89
     },
     {
       "label": "NatGas",
       "price": 3.39,
-      "change_pct": 5.67
+      "change_pct": 5.64
     }
   ]
 }
