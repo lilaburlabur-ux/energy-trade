@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T11:32:05+00:00",
-  "as_of_local": "2026-11-19 11:32:05 UTC",
+  "as_of_utc": "2026-11-19T11:36:50+00:00",
+  "as_of_local": "2026-11-19 11:36:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "KMI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -645,34 +647,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/slb-limited-slb-trending-stock-130003946.html",
           "publisher": "Zacks",
           "published": "2026-11-12T13:00:03Z"
-        }
-      ]
-    },
-    {
-      "symbol": "KMI",
-      "name": "Kinder Morgan",
-      "price": 31.36,
-      "previous_close": 31.7,
-      "change_pct": -1.07,
-      "market_cap": 69861150941.12947,
-      "headlines": [
-        {
-          "title": "3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-dividends-built-roth-194751819.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T19:47:51Z"
-        },
-        {
-          "title": "Meet Wall Street\u2019s Reliable High-Yield Dividend Stocks: 5 Companies That Pass the Yield Trap Test",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meet-wall-street-reliable-high-125207408.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T12:52:07Z"
-        },
-        {
-          "title": "A 66-Year-Old Swapped QYLD for JEPQ in a $1.27 Million Portfolio. Here\u2019s What Happened to His $8,467 Monthly Paycheck",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/66-old-swapped-qyld-jepq-185931164.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-17T18:59:31Z"
         }
       ]
     },
@@ -2120,13 +2094,13 @@
     },
     {
       "label": "Brent",
-      "price": 89.27,
-      "change_pct": -2.91
+      "price": 89.29,
+      "change_pct": -2.89
     },
     {
       "label": "NatGas",
       "price": 3.37,
-      "change_pct": 0.0
+      "change_pct": -0.12
     }
   ]
 }
