@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T09:55:41+00:00",
-  "as_of_local": "2026-11-19 09:55:41 UTC",
+  "as_of_utc": "2026-11-19T10:00:35+00:00",
+  "as_of_local": "2026-11-19 10:00:35 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TLN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1323,6 +1321,34 @@
       ]
     },
     {
+      "symbol": "TLN",
+      "name": "Talen Energy",
+      "price": 360.18,
+      "previous_close": 354.71,
+      "change_pct": 1.54,
+      "market_cap": 15669742957.517578,
+      "headlines": [
+        {
+          "title": "Will OKLO's $3.1B Liquidity Cushion Advance Its Nuclear Plans?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklos-3-1b-liquidity-cushion-122900957.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T12:29:00Z"
+        },
+        {
+          "title": "What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal?",
+          "url": "https://finance.yahoo.com/energy/articles/talen-energy-tln-signaling-750-131328293.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-13T13:13:28Z"
+        },
+        {
+          "title": "Can NuScale's TVA Deal Unlock Its First Major Module Order?",
+          "url": "https://finance.yahoo.com/energy/articles/nuscales-tva-deal-unlock-first-152900220.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T15:29:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "DINO",
       "name": "HF Sinclair",
       "price": 90.64,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.28,
-      "change_pct": -1.18
+      "price": 82.22,
+      "change_pct": -1.25
     },
     {
       "label": "Brent",
-      "price": 89.32,
-      "change_pct": -2.86
+      "price": 89.26,
+      "change_pct": -2.93
     },
     {
       "label": "NatGas",
       "price": 3.34,
-      "change_pct": -0.83
+      "change_pct": -0.92
     }
   ]
 }
