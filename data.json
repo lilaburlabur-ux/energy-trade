@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T08:08:59+00:00",
-  "as_of_local": "2026-11-19 08:08:59 UTC",
+  "as_of_utc": "2026-11-19T08:14:10+00:00",
+  "as_of_local": "2026-11-19 08:14:10 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "TTE"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ken-fisher-11-other-big-191749440.html",
           "publisher": "TIKR",
           "published": "2026-11-18T19:17:49Z"
+        }
+      ]
+    },
+    {
+      "symbol": "TTE",
+      "name": "TotalEnergies",
+      "price": 87.14,
+      "previous_close": 90.4,
+      "change_pct": -3.61,
+      "market_cap": 191105857427.28412,
+      "headlines": [
+        {
+          "title": "Better Dividend Stock: TotalEnergies vs. MPLX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-totalenergies-vs-215316062.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T21:53:16Z"
+        },
+        {
+          "title": "Stay Ahead of Market Uncertainty With LNG, TTE, LW and HAS",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stay-ahead-market-uncertainty-lng-132200005.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T13:22:00Z"
+        },
+        {
+          "title": "Saipem wins $181m drilling contracts for Scarabeo 9 rig",
+          "url": "https://finance.yahoo.com/news/saipem-wins-181m-drilling-contracts-130819531.html",
+          "publisher": "Offshore Technology",
+          "published": "2026-11-18T13:08:19Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.25,
-      "change_pct": -1.21
+      "price": 82.21,
+      "change_pct": -1.26
     },
     {
       "label": "Brent",
-      "price": 89.3,
-      "change_pct": -2.88
+      "price": 89.29,
+      "change_pct": -2.89
     },
     {
       "label": "NatGas",
-      "price": 3.34,
-      "change_pct": -0.89
+      "price": 3.35,
+      "change_pct": -0.77
     }
   ]
 }
