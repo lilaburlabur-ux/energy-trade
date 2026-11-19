@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-19T06:02:24+00:00",
-  "as_of_local": "2026-11-19 06:02:24 UTC",
+  "as_of_utc": "2026-11-19T06:17:40+00:00",
+  "as_of_local": "2026-11-19 06:17:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "SLB"
+    "BKR"
   ],
   "stocks": [
     {
@@ -623,6 +623,34 @@
       ]
     },
     {
+      "symbol": "SLB",
+      "name": "SLB (Schlumberger)",
+      "price": 48.41,
+      "previous_close": 48.95,
+      "change_pct": -1.1,
+      "market_cap": 71454593340.10576,
+      "headlines": [
+        {
+          "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
+          "url": "https://finance.yahoo.com/energy/articles/slb-expands-norway-footprint-var-142200521.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T14:22:00Z"
+        },
+        {
+          "title": "SLB Stock: Analyst Estimates & Ratings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-stock-analyst-estimates-ratings-074754675.html",
+          "publisher": "Barchart",
+          "published": "2026-11-16T07:47:54Z"
+        },
+        {
+          "title": "SLB Limited (SLB) Is a Trending Stock: Facts to Know Before Betting on It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-limited-slb-trending-stock-130003946.html",
+          "publisher": "Zacks",
+          "published": "2026-11-12T13:00:03Z"
+        }
+      ]
+    },
+    {
       "symbol": "KMI",
       "name": "Kinder Morgan",
       "price": 31.36,
@@ -955,34 +983,6 @@
           "url": "https://finance.yahoo.com/energy/articles/eogs-janus-plant-expansion-strengthen-151700985.html",
           "publisher": "Zacks",
           "published": "2026-11-16T15:17:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BKR",
-      "name": "Baker Hughes",
-      "price": 47.3,
-      "previous_close": 47.46,
-      "change_pct": -0.34,
-      "market_cap": 46972611015.24126,
-      "headlines": [
-        {
-          "title": "Baker Hughes & TPAO Partner on Next-Generation Geothermal in Turkiye",
-          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-tpao-partner-next-113400937.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T11:34:00Z"
-        },
-        {
-          "title": "Nextchem agrees to buy Chart\u2019s LNG technologies for $220m",
-          "url": "https://finance.yahoo.com/news/nextchem-agrees-buy-chart-lng-102055516.html",
-          "publisher": "Offshore Technology",
-          "published": "2026-11-18T10:20:55Z"
-        },
-        {
-          "title": "A CNH Industrial Director Who Runs Baker Hughes Just Bought $567,000 of Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-director-runs-baker-092632780.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T09:26:32Z"
         }
       ]
     },
@@ -1967,8 +1967,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.74,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.1,
+          "price": 48.41,
           "currency": "USD"
         },
         {
@@ -2066,8 +2066,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.74,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.1,
+        "price": 48.41,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.31,
-      "change_pct": -1.14
+      "price": 82.39,
+      "change_pct": -1.04
     },
     {
       "label": "Brent",
-      "price": 89.31,
-      "change_pct": -2.87
+      "price": 89.45,
+      "change_pct": -2.72
     },
     {
       "label": "NatGas",
       "price": 3.37,
-      "change_pct": -0.03
+      "change_pct": 0.06
     }
   ]
 }
