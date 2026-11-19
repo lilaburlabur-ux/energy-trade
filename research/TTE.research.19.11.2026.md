@@ -4,8 +4,8 @@ Signed file: `TTE.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $86.61 (2026-11-19, ~15-min delayed) |
-| Market cap | $189.94B |
+| Current price | $86.25 (2026-11-19, ~15-min delayed) |
+| Market cap | $189.15B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `TTE.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +38.46%; price +1.09% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.15% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +37.88%; price +0.67% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.52% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
-| Value attractiveness | Reasonable | Forward P/E 7.13, EV/Sales 1.03. |
+| Value attractiveness | Reasonable | Forward P/E 7.10, EV/Sales 1.03. |
 | Risk level | Moderate | Beta 0.04, ATR 2.1% of price, short float 0.19%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -37,29 +37,29 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Headline | Source | Date |
 |---|---|---|
 | Better Dividend Stock: TotalEnergies vs. MPLX | TIKR | 2026-11-18 |
+| Drilling for Yield in the Gulf: Chevron Drops Anchor in Deepwater | MarketBeat | 2026-11-18 |
 | Better Dividend Stock: TotalEnergies vs. Hershey | TIKR | 2026-11-18 |
 | EnQuest Exits UK, Pivots to SE Asia | Rigzone.com | 2026-11-18 |
-| Stay Ahead of Market Uncertainty With LNG, TTE, LW and HAS | Zacks | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $86.61; 52w high $95.33 (-9.15%); 52w low $61.13 (+41.69%) |
-| Trend | +1.09% vs SMA200, -3.06% vs SMA50, -4.40% vs SMA20 |
-| Momentum | RSI(14) 39.8 (neutral) |
-| Volatility | ATR(14) 1.79 (~2.1% of price); beta 0.04 |
-| Setup perspective | -9.15% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $86.25; 52w high $95.33 (-9.52%); 52w low $61.13 (+41.10%) |
+| Trend | +0.67% vs SMA200, -3.46% vs SMA50, -4.78% vs SMA20 |
+| Momentum | RSI(14) 38.8 (neutral) |
+| Volatility | ATR(14) 1.80 (~2.1% of price); beta 0.04 |
+| Setup perspective | -9.52% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.3% |
-| Month | -4.1% |
-| Quarter | -2.5% |
-| Half Y | -5.1% |
-| 1Y | +38.5% |
-| YTD | +33.2% |
+| Week | -3.7% |
+| Month | -4.5% |
+| Quarter | -2.9% |
+| Half Y | -5.5% |
+| 1Y | +37.9% |
+| YTD | +32.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $214.40B | Revenue growth 41.10% y/y |
 | Profitability | Gross 39.18%, operating 17.00%, net 10.46% | ROA 7.19%, ROE 17.83% |
 | Balance sheet | Cash $37.80B, debt $63.17B | Current ratio 1.11, debt/equity 46.12 |
-| Valuation | P/E 8.64, forward P/E 7.13, P/S 0.89, P/B 1.44 | EV/Sales 1.03, EV/EBITDA 4.57 |
+| Valuation | P/E 8.61, forward P/E 7.10, P/S 0.88, P/B 1.43 | EV/Sales 1.03, EV/EBITDA 4.57 |
 | Growth expectations | Earnings growth 123.20%, EPS q/q 124.40% | Analyst mean target $100.85 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,21 +109,21 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $86.61 | EV/Sales | 1.03 |
-| Market cap | $189.94B | EV/EBITDA | 4.57 |
+| Price | $86.25 | EV/Sales | 1.03 |
+| Market cap | $189.15B | EV/EBITDA | 4.57 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 39.8 | Operating margin | 17.00% |
-| ATR(14) | 1.79 | Profit margin | 10.46% |
-| SMA20 dist | -4.40% | ROA | 7.19% |
-| SMA50 dist | -3.06% | ROE | 17.83% |
-| SMA200 dist | +1.09% | Revenue (ttm) | $214.40B |
+| RSI(14) | 38.8 | Operating margin | 17.00% |
+| ATR(14) | 1.80 | Profit margin | 10.46% |
+| SMA20 dist | -4.78% | ROA | 7.19% |
+| SMA50 dist | -3.46% | ROE | 17.83% |
+| SMA200 dist | +0.67% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
 | 52W low | $61.13 | Inst. ownership | 57.39% |
-| P/E (ttm) | 8.64 | Insider ownership | 8.85% |
-| Forward P/E | 7.13 | Short float | 0.19% |
+| P/E (ttm) | 8.61 | Insider ownership | 8.85% |
+| Forward P/E | 7.10 | Short float | 0.19% |
 | PEG (trailing) | 0.65 | Avg volume | 1,795,535 |
-| P/S | 0.89 | Employees | 94,847 |
-| P/B | 1.44 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/S | 0.88 | Employees | 94,847 |
+| P/B | 1.43 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

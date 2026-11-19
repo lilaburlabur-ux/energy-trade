@@ -4,8 +4,8 @@ Signed file: `EOG.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $149.89 (2026-11-19, ~15-min delayed) |
-| Market cap | $77.72B |
+| Current price | $149.49 (2026-11-19, ~15-min delayed) |
+| Market cap | $77.51B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `EOG.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +41.15%; price +8.24% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -9.45% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +40.77%; price +7.95% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -9.70% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 28.06%, revenue growth 42.70%. |
-| Value attractiveness | Reasonable | Forward P/E 8.81, EV/Sales 2.75. |
+| Value attractiveness | Reasonable | Forward P/E 8.79, EV/Sales 2.75. |
 | Risk level | Moderate | Beta 0.27, ATR 2.9% of price, short float 3.62%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
@@ -44,22 +44,22 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $149.89; 52w high $165.54 (-9.45%); 52w low $98.64 (+51.95%) |
-| Trend | +8.24% vs SMA200, -0.10% vs SMA50, -3.49% vs SMA20 |
-| Momentum | RSI(14) 45.2 (neutral) |
+| Price vs 52-week range | Close $149.49; 52w high $165.54 (-9.70%); 52w low $98.64 (+51.55%) |
+| Trend | +7.95% vs SMA200, -0.36% vs SMA50, -3.74% vs SMA20 |
+| Momentum | RSI(14) 44.6 (neutral) |
 | Volatility | ATR(14) 4.33 (~2.9% of price); beta 0.27 |
-| Setup perspective | -9.45% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -9.70% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -3.7% |
-| Month | -5.1% |
-| Quarter | -1.4% |
-| Half Y | +8.6% |
-| 1Y | +41.2% |
-| YTD | +44.2% |
+| Week | -3.9% |
+| Month | -5.3% |
+| Quarter | -1.7% |
+| Half Y | +8.3% |
+| 1Y | +40.8% |
+| YTD | +43.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 | Revenue (ttm) | $29.17B | Revenue growth 42.70% y/y |
 | Profitability | Gross 62.98%, operating 35.47%, net 28.06% | ROA 11.90%, ROE 25.83% |
 | Balance sheet | Cash $5.75B, debt $8.26B | Current ratio 1.90, debt/equity 24.96 |
-| Valuation | P/E 9.68, forward P/E 8.81, P/S 2.66, P/B 2.35 | EV/Sales 2.75, EV/EBITDA 4.99 |
+| Valuation | P/E 9.65, forward P/E 8.79, P/S 2.66, P/B 2.35 | EV/Sales 2.75, EV/EBITDA 4.99 |
 | Growth expectations | Earnings growth 97.40%, EPS q/q 89.10% | Analyst mean target $168.41 (29 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,18 +109,18 @@ EOG Resources, Inc., together with its subsidiaries, explores for, develops, pro
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $149.89 | EV/Sales | 2.75 |
-| Market cap | $77.72B | EV/EBITDA | 4.99 |
+| Price | $149.49 | EV/Sales | 2.75 |
+| Market cap | $77.51B | EV/EBITDA | 4.99 |
 | Beta | 0.27 | Gross margin | 62.98% |
-| RSI(14) | 45.2 | Operating margin | 35.47% |
+| RSI(14) | 44.6 | Operating margin | 35.47% |
 | ATR(14) | 4.33 | Profit margin | 28.06% |
-| SMA20 dist | -3.49% | ROA | 11.90% |
-| SMA50 dist | -0.10% | ROE | 25.83% |
-| SMA200 dist | +8.24% | Revenue (ttm) | $29.17B |
+| SMA20 dist | -3.74% | ROA | 11.90% |
+| SMA50 dist | -0.36% | ROE | 25.83% |
+| SMA200 dist | +7.95% | Revenue (ttm) | $29.17B |
 | 52W high | $165.54 | Revenue growth y/y | 42.70% |
 | 52W low | $98.64 | Inst. ownership | 97.20% |
-| P/E (ttm) | 9.68 | Insider ownership | 0.29% |
-| Forward P/E | 8.81 | Short float | 3.62% |
+| P/E (ttm) | 9.65 | Insider ownership | 0.29% |
+| Forward P/E | 8.79 | Short float | 3.62% |
 | PEG (trailing) | 1.18 | Avg volume | 3,133,393 |
 | P/S | 2.66 | Employees | 3,400 |
 | P/B | 2.35 | Analyst rec (1=buy..5=sell) | 2.4 |

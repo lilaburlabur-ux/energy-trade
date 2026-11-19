@@ -4,8 +4,8 @@ Signed file: `CEG.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $253.03 (2026-11-19, ~15-min delayed) |
-| Market cap | $88.97B |
+| Current price | $252.03 (2026-11-19, ~15-min delayed) |
+| Market cap | $88.62B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `CEG.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-8.80%) with negative half-year (-11.20%). |
-| Fresh setup quality | Poor / broken | -32.77% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-9.16%) with negative half-year (-11.55%). |
+| Fresh setup quality | Poor / broken | -33.03% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 12.76%, revenue growth 45.40%. |
-| Value attractiveness | Reasonable | Forward P/E 18.90, EV/Sales 3.37. |
+| Value attractiveness | Reasonable | Forward P/E 18.83, EV/Sales 3.37. |
 | Risk level | High | Beta 1.13, ATR 5.2% of price, short float 3.34%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -36,30 +36,30 @@ Constellation Energy Corporation produces and sells energy products and services
 
 | Headline | Source | Date |
 |---|---|---|
+| Constellation Energy (CEG) Following Its Earnings Beat And Guidance Hike Looks Cheap Versus Fair Value | Simply Wall St. | 2026-11-19 |
 | Oklo Just Dropped 22% in a Month. What Would It Take to Get OKLO Stock to $25? | 24/7 Wall St. | 2026-11-19 |
 | $100,000 in Dominion Energy and Exelon Could Pay $3,846 a Year in Dividends | 24/7 Wall St. | 2026-11-19 |
 | GE Vernova Is Down 34% From Its July High Despite 3 Guidance Raises. Is It Time to Buy? | TIKR | 2026-11-19 |
-| XLU vs VPU: Which Utility ETF Gets More From the AI Power Rush? | 24/7 Wall St. | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $253.03; 52w high $376.35 (-32.77%); 52w low $235.78 (+7.32%) |
-| Trend | -8.80% vs SMA200, -5.16% vs SMA50, -3.47% vs SMA20 |
-| Momentum | RSI(14) 43.4 (neutral) |
-| Volatility | ATR(14) 13.06 (~5.2% of price); beta 1.13 |
-| Setup perspective | -32.77% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $252.03; 52w high $376.35 (-33.03%); 52w low $235.78 (+6.89%) |
+| Trend | -9.16% vs SMA200, -5.53% vs SMA50, -3.83% vs SMA20 |
+| Momentum | RSI(14) 43.0 (neutral) |
+| Volatility | ATR(14) 13.14 (~5.2% of price); beta 1.13 |
+| Setup perspective | -33.03% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.3% |
-| Month | -6.4% |
-| Quarter | -7.1% |
-| Half Y | -11.2% |
-| 1Y | -25.0% |
-| YTD | -30.5% |
+| Week | -10.6% |
+| Month | -6.8% |
+| Quarter | -7.5% |
+| Half Y | -11.6% |
+| 1Y | -25.3% |
+| YTD | -30.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Constellation Energy Corporation produces and sells energy products and services
 | Revenue (ttm) | $34.25B | Revenue growth 45.40% y/y |
 | Profitability | Gross 25.24%, operating 17.94%, net 12.76% | ROA 4.95%, ROE 18.34% |
 | Balance sheet | Cash $603.00M, debt $23.39B | Current ratio 1.49, debt/equity 70.79 |
-| Valuation | P/E 20.34, forward P/E 18.90, P/S 2.60, P/B 2.72 | EV/Sales 3.37, EV/EBITDA 12.19 |
+| Valuation | P/E 20.26, forward P/E 18.83, P/S 2.59, P/B 2.71 | EV/Sales 3.37, EV/EBITDA 12.19 |
 | Growth expectations | Earnings growth 74.50%, EPS q/q 97.30% | Analyst mean target $339.07 (23 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ Constellation Energy Corporation produces and sells energy products and services
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $253.03 | EV/Sales | 3.37 |
-| Market cap | $88.97B | EV/EBITDA | 12.19 |
+| Price | $252.03 | EV/Sales | 3.37 |
+| Market cap | $88.62B | EV/EBITDA | 12.19 |
 | Beta | 1.13 | Gross margin | 25.24% |
-| RSI(14) | 43.4 | Operating margin | 17.94% |
-| ATR(14) | 13.06 | Profit margin | 12.76% |
-| SMA20 dist | -3.47% | ROA | 4.95% |
-| SMA50 dist | -5.16% | ROE | 18.34% |
-| SMA200 dist | -8.80% | Revenue (ttm) | $34.25B |
+| RSI(14) | 43.0 | Operating margin | 17.94% |
+| ATR(14) | 13.14 | Profit margin | 12.76% |
+| SMA20 dist | -3.83% | ROA | 4.95% |
+| SMA50 dist | -5.53% | ROE | 18.34% |
+| SMA200 dist | -9.16% | Revenue (ttm) | $34.25B |
 | 52W high | $376.35 | Revenue growth y/y | 45.40% |
 | 52W low | $235.78 | Inst. ownership | 85.06% |
-| P/E (ttm) | 20.34 | Insider ownership | 0.35% |
-| Forward P/E | 18.90 | Short float | 3.34% |
+| P/E (ttm) | 20.26 | Insider ownership | 0.35% |
+| Forward P/E | 18.83 | Short float | 3.34% |
 | PEG (trailing) | 0.91 | Avg volume | 3,512,289 |
-| P/S | 2.60 | Employees | 15,291 |
-| P/B | 2.72 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/S | 2.59 | Employees | 15,291 |
+| P/B | 2.71 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

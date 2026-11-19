@@ -4,8 +4,8 @@ Signed file: `CVX.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $206.49 (2026-11-19, ~15-min delayed) |
-| Market cap | $402.99B |
+| Current price | $206.50 (2026-11-19, ~15-min delayed) |
+| Market cap | $402.93B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `CVX.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +39.32%; price +6.92% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -11.60% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +39.32%; price +6.93% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -11.59% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 11.92%, revenue growth 34.80%. |
 | Value attractiveness | Reasonable | Forward P/E 12.50, EV/Sales 1.89. |
 | Risk level | Moderate | Beta 0.45, ATR 2.4% of price, short float 1.35%. |
@@ -37,18 +37,18 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 | Headline | Source | Date |
 |---|---|---|
 | Trump Cheers the “Biggest Drop in Gasoline in 18 Years.” Not Good for Exxon and Chevron | TIKR | 2026-11-19 |
+| Best Blue Chip Stocks: 21 Hedge Fund Top Picks | Kiplinger | 2026-11-19 |
 | Nasdaq Drops on Anthropic’s Pop | Barrons.com | 2026-11-19 |
 | Your Chevron Hedge Works Only While Oil Spikes | Trefis | 2026-11-19 |
-| How XOM's Strong Balance Sheet Helps Manage Oil Market Volatility | Zacks | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $206.49; 52w high $233.58 (-11.60%); 52w low $141.59 (+45.84%) |
-| Trend | +6.92% vs SMA200, -3.41% vs SMA50, -5.49% vs SMA20 |
+| Price vs 52-week range | Close $206.50; 52w high $233.58 (-11.59%); 52w low $141.59 (+45.85%) |
+| Trend | +6.93% vs SMA200, -3.41% vs SMA50, -5.48% vs SMA20 |
 | Momentum | RSI(14) 38.8 (neutral) |
 | Volatility | ATR(14) 4.91 (~2.4% of price); beta 0.45 |
-| Setup perspective | -11.60% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -11.59% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -109,14 +109,14 @@ Chevron Corporation, through its subsidiaries, engages in the integrated energy 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $206.49 | EV/Sales | 1.89 |
-| Market cap | $402.99B | EV/EBITDA | 7.37 |
+| Price | $206.50 | EV/Sales | 1.89 |
+| Market cap | $402.93B | EV/EBITDA | 7.37 |
 | Beta | 0.45 | Gross margin | 44.38% |
 | RSI(14) | 38.8 | Operating margin | 15.10% |
 | ATR(14) | 4.91 | Profit margin | 11.92% |
-| SMA20 dist | -5.49% | ROA | 6.47% |
+| SMA20 dist | -5.48% | ROA | 6.47% |
 | SMA50 dist | -3.41% | ROE | 13.85% |
-| SMA200 dist | +6.92% | Revenue (ttm) | $226.26B |
+| SMA200 dist | +6.93% | Revenue (ttm) | $226.26B |
 | 52W high | $233.58 | Revenue growth y/y | 34.80% |
 | 52W low | $141.59 | Inst. ownership | 72.32% |
 | P/E (ttm) | 15.16 | Insider ownership | 4.83% |

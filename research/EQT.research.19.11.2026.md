@@ -4,8 +4,8 @@ Signed file: `EQT.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $49.62 (2026-11-19, ~15-min delayed) |
-| Market cap | $31.04B |
+| Current price | $49.30 (2026-11-19, ~15-min delayed) |
+| Market cap | $30.84B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `EQT.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-9.84%) with negative half-year (-13.52%). |
-| Fresh setup quality | Poor / broken | -26.29% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-10.42%) with negative half-year (-14.08%). |
+| Fresh setup quality | Poor / broken | -26.76% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 29.01%, revenue growth -8.10%. |
-| Value attractiveness | Reasonable | Forward P/E 14.97, EV/Sales 4.45. |
-| Risk level | Elevated | Beta 0.67, ATR 3.3% of price, short float 4.45%. |
+| Value attractiveness | Reasonable | Forward P/E 14.87, EV/Sales 4.45. |
+| Risk level | Elevated | Beta 0.67, ATR 3.4% of price, short float 4.45%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $49.62; 52w high $67.32 (-26.29%); 52w low $48.41 (+2.51%) |
-| Trend | -9.84% vs SMA200, -4.94% vs SMA50, -5.91% vs SMA20 |
-| Momentum | RSI(14) 38.9 (neutral) |
-| Volatility | ATR(14) 1.64 (~3.3% of price); beta 0.67 |
-| Setup perspective | -26.29% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $49.30; 52w high $67.32 (-26.76%); 52w low $48.41 (+1.84%) |
+| Trend | -10.42% vs SMA200, -5.55% vs SMA50, -6.50% vs SMA20 |
+| Momentum | RSI(14) 37.9 (neutral) |
+| Volatility | ATR(14) 1.67 (~3.4% of price); beta 0.67 |
+| Setup perspective | -26.76% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.2% |
-| Month | -7.9% |
-| Quarter | -7.3% |
-| Half Y | -13.5% |
-| 1Y | -14.5% |
-| YTD | -6.1% |
+| Week | -5.8% |
+| Month | -8.5% |
+| Quarter | -7.9% |
+| Half Y | -14.1% |
+| 1Y | -15.1% |
+| YTD | -6.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Revenue (ttm) | $9.15B | Revenue growth -8.10% y/y |
 | Profitability | Gross 80.40%, operating 43.69%, net 29.01% | ROA 6.05%, ROE 10.49% |
 | Balance sheet | Cash $78.72M, debt $5.55B | Current ratio 0.71, debt/equity 19.13 |
-| Valuation | P/E 11.76, forward P/E 14.97, P/S 3.39, P/B 1.22 | EV/Sales 4.45, EV/EBITDA 6.13 |
+| Valuation | P/E 11.68, forward P/E 14.87, P/S 3.37, P/B 1.21 | EV/Sales 4.45, EV/EBITDA 6.13 |
 | Growth expectations | Earnings growth -17.00%, EPS q/q -17.00% | Analyst mean target $66.55 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 | Geode Capital Management, LLC | 17,276,107 | 2.76% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.67, ATR 3.3% of price, short float 4.45%. Size positions accordingly.
+- **Volatility risk:** Beta 0.67, ATR 3.4% of price, short float 4.45%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ EQT Corporation engages in the exploration, production, gathering, and transmiss
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $49.62 | EV/Sales | 4.45 |
-| Market cap | $31.04B | EV/EBITDA | 6.13 |
+| Price | $49.30 | EV/Sales | 4.45 |
+| Market cap | $30.84B | EV/EBITDA | 6.13 |
 | Beta | 0.67 | Gross margin | 80.40% |
-| RSI(14) | 38.9 | Operating margin | 43.69% |
-| ATR(14) | 1.64 | Profit margin | 29.01% |
-| SMA20 dist | -5.91% | ROA | 6.05% |
-| SMA50 dist | -4.94% | ROE | 10.49% |
-| SMA200 dist | -9.84% | Revenue (ttm) | $9.15B |
+| RSI(14) | 37.9 | Operating margin | 43.69% |
+| ATR(14) | 1.67 | Profit margin | 29.01% |
+| SMA20 dist | -6.50% | ROA | 6.05% |
+| SMA50 dist | -5.55% | ROE | 10.49% |
+| SMA200 dist | -10.42% | Revenue (ttm) | $9.15B |
 | 52W high | $67.32 | Revenue growth y/y | -8.10% |
 | 52W low | $48.41 | Inst. ownership | 97.29% |
-| P/E (ttm) | 11.76 | Insider ownership | 0.93% |
-| Forward P/E | 14.97 | Short float | 4.45% |
+| P/E (ttm) | 11.68 | Insider ownership | 0.93% |
+| Forward P/E | 14.87 | Short float | 4.45% |
 | PEG (trailing) | 1.27 | Avg volume | 7,855,920 |
-| P/S | 3.39 | Employees | 1,523 |
-| P/B | 1.22 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 3.37 | Employees | 1,523 |
+| P/B | 1.21 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

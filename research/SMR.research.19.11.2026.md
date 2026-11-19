@@ -4,8 +4,8 @@ Signed file: `SMR.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $3.82 (2026-11-19, ~15-min delayed) |
-| Market cap | $1.57B |
+| Current price | $3.81 (2026-11-19, ~15-min delayed) |
+| Market cap | $1.56B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `SMR.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-61.28%) with negative half-year (-66.28%). |
-| Fresh setup quality | Poor / broken | -83.28% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-61.38%) with negative half-year (-66.37%). |
+| Fresh setup quality | Poor / broken | -83.33% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -96.60%. |
-| Value attractiveness | Reasonable | Forward P/E -5.64, EV/Sales 230.44. |
+| Value attractiveness | Reasonable | Forward P/E -5.63, EV/Sales 230.44. |
 | Risk level | High | Beta 2.43, ATR 12.3% of price, short float 26.36%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -44,20 +44,20 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $3.82; 52w high $22.85 (-83.28%); 52w low $3.82 (+0.00%) |
-| Trend | -61.28% vs SMA200, -41.21% vs SMA50, -23.84% vs SMA20 |
-| Momentum | RSI(14) 27.8 (oversold) |
+| Price vs 52-week range | Close $3.81; 52w high $22.85 (-83.33%); 52w low $3.81 (+0.00%) |
+| Trend | -61.38% vs SMA200, -41.36% vs SMA50, -24.04% vs SMA20 |
+| Momentum | RSI(14) 27.7 (oversold) |
 | Volatility | ATR(14) 0.47 (~12.3% of price); beta 2.43 |
-| Setup perspective | -83.28% from 52w high — base needs to rebuild. |
+| Setup perspective | -83.33% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -20.7% |
-| Month | -30.5% |
-| Quarter | -59.4% |
-| Half Y | -66.3% |
+| Week | -21.0% |
+| Month | -30.7% |
+| Quarter | -59.5% |
+| Half Y | -66.4% |
 | 1Y | -82.3% |
 | YTD | -76.6% |
 
@@ -68,7 +68,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $2.73M | Revenue growth -96.60% y/y |
 | Profitability | Gross -2.16%, operating 9099.45%, net 0.00% | ROA 10.69%, ROE -17.12% |
 | Balance sheet | Cash $933.39M, debt $6.63M | Current ratio 24.40, debt/equity 0.34 |
-| Valuation | P/E —, forward P/E -5.64, P/S 574.67, P/B 0.77 | EV/Sales 230.44, EV/EBITDA 2.52 |
+| Valuation | P/E —, forward P/E -5.63, P/S 573.16, P/B 0.77 | EV/Sales 230.44, EV/EBITDA 2.52 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $8.59 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,20 +112,20 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $3.82 | EV/Sales | 230.44 |
-| Market cap | $1.57B | EV/EBITDA | 2.52 |
+| Price | $3.81 | EV/Sales | 230.44 |
+| Market cap | $1.56B | EV/EBITDA | 2.52 |
 | Beta | 2.43 | Gross margin | -2.16% |
-| RSI(14) | 27.8 | Operating margin | 9099.45% |
+| RSI(14) | 27.7 | Operating margin | 9099.45% |
 | ATR(14) | 0.47 | Profit margin | 0.00% |
-| SMA20 dist | -23.84% | ROA | 10.69% |
-| SMA50 dist | -41.21% | ROE | -17.12% |
-| SMA200 dist | -61.28% | Revenue (ttm) | $2.73M |
+| SMA20 dist | -24.04% | ROA | 10.69% |
+| SMA50 dist | -41.36% | ROE | -17.12% |
+| SMA200 dist | -61.38% | Revenue (ttm) | $2.73M |
 | 52W high | $22.85 | Revenue growth y/y | -96.60% |
-| 52W low | $3.82 | Inst. ownership | 65.03% |
+| 52W low | $3.81 | Inst. ownership | 65.03% |
 | P/E (ttm) | — | Insider ownership | 1.70% |
-| Forward P/E | -5.64 | Short float | 26.36% |
+| Forward P/E | -5.63 | Short float | 26.36% |
 | PEG (trailing) | — | Avg volume | 34,316,923 |
-| P/S | 574.67 | Employees | 428 |
+| P/S | 573.16 | Employees | 428 |
 | P/B | 0.77 | Analyst rec (1=buy..5=sell) | 2.8 |
 
 ## 8. Analyst Actions

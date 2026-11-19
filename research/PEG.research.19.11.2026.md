@@ -4,7 +4,7 @@ Signed file: `PEG.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $74.10 (2026-11-19, ~15-min delayed) |
+| Current price | $74.11 (2026-11-19, ~15-min delayed) |
 | Market cap | $36.94B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `PEG.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-3.46%) with negative half-year (-3.90%). |
-| Fresh setup quality | Moderate / wait | -12.56% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-3.44%) with negative half-year (-3.88%). |
+| Fresh setup quality | Moderate / wait | -12.55% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.31%, revenue growth -6.40%. |
 | Value attractiveness | Reasonable | Forward P/E 16.00, EV/Sales 5.03. |
 | Risk level | Moderate | Beta 0.49, ATR 1.7% of price, short float 2.45%. |
@@ -44,11 +44,11 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $74.10; 52w high $84.74 (-12.56%); 52w low $66.56 (+11.32%) |
-| Trend | -3.46% vs SMA200, +3.66% vs SMA50, +0.31% vs SMA20 |
+| Price vs 52-week range | Close $74.11; 52w high $84.74 (-12.55%); 52w low $66.56 (+11.34%) |
+| Trend | -3.44% vs SMA200, +3.68% vs SMA50, +0.32% vs SMA20 |
 | Momentum | RSI(14) 53.9 (neutral) |
 | Volatility | ATR(14) 1.27 (~1.7% of price); beta 0.49 |
-| Setup perspective | -12.56% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -12.55% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -58,7 +58,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Month | +4.4% |
 | Quarter | +3.0% |
 | Half Y | -3.9% |
-| 1Y | -7.0% |
+| 1Y | -6.9% |
 | YTD | -6.1% |
 
 ## 4. Fundamental Analysis
@@ -68,7 +68,7 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 | Revenue (ttm) | $12.34B | Revenue growth -6.40% y/y |
 | Profitability | Gross 32.12%, operating 22.26%, net 14.31% | ROA 2.93%, ROE 10.28% |
 | Balance sheet | Cash $837.00M, debt $25.76B | Current ratio 1.01, debt/equity 148.40 |
-| Valuation | P/E 20.93, forward P/E 16.00, P/S 2.99, P/B 2.13 | EV/Sales 5.03, EV/EBITDA 14.59 |
+| Valuation | P/E 20.94, forward P/E 16.00, P/S 2.99, P/B 2.13 | EV/Sales 5.03, EV/EBITDA 14.59 |
 | Growth expectations | Earnings growth -39.10%, EPS q/q -39.50% | Analyst mean target $81.18 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,17 +109,17 @@ Public Service Enterprise Group Incorporated, through its subsidiaries, operates
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $74.10 | EV/Sales | 5.03 |
+| Price | $74.11 | EV/Sales | 5.03 |
 | Market cap | $36.94B | EV/EBITDA | 14.59 |
 | Beta | 0.49 | Gross margin | 32.12% |
 | RSI(14) | 53.9 | Operating margin | 22.26% |
 | ATR(14) | 1.27 | Profit margin | 14.31% |
-| SMA20 dist | +0.31% | ROA | 2.93% |
-| SMA50 dist | +3.66% | ROE | 10.28% |
-| SMA200 dist | -3.46% | Revenue (ttm) | $12.34B |
+| SMA20 dist | +0.32% | ROA | 2.93% |
+| SMA50 dist | +3.68% | ROE | 10.28% |
+| SMA200 dist | -3.44% | Revenue (ttm) | $12.34B |
 | 52W high | $84.74 | Revenue growth y/y | -6.40% |
 | 52W low | $66.56 | Inst. ownership | 79.58% |
-| P/E (ttm) | 20.93 | Insider ownership | 0.13% |
+| P/E (ttm) | 20.94 | Insider ownership | 0.13% |
 | Forward P/E | 16.00 | Short float | 2.45% |
 | PEG (trailing) | 3.48 | Avg volume | 3,528,103 |
 | P/S | 2.99 | Employees | 13,189 |

@@ -4,8 +4,8 @@ Signed file: `EPD.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $36.17 (2026-11-19, ~15-min delayed) |
-| Market cap | $78.01B |
+| Current price | $36.16 (2026-11-19, ~15-min delayed) |
+| Market cap | $77.98B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,10 +15,10 @@ Signed file: `EPD.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-1.14%) with negative half-year (-5.64%). |
-| Fresh setup quality | Moderate / wait | -6.77% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-1.17%) with negative half-year (-5.67%). |
+| Fresh setup quality | Moderate / wait | -6.79% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.24%, revenue growth 49.30%. |
-| Value attractiveness | Reasonable | Forward P/E 11.42, EV/Sales 1.78. |
+| Value attractiveness | Reasonable | Forward P/E 11.41, EV/Sales 1.78. |
 | Risk level | Moderate | Beta 0.46, ATR 2.1% of price, short float 2.30%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -44,11 +44,11 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $36.17; 52w high $38.80 (-6.77%); 52w low $29.86 (+21.13%) |
-| Trend | -1.14% vs SMA200, -1.58% vs SMA50, -2.58% vs SMA20 |
-| Momentum | RSI(14) 43.4 (neutral) |
+| Price vs 52-week range | Close $36.16; 52w high $38.80 (-6.79%); 52w low $29.86 (+21.10%) |
+| Trend | -1.17% vs SMA200, -1.61% vs SMA50, -2.61% vs SMA20 |
+| Momentum | RSI(14) 43.3 (neutral) |
 | Volatility | ATR(14) 0.75 (~2.1% of price); beta 0.46 |
-| Setup perspective | -6.77% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -6.79% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -57,7 +57,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Week | -3.3% |
 | Month | +0.3% |
 | Quarter | -3.5% |
-| Half Y | -5.6% |
+| Half Y | -5.7% |
 | 1Y | +21.1% |
 | YTD | +19.4% |
 
@@ -68,7 +68,7 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 | Revenue (ttm) | $64.40B | Revenue growth 49.30% y/y |
 | Profitability | Gross 12.56%, operating 12.17%, net 10.24% | ROA 6.07%, ROE 21.69% |
 | Balance sheet | Cash $232.00M, debt $35.20B | Current ratio 0.93, debt/equity 112.72 |
-| Valuation | P/E 11.98, forward P/E 11.42, P/S 1.21, P/B 2.57 | EV/Sales 1.78, EV/EBITDA 10.72 |
+| Valuation | P/E 11.97, forward P/E 11.41, P/S 1.21, P/B 2.57 | EV/Sales 1.78, EV/EBITDA 10.72 |
 | Growth expectations | Earnings growth 21.60%, EPS q/q 21.40% | Analyst mean target $41.67 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,18 +110,18 @@ Enterprise Products Partners L.P. provides midstream energy services to producer
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $36.17 | EV/Sales | 1.78 |
-| Market cap | $78.01B | EV/EBITDA | 10.72 |
+| Price | $36.16 | EV/Sales | 1.78 |
+| Market cap | $77.98B | EV/EBITDA | 10.72 |
 | Beta | 0.46 | Gross margin | 12.56% |
-| RSI(14) | 43.4 | Operating margin | 12.17% |
+| RSI(14) | 43.3 | Operating margin | 12.17% |
 | ATR(14) | 0.75 | Profit margin | 10.24% |
-| SMA20 dist | -2.58% | ROA | 6.07% |
-| SMA50 dist | -1.58% | ROE | 21.69% |
-| SMA200 dist | -1.14% | Revenue (ttm) | $64.40B |
+| SMA20 dist | -2.61% | ROA | 6.07% |
+| SMA50 dist | -1.61% | ROE | 21.69% |
+| SMA200 dist | -1.17% | Revenue (ttm) | $64.40B |
 | 52W high | $38.80 | Revenue growth y/y | 49.30% |
 | 52W low | $29.86 | Inst. ownership | 25.64% |
-| P/E (ttm) | 11.98 | Insider ownership | 33.09% |
-| Forward P/E | 11.42 | Short float | 2.30% |
+| P/E (ttm) | 11.97 | Insider ownership | 33.09% |
+| Forward P/E | 11.41 | Short float | 2.30% |
 | PEG (trailing) | 1.20 | Avg volume | 3,374,879 |
 | P/S | 1.21 | Employees | 0 |
 | P/B | 2.57 | Analyst rec (1=buy..5=sell) | 2.3 |
