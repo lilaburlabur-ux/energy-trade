@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T02:56:12+00:00",
-  "as_of_local": "2026-11-19 02:56:12 UTC",
+  "as_of_utc": "2026-11-19T03:11:16+00:00",
+  "as_of_local": "2026-11-19 03:11:16 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HAL"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1127,6 +1125,34 @@
       ]
     },
     {
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 31.44,
+      "previous_close": 31.97,
+      "change_pct": -1.66,
+      "market_cap": 26004852634.213123,
+      "headlines": [
+        {
+          "title": "A $6.9 Billion Fund Dumps These 3 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/6-9-billion-fund-dumps-181757159.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T18:17:57Z"
+        },
+        {
+          "title": "Halliburton (HAL) Has Fresh Attention, But What Is The Market Weighing?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-fresh-attention-market-001919561.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T00:19:19Z"
+        },
+        {
+          "title": "Halliburton Targets Egypt Growth With Proposed 50-Well Program",
+          "url": "https://finance.yahoo.com/energy/articles/halliburton-targets-egypt-growth-proposed-151800572.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T15:18:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "FTI",
       "name": "TechnipFMC",
       "price": 62.43,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.2,
-      "change_pct": -4.43
+      "price": 82.03,
+      "change_pct": -1.48
     },
     {
       "label": "Brent",
-      "price": 89.24,
-      "change_pct": -4.19
+      "price": 89.09,
+      "change_pct": -3.11
     },
     {
       "label": "NatGas",
-      "price": 3.38,
-      "change_pct": 5.27
+      "price": 3.39,
+      "change_pct": 5.55
     }
   ]
 }
