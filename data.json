@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T21:44:32+00:00",
-  "as_of_local": "2026-11-19 21:44:32 UTC",
+  "as_of_utc": "2026-11-19T21:49:26+00:00",
+  "as_of_local": "2026-11-19 21:49:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETN"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -199,6 +197,34 @@
           "url": "https://finance.yahoo.com/energy/articles/drilling-yield-gulf-chevron-drops-205000194.html",
           "publisher": "MarketBeat",
           "published": "2026-11-18T20:50:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ETN",
+      "name": "Eaton",
+      "price": 330.57,
+      "previous_close": 338.34,
+      "change_pct": -2.3,
+      "market_cap": 128426447845.45898,
+      "headlines": [
+        {
+          "title": "The Concern Behind Erste Group\u2019s Call on Eaton (ETN)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/concern-behind-erste-group-call-151651946.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-19T15:16:51Z"
+        },
+        {
+          "title": "Are You Overpaying For Vertiv Stock Versus Its Rivals?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/overpaying-vertiv-stock-versus-rivals-120804459.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T12:08:04Z"
+        },
+        {
+          "title": "Your FCX Stock Rides Chips, Gold And The Dollar",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/fcx-stock-rides-chips-gold-111820839.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T11:18:20Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.16,
-      "change_pct": -0.12
+      "price": 83.13,
+      "change_pct": -0.16
     },
     {
       "label": "Brent",
-      "price": 90.15,
-      "change_pct": -1.96
+      "price": 90.12,
+      "change_pct": -1.99
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -3.71
+      "change_pct": -3.65
     }
   ]
 }
