@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T12:58:17+00:00",
-  "as_of_local": "2026-11-19 12:58:17 UTC",
+  "as_of_utc": "2026-11-19T13:03:12+00:00",
+  "as_of_local": "2026-11-19 13:03:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -897,34 +899,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-defensive-dividend-stocks-retail-031358883.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-14T03:13:58Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BE",
-      "name": "Bloom Energy",
-      "price": 170.98,
-      "previous_close": 173.46,
-      "change_pct": -1.43,
-      "market_cap": 50551379422.038345,
-      "headlines": [
-        {
-          "title": "EXCLUSIVE: AI Data Centers Face Years Waiting for Grid Power. Bloom Says They Don\u2019t Have to Wait",
-          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-ai-data-centers-face-195026251.html",
-          "publisher": "Benzinga Prediction Markets",
-          "published": "2026-11-18T19:50:20Z"
-        },
-        {
-          "title": "Leopold Aschenbrenner\u2019s AI Fund Cut Its Reported Holdings 92% in One Quarter",
-          "url": "https://finance.yahoo.com/markets/options/articles/leopold-aschenbrenner-ai-fund-cut-181021095.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T18:10:21Z"
-        },
-        {
-          "title": "FuelCell Energy Is Down 38% in a Month. What Will It Take to Get FCEL Stock Back to $10?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-down-38-month-180255764.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T18:02:55Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.15,
-      "change_pct": -0.13
+      "price": 83.22,
+      "change_pct": -0.05
     },
     {
       "label": "Brent",
-      "price": 90.16,
-      "change_pct": -1.95
+      "price": 90.18,
+      "change_pct": -1.92
     },
     {
       "label": "NatGas",
-      "price": 3.35,
-      "change_pct": -0.62
+      "price": 3.33,
+      "change_pct": -1.13
     }
   ]
 }
