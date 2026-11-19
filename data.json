@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-19T12:07:28+00:00",
-  "as_of_local": "2026-11-19 12:07:28 UTC",
+  "as_of_utc": "2026-11-19T12:12:29+00:00",
+  "as_of_local": "2026-11-19 12:12:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "KMI"
+    "VLO"
   ],
   "stocks": [
     {
@@ -343,34 +343,6 @@
       ]
     },
     {
-      "symbol": "VLO",
-      "name": "Valero Energy",
-      "price": 343.7,
-      "previous_close": 363.77,
-      "change_pct": -5.52,
-      "market_cap": 95852571684.35059,
-      "headlines": [
-        {
-          "title": "Is Chevron Stock Increasing Your Market Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-increasing-market-risk-180353089.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T18:03:53Z"
-        },
-        {
-          "title": "Is Exxon Mobil Stock a Good Fit For Your Portfolio Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-stock-good-fit-153117672.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T15:31:17Z"
-        },
-        {
-          "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
-          "url": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-18T01:00:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "PSX",
       "name": "Phillips 66",
       "price": 244.83,
@@ -647,6 +619,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/slb-stock-analyst-estimates-ratings-074754675.html",
           "publisher": "Barchart",
           "published": "2026-11-16T07:47:54Z"
+        }
+      ]
+    },
+    {
+      "symbol": "KMI",
+      "name": "Kinder Morgan",
+      "price": 31.36,
+      "previous_close": 31.7,
+      "change_pct": -1.07,
+      "market_cap": 69861150941.12947,
+      "headlines": [
+        {
+          "title": "3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-dividends-built-roth-194751819.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-18T19:47:51Z"
+        },
+        {
+          "title": "Meet Wall Street\u2019s Reliable High-Yield Dividend Stocks: 5 Companies That Pass the Yield Trap Test",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meet-wall-street-reliable-high-125207408.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-18T12:52:07Z"
+        },
+        {
+          "title": "A 66-Year-Old Swapped QYLD for JEPQ in a $1.27 Million Portfolio. Here\u2019s What Happened to His $8,467 Monthly Paycheck",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/66-old-swapped-qyld-jepq-185931164.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-17T18:59:31Z"
         }
       ]
     },
@@ -1940,8 +1940,8 @@
           "name": "Valero Energy Corp",
           "short": "Valero",
           "weight_pct": 4.28,
-          "change_pct": -5.52,
-          "price": 343.7,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2039,8 +2039,8 @@
         "name": "Valero Energy Corp",
         "short": "Valero",
         "weight_pct": 4.28,
-        "change_pct": -5.52,
-        "price": 343.7,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.18,
-      "change_pct": -1.3
+      "price": 82.37,
+      "change_pct": -1.07
     },
     {
       "label": "Brent",
-      "price": 89.09,
-      "change_pct": -3.11
+      "price": 89.33,
+      "change_pct": -2.85
     },
     {
       "label": "NatGas",
-      "price": 3.38,
-      "change_pct": 0.15
+      "price": 3.4,
+      "change_pct": 0.8
     }
   ]
 }
