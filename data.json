@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-19T14:09:06+00:00",
-  "as_of_local": "2026-11-19 14:09:06 UTC",
+  "as_of_utc": "2026-11-19T14:14:20+00:00",
+  "as_of_local": "2026-11-19 14:14:20 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "HAL"
+    "UEC"
   ],
   "stocks": [
     {
@@ -1127,6 +1127,34 @@
       ]
     },
     {
+      "symbol": "HAL",
+      "name": "Halliburton",
+      "price": 31.44,
+      "previous_close": 31.97,
+      "change_pct": -1.66,
+      "market_cap": 26004852634.213123,
+      "headlines": [
+        {
+          "title": "Is Liberty Energy Spending Too Much?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-spending-too-much-113901871.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T11:39:01Z"
+        },
+        {
+          "title": "A $6.9 Billion Fund Dumps These 3 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/6-9-billion-fund-dumps-181757159.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T18:17:57Z"
+        },
+        {
+          "title": "Halliburton (HAL) Has Fresh Attention, But What Is The Market Weighing?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-fresh-attention-market-001919561.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-18T00:19:19Z"
+        }
+      ]
+    },
+    {
       "symbol": "FTI",
       "name": "TechnipFMC",
       "price": 62.43,
@@ -1631,34 +1659,6 @@
       ]
     },
     {
-      "symbol": "UEC",
-      "name": "Uranium Energy Corp",
-      "price": 5.92,
-      "previous_close": 6.07,
-      "change_pct": -2.47,
-      "market_cap": 2933861254.6101093,
-      "headlines": [
-        {
-          "title": "The Best Uranium Stocks to Buy and Hold as Nuclear Power Expands",
-          "url": "https://finance.yahoo.com/energy/articles/best-uranium-stocks-buy-hold-100000182.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-12T10:00:00Z"
-        },
-        {
-          "title": "Purepoint Uranium CEO explains why rising uranium prices aren't lifting stocks",
-          "url": "https://finance.yahoo.com/news/purepoint-uranium-ceo-explains-why-151300252.html",
-          "publisher": "Proactive",
-          "published": "2026-11-06T15:13:00Z"
-        },
-        {
-          "title": "Is Uranium Energy (UEC) Priced Too Richly On Book Value?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-priced-too-002024703.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-06T00:20:24Z"
-        }
-      ]
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 91.76,
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.4,
-      "change_pct": 0.17
+      "price": 83.38,
+      "change_pct": 0.14
     },
     {
       "label": "Brent",
-      "price": 89.92,
-      "change_pct": -2.21
+      "price": 90.11,
+      "change_pct": -2.0
     },
     {
       "label": "NatGas",
-      "price": 3.39,
-      "change_pct": 0.65
+      "price": 3.4,
+      "change_pct": 0.89
     }
   ]
 }
