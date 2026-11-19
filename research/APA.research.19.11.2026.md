@@ -4,8 +4,8 @@ Signed file: `APA.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $44.90 (2026-11-19, ~15-min delayed) |
-| Market cap | $15.08B |
+| Current price | $44.97 (2026-11-19, ~15-min delayed) |
+| Market cap | $15.10B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
 | Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
@@ -15,10 +15,10 @@ Signed file: `APA.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +85.33%; price +15.83% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -14.99% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +85.62%; price +16.01% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.86% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.49%, revenue growth 31.50%. |
-| Value attractiveness | Reasonable | Forward P/E 7.66, EV/Sales 2.12. |
+| Value attractiveness | Reasonable | Forward P/E 7.67, EV/Sales 2.12. |
 | Risk level | Elevated | Beta 0.28, ATR 4.1% of price, short float 9.07%. |
 
 **Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
@@ -44,22 +44,22 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $44.90; 52w high $52.82 (-14.99%); 52w low $22.73 (+97.54%) |
-| Trend | +15.83% vs SMA200, -2.88% vs SMA50, -6.08% vs SMA20 |
-| Momentum | RSI(14) 42.7 (neutral) |
+| Price vs 52-week range | Close $44.97; 52w high $52.82 (-14.86%); 52w low $22.73 (+97.85%) |
+| Trend | +16.01% vs SMA200, -2.73% vs SMA50, -5.94% vs SMA20 |
+| Momentum | RSI(14) 42.9 (neutral) |
 | Volatility | ATR(14) 1.85 (~4.1% of price); beta 0.28 |
-| Setup perspective | -14.99% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -14.86% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -5.8% |
-| Month | -9.1% |
-| Quarter | +4.0% |
-| Half Y | +18.5% |
-| 1Y | +85.3% |
-| YTD | +82.1% |
+| Week | -5.6% |
+| Month | -8.9% |
+| Quarter | +4.2% |
+| Half Y | +18.7% |
+| 1Y | +85.6% |
+| YTD | +82.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $9.24B | Revenue growth 31.50% y/y |
 | Profitability | Gross 78.98%, operating 43.31%, net 23.49% | ROA 14.06%, ROE 33.32% |
 | Balance sheet | Cash $75.00M, debt $3.43B | Current ratio 0.84, debt/equity 42.23 |
-| Valuation | P/E 7.30, forward P/E 7.66, P/S 1.63, P/B 2.13 | EV/Sales 2.12, EV/EBITDA 3.07 |
+| Valuation | P/E 7.31, forward P/E 7.67, P/S 1.63, P/B 2.13 | EV/Sales 2.12, EV/EBITDA 3.07 |
 | Growth expectations | Earnings growth 250.90%, EPS q/q 240.50% | Analyst mean target $50.50 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,18 +111,18 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $44.90 | EV/Sales | 2.12 |
-| Market cap | $15.08B | EV/EBITDA | 3.07 |
+| Price | $44.97 | EV/Sales | 2.12 |
+| Market cap | $15.10B | EV/EBITDA | 3.07 |
 | Beta | 0.28 | Gross margin | 78.98% |
-| RSI(14) | 42.7 | Operating margin | 43.31% |
+| RSI(14) | 42.9 | Operating margin | 43.31% |
 | ATR(14) | 1.85 | Profit margin | 23.49% |
-| SMA20 dist | -6.08% | ROA | 14.06% |
-| SMA50 dist | -2.88% | ROE | 33.32% |
-| SMA200 dist | +15.83% | Revenue (ttm) | $9.24B |
+| SMA20 dist | -5.94% | ROA | 14.06% |
+| SMA50 dist | -2.73% | ROE | 33.32% |
+| SMA200 dist | +16.01% | Revenue (ttm) | $9.24B |
 | 52W high | $52.82 | Revenue growth y/y | 31.50% |
 | 52W low | $22.73 | Inst. ownership | 110.01% |
-| P/E (ttm) | 7.30 | Insider ownership | 0.46% |
-| Forward P/E | 7.66 | Short float | 9.07% |
+| P/E (ttm) | 7.31 | Insider ownership | 0.46% |
+| Forward P/E | 7.67 | Short float | 9.07% |
 | PEG (trailing) | 1.16 | Avg volume | 5,600,137 |
 | P/S | 1.63 | Employees | 1,791 |
 | P/B | 2.13 | Analyst rec (1=buy..5=sell) | 2.6 |

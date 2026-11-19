@@ -4,8 +4,8 @@ Signed file: `TLN.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $358.61 (2026-11-19, ~15-min delayed) |
-| Market cap | $15.60B |
+| Current price | $356.86 (2026-11-19, ~15-min delayed) |
+| Market cap | $15.53B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `TLN.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y -4.32%; price +2.70% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -18.15% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y -4.79%; price +2.20% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.55% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-5.67%). |
-| Value attractiveness | Reasonable | Forward P/E 11.14, EV/Sales 5.56. |
+| Value attractiveness | Reasonable | Forward P/E 11.09, EV/Sales 5.56. |
 | Risk level | High | Beta 1.58, ATR 5.4% of price, short float 10.86%. |
 
 **Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $358.61; 52w high $438.12 (-18.15%); 52w low $282.15 (+27.10%) |
-| Trend | +2.70% vs SMA200, +6.15% vs SMA50, +2.14% vs SMA20 |
-| Momentum | RSI(14) 52.4 (neutral) |
+| Price vs 52-week range | Close $356.86; 52w high $438.12 (-18.55%); 52w low $282.15 (+26.48%) |
+| Trend | +2.20% vs SMA200, +5.64% vs SMA50, +1.67% vs SMA20 |
+| Momentum | RSI(14) 51.8 (neutral) |
 | Volatility | ATR(14) 19.24 (~5.4% of price); beta 1.58 |
-| Setup perspective | -18.15% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -18.55% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -7.3% |
-| Month | -0.2% |
-| Quarter | +14.0% |
-| Half Y | -0.5% |
-| 1Y | -4.3% |
-| YTD | -9.6% |
+| Week | -7.7% |
+| Month | -0.7% |
+| Quarter | +13.5% |
+| Half Y | -1.0% |
+| 1Y | -4.8% |
+| YTD | -10.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 | Revenue (ttm) | $4.48B | Revenue growth 96.10% y/y |
 | Profitability | Gross 42.67%, operating 3.33%, net -5.67% | ROA 0.88%, ROE -16.54% |
 | Balance sheet | Cash $339.00M, debt $9.57B | Current ratio 0.89, debt/equity 596.94 |
-| Valuation | P/E —, forward P/E 11.14, P/S 3.48, P/B 10.74 | EV/Sales 5.56, EV/EBITDA 36.98 |
+| Valuation | P/E —, forward P/E 11.09, P/S 3.46, P/B 10.69 | EV/Sales 5.56, EV/EBITDA 36.98 |
 | Growth expectations | Earnings growth -32.20%, EPS q/q -33.30% | Analyst mean target $452.65 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,21 +112,21 @@ Talen Energy Corporation, an independent power producer and infrastructure compa
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $358.61 | EV/Sales | 5.56 |
-| Market cap | $15.60B | EV/EBITDA | 36.98 |
+| Price | $356.86 | EV/Sales | 5.56 |
+| Market cap | $15.53B | EV/EBITDA | 36.98 |
 | Beta | 1.58 | Gross margin | 42.67% |
-| RSI(14) | 52.4 | Operating margin | 3.33% |
+| RSI(14) | 51.8 | Operating margin | 3.33% |
 | ATR(14) | 19.24 | Profit margin | -5.67% |
-| SMA20 dist | +2.14% | ROA | 0.88% |
-| SMA50 dist | +6.15% | ROE | -16.54% |
-| SMA200 dist | +2.70% | Revenue (ttm) | $4.48B |
+| SMA20 dist | +1.67% | ROA | 0.88% |
+| SMA50 dist | +5.64% | ROE | -16.54% |
+| SMA200 dist | +2.20% | Revenue (ttm) | $4.48B |
 | 52W high | $438.12 | Revenue growth y/y | 96.10% |
 | 52W low | $282.15 | Inst. ownership | 114.91% |
 | P/E (ttm) | — | Insider ownership | 1.50% |
-| Forward P/E | 11.14 | Short float | 10.86% |
+| Forward P/E | 11.09 | Short float | 10.86% |
 | PEG (trailing) | — | Avg volume | 1,012,107 |
-| P/S | 3.48 | Employees | 1,880 |
-| P/B | 10.74 | Analyst rec (1=buy..5=sell) | 1.5 |
+| P/S | 3.46 | Employees | 1,880 |
+| P/B | 10.69 | Analyst rec (1=buy..5=sell) | 1.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

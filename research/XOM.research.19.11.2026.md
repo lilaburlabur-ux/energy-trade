@@ -4,8 +4,8 @@ Signed file: `XOM.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $159.07 (2026-11-19, ~15-min delayed) |
-| Market cap | $648.88B |
+| Current price | $159.08 (2026-11-19, ~15-min delayed) |
+| Market cap | $648.92B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,7 +15,7 @@ Signed file: `XOM.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +37.18%; price +2.76% vs SMA200. |
+| Technical momentum | Moderate | 1Y +37.19%; price +2.77% vs SMA200. |
 | Fresh setup quality | Moderate / wait | -14.51% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
 | Value attractiveness | Reasonable | Forward P/E 12.74, EV/Sales 1.76. |
@@ -36,16 +36,16 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
+| Trump Cheers the “Biggest Drop in Gasoline in 18 Years.” Not Good for Exxon and Chevron | TIKR | 2026-11-19 |
 | How Retirees Can Turn $1 Million Into Passive Income With These 5 Dividend Stocks | 24/7 Wall St. | 2026-11-19 |
 | Will Eni's Expanded Lummus Partnership Boost Chemical Growth? | Zacks | 2026-11-19 |
 | Erste Group Upgrades ExxonMobil (XOM). Here’s What Drove It. | Insider Monkey | 2026-11-19 |
-| 1-Year Treasury Bills Yield 4.59%. Dividend Stocks Have a Higher Bar to Clear | 24/7 Wall St. | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $159.07; 52w high $186.08 (-14.51%); 52w low $111.55 (+42.59%) |
-| Trend | +2.76% vs SMA200, -5.59% vs SMA50, -7.26% vs SMA20 |
+| Price vs 52-week range | Close $159.08; 52w high $186.08 (-14.51%); 52w low $111.55 (+42.60%) |
+| Trend | +2.77% vs SMA200, -5.58% vs SMA50, -7.25% vs SMA20 |
 | Momentum | RSI(14) 35.1 (neutral) |
 | Volatility | ATR(14) 4.29 (~2.7% of price); beta 0.14 |
 | Setup perspective | -14.51% from 52w high; no clean fresh pivot by default. |
@@ -56,8 +56,8 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 |---|---|
 | Week | -5.7% |
 | Month | -10.1% |
-| Quarter | -3.1% |
-| Half Y | +3.7% |
+| Quarter | -3.0% |
+| Half Y | +3.8% |
 | 1Y | +37.2% |
 | YTD | +33.1% |
 
@@ -109,14 +109,14 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $159.07 | EV/Sales | 1.76 |
-| Market cap | $648.88B | EV/EBITDA | 8.77 |
+| Price | $159.08 | EV/Sales | 1.76 |
+| Market cap | $648.92B | EV/EBITDA | 8.77 |
 | Beta | 0.14 | Gross margin | 29.81% |
 | RSI(14) | 35.1 | Operating margin | 12.88% |
 | ATR(14) | 4.29 | Profit margin | 10.46% |
-| SMA20 dist | -7.26% | ROA | 6.75% |
-| SMA50 dist | -5.59% | ROE | 15.53% |
-| SMA200 dist | +2.76% | Revenue (ttm) | $388.23B |
+| SMA20 dist | -7.25% | ROA | 6.75% |
+| SMA50 dist | -5.58% | ROE | 15.53% |
+| SMA200 dist | +2.77% | Revenue (ttm) | $388.23B |
 | 52W high | $186.08 | Revenue growth y/y | 32.60% |
 | 52W low | $111.55 | Inst. ownership | 67.11% |
 | P/E (ttm) | 16.37 | Insider ownership | 0.11% |

@@ -4,8 +4,8 @@ Signed file: `NXE.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $7.01 (2026-11-19, ~15-min delayed) |
-| Market cap | $4.83B |
+| Current price | $6.99 (2026-11-19, ~15-min delayed) |
+| Market cap | $4.81B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `NXE.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-32.82%) with negative half-year (-33.38%). |
-| Fresh setup quality | Poor / broken | -49.60% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-33.01%) with negative half-year (-33.57%). |
+| Fresh setup quality | Poor / broken | -49.75% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -56.29, EV/Sales —. |
+| Value attractiveness | Reasonable | Forward P/E -56.13, EV/Sales —. |
 | Risk level | High | Beta 1.66, ATR 6.0% of price, short float —. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $7.01; 52w high $13.92 (-49.60%); 52w low $7.01 (+0.00%) |
-| Trend | -32.82% vs SMA200, -18.74% vs SMA50, -12.98% vs SMA20 |
-| Momentum | RSI(14) 31.0 (neutral) |
+| Price vs 52-week range | Close $6.99; 52w high $13.92 (-49.75%); 52w low $6.99 (+0.00%) |
+| Trend | -33.01% vs SMA200, -18.97% vs SMA50, -13.22% vs SMA20 |
+| Momentum | RSI(14) 30.8 (neutral) |
 | Volatility | ATR(14) 0.42 (~6.0% of price); beta 1.66 |
-| Setup perspective | -49.60% from 52w high — base needs to rebuild. |
+| Setup perspective | -49.75% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.9% |
-| Month | -17.8% |
-| Quarter | -35.4% |
-| Half Y | -33.4% |
-| 1Y | -12.5% |
-| YTD | -31.6% |
+| Week | -11.1% |
+| Month | -18.0% |
+| Quarter | -35.6% |
+| Half Y | -33.6% |
+| 1Y | -12.8% |
+| YTD | -31.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 | Revenue (ttm) | — | Revenue growth — y/y |
 | Profitability | Gross 0.00%, operating 0.00%, net 0.00% | ROA -4.15%, ROE -10.28% |
 | Balance sheet | Cash $821.57M, debt $514.88M | Current ratio 1.42, debt/equity 26.62 |
-| Valuation | P/E —, forward P/E -56.29, P/S —, P/B 3.45 | EV/Sales —, EV/EBITDA -34.99 |
+| Valuation | P/E —, forward P/E -56.13, P/S —, P/B 3.44 | EV/Sales —, EV/EBITDA -34.99 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $15.32 (2 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -111,21 +111,21 @@ NexGen Energy Ltd., an exploration and development stage company, engages in the
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $7.01 | EV/Sales | — |
-| Market cap | $4.83B | EV/EBITDA | -34.99 |
+| Price | $6.99 | EV/Sales | — |
+| Market cap | $4.81B | EV/EBITDA | -34.99 |
 | Beta | 1.66 | Gross margin | 0.00% |
-| RSI(14) | 31.0 | Operating margin | 0.00% |
+| RSI(14) | 30.8 | Operating margin | 0.00% |
 | ATR(14) | 0.42 | Profit margin | 0.00% |
-| SMA20 dist | -12.98% | ROA | -4.15% |
-| SMA50 dist | -18.74% | ROE | -10.28% |
-| SMA200 dist | -32.82% | Revenue (ttm) | — |
+| SMA20 dist | -13.22% | ROA | -4.15% |
+| SMA50 dist | -18.97% | ROE | -10.28% |
+| SMA200 dist | -33.01% | Revenue (ttm) | — |
 | 52W high | $13.92 | Revenue growth y/y | — |
-| 52W low | $7.01 | Inst. ownership | 54.39% |
+| 52W low | $6.99 | Inst. ownership | 54.39% |
 | P/E (ttm) | — | Insider ownership | 7.71% |
-| Forward P/E | -56.29 | Short float | — |
+| Forward P/E | -56.13 | Short float | — |
 | PEG (trailing) | — | Avg volume | 5,016,895 |
 | P/S | — | Employees | 142 |
-| P/B | 3.45 | Analyst rec (1=buy..5=sell) | 1.6 |
+| P/B | 3.44 | Analyst rec (1=buy..5=sell) | 1.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

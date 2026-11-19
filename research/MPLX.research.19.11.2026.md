@@ -4,8 +4,8 @@ Signed file: `MPLX.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $56.24 (2026-11-19, ~15-min delayed) |
-| Market cap | $56.97B |
+| Current price | $56.23 (2026-11-19, ~15-min delayed) |
+| Market cap | $56.96B |
 | Sector / Industry | Energy / Oil & Gas Midstream |
 | Main theme | Oil & Gas Midstream — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `MPLX.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +15.05%; price +1.91% vs SMA200. |
-| Fresh setup quality | Watch | -4.58% from 52w high and near SMA20 — check for a tight base. |
+| Technical momentum | Moderate | 1Y +15.03%; price +1.89% vs SMA200. |
+| Fresh setup quality | Watch | -4.60% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 35.03%, revenue growth 12.70%. |
 | Value attractiveness | Reasonable | Forward P/E 11.73, EV/Sales 6.78. |
 | Risk level | Moderate | Beta 0.45, ATR 1.9% of price, short float 1.88%. |
@@ -44,11 +44,11 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $56.24; 52w high $58.94 (-4.58%); 52w low $48.28 (+16.48%) |
-| Trend | +1.91% vs SMA200, -0.88% vs SMA50, -1.33% vs SMA20 |
+| Price vs 52-week range | Close $56.23; 52w high $58.94 (-4.60%); 52w low $48.28 (+16.46%) |
+| Trend | +1.89% vs SMA200, -0.90% vs SMA50, -1.35% vs SMA20 |
 | Momentum | RSI(14) 45.4 (neutral) |
 | Volatility | ATR(14) 1.08 (~1.9% of price); beta 0.45 |
-| Setup perspective | -4.58% from 52w high and near SMA20 — check for a tight base. |
+| Setup perspective | -4.60% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
@@ -110,14 +110,14 @@ MPLX LP owns and operates midstream energy infrastructure and logistics assets p
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $56.24 | EV/Sales | 6.78 |
-| Market cap | $56.97B | EV/EBITDA | 13.55 |
+| Price | $56.23 | EV/Sales | 6.78 |
+| Market cap | $56.96B | EV/EBITDA | 13.55 |
 | Beta | 0.45 | Gross margin | 54.82% |
 | RSI(14) | 45.4 | Operating margin | 38.30% |
 | ATR(14) | 1.08 | Profit margin | 35.03% |
-| SMA20 dist | -1.33% | ROA | 6.79% |
-| SMA50 dist | -0.88% | ROE | 30.44% |
-| SMA200 dist | +1.91% | Revenue (ttm) | $12.41B |
+| SMA20 dist | -1.35% | ROA | 6.79% |
+| SMA50 dist | -0.90% | ROE | 30.44% |
+| SMA200 dist | +1.89% | Revenue (ttm) | $12.41B |
 | 52W high | $58.94 | Revenue growth y/y | 12.70% |
 | 52W low | $48.28 | Inst. ownership | 19.34% |
 | P/E (ttm) | 13.14 | Insider ownership | 64.08% |

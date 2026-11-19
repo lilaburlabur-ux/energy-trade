@@ -4,8 +4,8 @@ Signed file: `OKLO.research.19.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $21.08 (2026-11-19, ~15-min delayed) |
-| Market cap | $4.12B |
+| Current price | $20.98 (2026-11-19, ~15-min delayed) |
+| Market cap | $4.10B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `OKLO.research.19.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-57.43%) with negative half-year (-67.61%). |
-| Fresh setup quality | Poor / broken | -81.12% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-57.63%) with negative half-year (-67.77%). |
+| Fresh setup quality | Poor / broken | -81.21% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
-| Value attractiveness | Reasonable | Forward P/E -18.55, EV/Sales 573.07. |
-| Risk level | High | Beta 1.31, ATR 10.4% of price, short float 21.88%. |
+| Value attractiveness | Reasonable | Forward P/E -18.46, EV/Sales 573.07. |
+| Risk level | High | Beta 1.31, ATR 10.5% of price, short float 21.88%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $21.08; 52w high $111.65 (-81.12%); 52w low $19.20 (+9.79%) |
-| Trend | -57.43% vs SMA200, -30.97% vs SMA50, -13.09% vs SMA20 |
-| Momentum | RSI(14) 34.8 (neutral) |
-| Volatility | ATR(14) 2.20 (~10.4% of price); beta 1.31 |
-| Setup perspective | -81.12% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $20.98; 52w high $111.65 (-81.21%); 52w low $19.20 (+9.27%) |
+| Trend | -57.63% vs SMA200, -31.29% vs SMA50, -13.49% vs SMA20 |
+| Momentum | RSI(14) 34.6 (neutral) |
+| Volatility | ATR(14) 2.20 (~10.5% of price); beta 1.31 |
+| Setup perspective | -81.21% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -13.8% |
-| Month | -24.0% |
-| Quarter | -49.9% |
-| Half Y | -67.6% |
-| 1Y | -78.2% |
-| YTD | -72.9% |
+| Week | -14.2% |
+| Month | -24.3% |
+| Quarter | -50.2% |
+| Half Y | -67.8% |
+| 1Y | -78.3% |
+| YTD | -73.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $3.07M | Revenue growth — y/y |
 | Profitability | Gross 41.06%, operating -8587.07%, net 0.00% | ROA -6.57%, ROE -6.79% |
 | Balance sheet | Cash $2.50B, debt $4.41M | Current ratio 31.20, debt/equity 0.12 |
-| Valuation | P/E —, forward P/E -18.55, P/S 1,340.51, P/B 1.13 | EV/Sales 573.07, EV/EBITDA -6.71 |
+| Valuation | P/E —, forward P/E -18.46, P/S 1,334.15, P/B 1.12 | EV/Sales 573.07, EV/EBITDA -6.71 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $55.43 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Goldman Sachs Group Inc | 1,749,064 | 0.90% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.31, ATR 10.4% of price, short float 21.88%. Size positions accordingly.
+- **Volatility risk:** Beta 1.31, ATR 10.5% of price, short float 21.88%. Size positions accordingly.
 - **Short interest risk:** short float 21.88% can fuel squeezes both ways around news.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
@@ -112,21 +112,21 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $21.08 | EV/Sales | 573.07 |
-| Market cap | $4.12B | EV/EBITDA | -6.71 |
+| Price | $20.98 | EV/Sales | 573.07 |
+| Market cap | $4.10B | EV/EBITDA | -6.71 |
 | Beta | 1.31 | Gross margin | 41.06% |
-| RSI(14) | 34.8 | Operating margin | -8587.07% |
+| RSI(14) | 34.6 | Operating margin | -8587.07% |
 | ATR(14) | 2.20 | Profit margin | 0.00% |
-| SMA20 dist | -13.09% | ROA | -6.57% |
-| SMA50 dist | -30.97% | ROE | -6.79% |
-| SMA200 dist | -57.43% | Revenue (ttm) | $3.07M |
+| SMA20 dist | -13.49% | ROA | -6.57% |
+| SMA50 dist | -31.29% | ROE | -6.79% |
+| SMA200 dist | -57.63% | Revenue (ttm) | $3.07M |
 | 52W high | $111.65 | Revenue growth y/y | — |
 | 52W low | $19.20 | Inst. ownership | 49.31% |
 | P/E (ttm) | — | Insider ownership | 14.62% |
-| Forward P/E | -18.55 | Short float | 21.88% |
+| Forward P/E | -18.46 | Short float | 21.88% |
 | PEG (trailing) | — | Avg volume | 10,085,937 |
-| P/S | 1,340.51 | Employees | 215 |
-| P/B | 1.13 | Analyst rec (1=buy..5=sell) | 2.1 |
+| P/S | 1,334.15 | Employees | 215 |
+| P/B | 1.12 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
