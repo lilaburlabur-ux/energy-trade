@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T11:11:57+00:00",
-  "as_of_local": "2026-11-19 11:11:57 UTC",
+  "as_of_utc": "2026-11-19T11:16:59+00:00",
+  "as_of_local": "2026-11-19 11:16:59 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 655041547526.7993,
       "headlines": [
         {
+          "title": "ETFs Are Buying ExxonMobil (XOM) on Nov. 17",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-exxonmobil-xom-nov-110201088.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-19T11:02:01Z"
+        },
+        {
           "title": "ExxonMobil (XOM) Just Achieved Something 95% of S&P 500 (GSPC) Members Haven't Done",
           "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-xom-just-achieved-something-212500319.html",
           "publisher": "Motley Fool",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/drove-venture-globals-69-ebitda-182955627.html",
           "publisher": "Trefis",
           "published": "2026-11-18T18:29:55Z"
-        },
-        {
-          "title": "Is Chevron Stock Increasing Your Market Risk?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-increasing-market-risk-180353089.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T18:03:53Z"
         }
       ]
     },
@@ -41,6 +41,12 @@
       "market_cap": 401724118401.2859,
       "headlines": [
         {
+          "title": "ETFs Bought $49.7 Million of Chevron (CVX) on Nov. 17",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-49-7-million-110142732.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-19T11:01:42Z"
+        },
+        {
           "title": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ken-griffin-dumps-spacex-amazon-223005217.html",
           "publisher": "Benzinga",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/energy/articles/3-energy-stocks-dividends-built-215502112.html",
           "publisher": "Motley Fool",
           "published": "2026-11-18T21:55:02Z"
-        },
-        {
-          "title": "Forget Market Crashes: These Dow Jones Giants Have Recession-Proof Dividends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-market-crashes-dow-jones-203236866.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T20:32:36Z"
         }
       ]
     },
@@ -775,16 +775,16 @@
           "published": "2026-11-19T11:04:03Z"
         },
         {
+          "title": "Dominion Energy (D) Sees $123.0 Million in Net ETF Buying on Nov. 17",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-sees-123-110107437.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-19T11:01:07Z"
+        },
+        {
           "title": "NextEra-Dominion merger hearings kick off with focus on scope",
           "url": "https://finance.yahoo.com/energy/articles/nextera-dominion-merger-hearings-kick-155014735.html",
           "publisher": "Utility Dive",
           "published": "2026-11-18T15:50:14Z"
-        },
-        {
-          "title": "Virginia regulators start Dominion-NextEra merger hearing",
-          "url": "https://finance.yahoo.com/energy/articles/virginia-regulators-start-dominion-nextera-220800653.html",
-          "publisher": "The Virginian-Pilot",
-          "published": "2026-11-17T22:08:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.4,
-      "change_pct": -1.03
+      "price": 82.49,
+      "change_pct": -0.92
     },
     {
       "label": "Brent",
-      "price": 89.28,
-      "change_pct": -2.9
+      "price": 89.38,
+      "change_pct": -2.79
     },
     {
       "label": "NatGas",
       "price": 3.37,
-      "change_pct": 0.0
+      "change_pct": -0.12
     }
   ]
 }
