@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T07:37:57+00:00",
-  "as_of_local": "2026-11-19 07:37:57 UTC",
+  "as_of_utc": "2026-11-19T07:43:09+00:00",
+  "as_of_local": "2026-11-19 07:43:09 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FTI"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1155,6 +1153,34 @@
       ]
     },
     {
+      "symbol": "FTI",
+      "name": "TechnipFMC",
+      "price": 62.43,
+      "previous_close": 62.67,
+      "change_pct": -0.38,
+      "market_cap": 24274865909.44252,
+      "headlines": [
+        {
+          "title": "California Resources Builds Integrated Energy Growth Platform",
+          "url": "https://finance.yahoo.com/energy/articles/california-resources-builds-integrated-energy-142700805.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T14:27:00Z"
+        },
+        {
+          "title": "Petrobras Awards $410M Subsea Contract to Expand Brazil Operations",
+          "url": "https://finance.yahoo.com/energy/articles/petrobras-awards-410m-subsea-contract-142100318.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T14:21:00Z"
+        },
+        {
+          "title": "Baker Hughes & TPAO Partner on Next-Generation Geothermal in Turkiye",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-tpao-partner-next-113400937.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T11:34:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "HUBB",
       "name": "Hubbell",
       "price": 426.47,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.46,
-      "change_pct": -0.96
+      "price": 82.36,
+      "change_pct": -1.08
     },
     {
       "label": "Brent",
-      "price": 89.55,
-      "change_pct": -2.61
+      "price": 89.37,
+      "change_pct": -2.81
     },
     {
       "label": "NatGas",
       "price": 3.35,
-      "change_pct": -0.74
+      "change_pct": -0.71
     }
   ]
 }
