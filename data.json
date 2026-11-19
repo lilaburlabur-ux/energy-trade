@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T23:50:29+00:00",
-  "as_of_local": "2026-11-19 23:50:29 UTC",
+  "as_of_utc": "2026-11-19T23:55:34+00:00",
+  "as_of_local": "2026-11-19 23:55:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CVX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -29,34 +31,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-turn-1-million-passive-180050853.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-19T18:00:50Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CVX",
-      "name": "Chevron",
-      "price": 206.5,
-      "previous_close": 205.88,
-      "change_pct": 0.3,
-      "market_cap": 402933886159.0,
-      "headlines": [
-        {
-          "title": "Trump Cheers the \u201cBiggest Drop in Gasoline in 18 Years.\u201d Not Good for Exxon and Chevron",
-          "url": "https://finance.yahoo.com/energy/articles/trump-cheers-biggest-drop-gasoline-195817716.html",
-          "publisher": "TIKR",
-          "published": "2026-11-19T19:58:17Z"
-        },
-        {
-          "title": "Best Blue Chip Stocks: 21 Hedge Fund Top Picks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-blue-chip-stocks-21-174451496.html",
-          "publisher": "Kiplinger",
-          "published": "2026-11-19T18:46:25Z"
-        },
-        {
-          "title": "Nasdaq Drops on Anthropic\u2019s Pop",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111926/card/wall-street-is-selling-the-news-too-after-anthropic-debut-W7n0ktGOTj6pJZCiT2O9?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-19T17:08:54Z"
         }
       ]
     },
@@ -1930,8 +1904,8 @@
           "name": "Chevron Corp",
           "short": "Chevron",
           "weight_pct": 18.29,
-          "change_pct": 0.3,
-          "price": 206.5,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2029,8 +2003,8 @@
         "name": "Chevron Corp",
         "short": "Chevron",
         "weight_pct": 18.29,
-        "change_pct": 0.3,
-        "price": 206.5,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2120,13 +2094,13 @@
     },
     {
       "label": "Brent",
-      "price": 89.89,
-      "change_pct": -2.24
+      "price": 89.85,
+      "change_pct": -2.28
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -3.62
+      "change_pct": -3.5
     }
   ]
 }
