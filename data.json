@@ -1,11 +1,37 @@
 {
-  "as_of_utc": "2026-11-19T00:07:04+00:00",
-  "as_of_local": "2026-11-19 00:07:04 UTC",
+  "as_of_utc": "2026-11-19T00:09:55+00:00",
+  "as_of_local": "2026-11-19 00:09:55 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "XOM"
-  ],
+  "errors": [],
   "stocks": [
+    {
+      "symbol": "XOM",
+      "name": "ExxonMobil",
+      "price": 160.58,
+      "previous_close": 167.21,
+      "change_pct": -3.97,
+      "market_cap": 655041547526.7993,
+      "headlines": [
+        {
+          "title": "ExxonMobil (XOM) Just Achieved Something 95% of S&P 500 (GSPC) Members Haven't Done",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-xom-just-achieved-something-212500319.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-18T21:25:00Z"
+        },
+        {
+          "title": "What Drove Venture Global's 69% EBITDA Jump?",
+          "url": "https://finance.yahoo.com/energy/articles/drove-venture-globals-69-ebitda-182955627.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T18:29:55Z"
+        },
+        {
+          "title": "Is Chevron Stock Increasing Your Market Risk?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-increasing-market-risk-180353089.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T18:03:53Z"
+        }
+      ]
+    },
     {
       "symbol": "CVX",
       "name": "Chevron",
@@ -2089,8 +2115,8 @@
     },
     {
       "label": "WTI",
-      "price": 82.0,
-      "change_pct": -4.66
+      "price": 82.04,
+      "change_pct": -4.62
     },
     {
       "label": "Brent",
@@ -2100,7 +2126,7 @@
     {
       "label": "NatGas",
       "price": 3.39,
-      "change_pct": 5.61
+      "change_pct": 5.58
     }
   ]
 }
