@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T23:45:26+00:00",
-  "as_of_local": "2026-11-19 23:45:26 UTC",
+  "as_of_utc": "2026-11-19T23:50:29+00:00",
+  "as_of_local": "2026-11-19 23:50:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -181,6 +181,12 @@
       "market_cap": 159603415839.19043,
       "headlines": [
         {
+          "title": "The 25 Biggest US IPOs of All Time",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/25-biggest-u-ipos-time-172550995.html",
+          "publisher": "Kiplinger",
+          "published": "2026-11-19T21:38:58Z"
+        },
+        {
           "title": "Your Chevron Hedge Works Only While Oil Spikes",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-hedge-works-only-while-151336974.html",
           "publisher": "Trefis",
@@ -191,12 +197,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buy-occidental-stock-cash-flow-113901476.html",
           "publisher": "Trefis",
           "published": "2026-11-19T11:39:01Z"
-        },
-        {
-          "title": "Drilling for Yield in the Gulf: Chevron Drops Anchor in Deepwater",
-          "url": "https://finance.yahoo.com/energy/articles/drilling-yield-gulf-chevron-drops-205000194.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-18T20:50:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.88,
-      "change_pct": -0.46
+      "price": 82.87,
+      "change_pct": -0.47
     },
     {
       "label": "Brent",
-      "price": 89.84,
-      "change_pct": -2.29
+      "price": 89.89,
+      "change_pct": -2.24
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -3.68
+      "change_pct": -3.62
     }
   ]
 }
