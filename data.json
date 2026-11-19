@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T09:45:23+00:00",
-  "as_of_local": "2026-11-19 09:45:23 UTC",
+  "as_of_utc": "2026-11-19T09:50:29+00:00",
+  "as_of_local": "2026-11-19 09:50:29 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "MPLX"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -785,34 +787,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-did-xcel-stock-really-114212868.html",
           "publisher": "Trefis",
           "published": "2026-11-16T11:42:12Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPLX",
-      "name": "MPLX",
-      "price": 57.38,
-      "previous_close": 57.42,
-      "change_pct": -0.07,
-      "market_cap": 58127492579.84961,
-      "headlines": [
-        {
-          "title": "Zacks Industry Outlook Highlights Kinder Morgan, The Williams and MPLX LP",
-          "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-kinder-095300150.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T09:53:00Z"
-        },
-        {
-          "title": "4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas",
-          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-141753664.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T14:17:53Z"
-        },
-        {
-          "title": "3 Oil & Gas Pipeline Stocks Offering Resilience in Uncertain Times",
-          "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-pipeline-stocks-133100733.html",
-          "publisher": "Zacks",
-          "published": "2026-11-16T13:31:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.43,
-      "change_pct": -1.0
+      "price": 82.14,
+      "change_pct": -1.35
     },
     {
       "label": "Brent",
-      "price": 89.49,
-      "change_pct": -2.68
+      "price": 89.17,
+      "change_pct": -3.02
     },
     {
       "label": "NatGas",
       "price": 3.34,
-      "change_pct": -1.07
+      "change_pct": -0.98
     }
   ]
 }
