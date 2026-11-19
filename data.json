@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-19T12:27:47+00:00",
-  "as_of_local": "2026-11-19 12:27:47 UTC",
+  "as_of_utc": "2026-11-19T12:32:42+00:00",
+  "as_of_local": "2026-11-19 12:32:42 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -97,6 +97,12 @@
       "market_cap": 204388916152.30908,
       "headlines": [
         {
+          "title": "Could GE Vernova (GEV) Gain From A $97 Million AI Infrastructure Rollout?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/could-ge-vernova-gev-gain-121131461.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-19T12:11:31Z"
+        },
+        {
           "title": "Energy Transition Today - LevelTen Energy Ventures Into Asia-Pacific Clean Energy Market",
           "url": "https://finance.yahoo.com/energy/articles/energy-transition-today-levelten-energy-113657014.html",
           "publisher": "Simply Wall St.",
@@ -107,12 +113,6 @@
           "url": "https://finance.yahoo.com/markets/commodities/articles/fcx-stock-rides-chips-gold-111820839.html",
           "publisher": "Trefis",
           "published": "2026-11-19T11:18:20Z"
-        },
-        {
-          "title": "What State Street Industrial Select Sector SPDR (XLI) Sold: GE Leads on Nov. 17",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-sector-110604426.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-19T11:06:04Z"
         }
       ]
     },
@@ -349,6 +349,12 @@
       "market_cap": 95852571684.35059,
       "headlines": [
         {
+          "title": "4 S&P 500 Stocks Paying Plump Dividends Double \u2014 And Don't Need AI",
+          "url": "https://www.investors.com/etfs-and-funds/etfs/sp-500-stocks-paying-plump-dividends-double-and-dont-need-ai/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-19T12:16:22Z"
+        },
+        {
           "title": "Is Chevron Stock Increasing Your Market Risk?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-increasing-market-risk-180353089.html",
           "publisher": "Trefis",
@@ -359,12 +365,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-stock-good-fit-153117672.html",
           "publisher": "Trefis",
           "published": "2026-11-18T15:31:17Z"
-        },
-        {
-          "title": "5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates",
-          "url": "https://finance.yahoo.com/energy/articles/5-oil-gas-stocks-crushed-010000263.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-18T01:00:00Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.77,
-      "change_pct": -0.59
+      "price": 82.87,
+      "change_pct": -0.47
     },
     {
       "label": "Brent",
-      "price": 89.83,
-      "change_pct": -2.31
+      "price": 89.92,
+      "change_pct": -2.21
     },
     {
       "label": "NatGas",
-      "price": 3.39,
-      "change_pct": 0.68
+      "price": 3.4,
+      "change_pct": 0.83
     }
   ]
 }
