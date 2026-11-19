@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T22:35:16+00:00",
-  "as_of_local": "2026-11-19 22:35:16 UTC",
+  "as_of_utc": "2026-11-19T22:40:07+00:00",
+  "as_of_local": "2026-11-19 22:40:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1233,34 +1235,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-stocks-21-billion-debt-103858509.html",
           "publisher": "Trefis",
           "published": "2026-11-17T10:38:58Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PR",
-      "name": "Permian Resources",
-      "price": 21.19,
-      "previous_close": 21.36,
-      "change_pct": -0.8,
-      "market_cap": 17772600107.5479,
-      "headlines": [
-        {
-          "title": "PR Q3 Earnings Beat on Higher Output and Stronger Pricing",
-          "url": "https://finance.yahoo.com/energy/articles/pr-q3-earnings-beat-higher-155100845.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T15:51:00Z"
-        },
-        {
-          "title": "Is Permian Resources Spending Too Much?",
-          "url": "https://finance.yahoo.com/energy/articles/permian-resources-spending-too-much-124807527.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T12:48:07Z"
-        },
-        {
-          "title": "3 US Oil And Gas Stocks Investors Are Watching As Jet Fuel Prices Stay High",
-          "url": "https://finance.yahoo.com/energy/articles/3-us-oil-gas-stocks-043936633.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-17T04:39:36Z"
         }
       ]
     },
