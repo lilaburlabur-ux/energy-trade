@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-19T00:09:55+00:00",
-  "as_of_local": "2026-11-19 00:09:55 UTC",
+  "as_of_utc": "2026-11-19T00:14:56+00:00",
+  "as_of_local": "2026-11-19 00:14:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -66,7 +68,7 @@
       "price": 94.34,
       "previous_close": 97.24,
       "change_pct": -2.98,
-      "market_cap": 266571125932.46722,
+      "market_cap": 266477571693.95883,
       "headlines": [
         {
           "title": "Shell's Rosmari-Marjoram Startup Boosts Malaysia's Gas Supply",
@@ -229,34 +231,6 @@
       ]
     },
     {
-      "symbol": "BP",
-      "name": "BP",
-      "price": 43.25,
-      "previous_close": 44.85,
-      "change_pct": -3.57,
-      "market_cap": 111396953627.75,
-      "headlines": [
-        {
-          "title": "A $6.9 Billion Fund Dumps These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/6-9-billion-fund-dumps-181757159.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T18:17:57Z"
-        },
-        {
-          "title": "Eni vs. BP: Which Energy Firm Offers a Stronger Investment Case?",
-          "url": "https://finance.yahoo.com/energy/articles/eni-vs-bp-energy-firm-163300288.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T16:33:00Z"
-        },
-        {
-          "title": "Enterprise Products or BP: The One Dividend Stock I\u2019d Hold for the Next 10 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-bp-one-dividend-151757190.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T15:17:57Z"
-        }
-      ]
-    },
-    {
       "symbol": "SO",
       "name": "Southern Company",
       "price": 94.41,
@@ -402,7 +376,7 @@
       "price": 40.13,
       "previous_close": 41.44,
       "change_pct": -3.16,
-      "market_cap": 94954762707.34175,
+      "market_cap": 94930283406.6902,
       "headlines": [
         {
           "title": "Aker Solutions secures LoI for Statfjord A topside recycling",
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.04,
-      "change_pct": -4.62
+      "price": 82.05,
+      "change_pct": -4.6
     },
     {
       "label": "Brent",
-      "price": 88.73,
-      "change_pct": -4.73
+      "price": 88.75,
+      "change_pct": -4.71
     },
     {
       "label": "NatGas",
       "price": 3.39,
-      "change_pct": 5.58
+      "change_pct": 5.61
     }
   ]
 }
