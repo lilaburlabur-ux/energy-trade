@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-19T09:50:29+00:00",
-  "as_of_local": "2026-11-19 09:50:29 UTC",
+  "as_of_utc": "2026-11-19T09:55:41+00:00",
+  "as_of_local": "2026-11-19 09:55:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "MPLX"
+    "TLN"
   ],
   "stocks": [
     {
@@ -791,6 +791,34 @@
       ]
     },
     {
+      "symbol": "MPLX",
+      "name": "MPLX",
+      "price": 57.38,
+      "previous_close": 57.42,
+      "change_pct": -0.07,
+      "market_cap": 58127492579.84961,
+      "headlines": [
+        {
+          "title": "Zacks Industry Outlook Highlights Kinder Morgan, The Williams and MPLX LP",
+          "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-kinder-095300150.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T09:53:00Z"
+        },
+        {
+          "title": "4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas",
+          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-141753664.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T14:17:53Z"
+        },
+        {
+          "title": "3 Oil & Gas Pipeline Stocks Offering Resilience in Uncertain Times",
+          "url": "https://finance.yahoo.com/energy/articles/3-oil-gas-pipeline-stocks-133100733.html",
+          "publisher": "Zacks",
+          "published": "2026-11-16T13:31:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "OKE",
       "name": "ONEOK",
       "price": 87.72,
@@ -1291,34 +1319,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-inc-fslr-trending-130005678.html",
           "publisher": "Zacks",
           "published": "2026-11-18T13:00:05Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TLN",
-      "name": "Talen Energy",
-      "price": 360.18,
-      "previous_close": 354.71,
-      "change_pct": 1.54,
-      "market_cap": 15669742957.517578,
-      "headlines": [
-        {
-          "title": "Will OKLO's $3.1B Liquidity Cushion Advance Its Nuclear Plans?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklos-3-1b-liquidity-cushion-122900957.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T12:29:00Z"
-        },
-        {
-          "title": "What Is Talen Energy (TLN) Signaling With Its 750 MW Capacity Deal?",
-          "url": "https://finance.yahoo.com/energy/articles/talen-energy-tln-signaling-750-131328293.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-13T13:13:28Z"
-        },
-        {
-          "title": "Can NuScale's TVA Deal Unlock Its First Major Module Order?",
-          "url": "https://finance.yahoo.com/energy/articles/nuscales-tva-deal-unlock-first-152900220.html",
-          "publisher": "Zacks",
-          "published": "2026-11-12T15:29:00Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.14,
-      "change_pct": -1.35
+      "price": 82.28,
+      "change_pct": -1.18
     },
     {
       "label": "Brent",
-      "price": 89.17,
-      "change_pct": -3.02
+      "price": 89.32,
+      "change_pct": -2.86
     },
     {
       "label": "NatGas",
       "price": 3.34,
-      "change_pct": -0.98
+      "change_pct": -0.83
     }
   ]
 }
