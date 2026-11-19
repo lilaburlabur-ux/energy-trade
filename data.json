@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-19T12:42:53+00:00",
-  "as_of_local": "2026-11-19 12:42:53 UTC",
+  "as_of_utc": "2026-11-19T12:48:04+00:00",
+  "as_of_local": "2026-11-19 12:48:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "OKLO"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -99,6 +97,12 @@
       "market_cap": 204388916152.30908,
       "headlines": [
         {
+          "title": "4 Stocks Analysts and Hedge Funds Surprisingly Prefer Over Tesla",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-analysts-hedge-funds-123906992.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-19T12:39:06Z"
+        },
+        {
           "title": "Could GE Vernova (GEV) Gain From A $97 Million AI Infrastructure Rollout?",
           "url": "https://finance.yahoo.com/technology/ai/articles/could-ge-vernova-gev-gain-121131461.html",
           "publisher": "Simply Wall St.",
@@ -109,12 +113,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-transition-today-levelten-energy-113657014.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-19T11:36:57Z"
-        },
-        {
-          "title": "Your FCX Stock Rides Chips, Gold And The Dollar",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/fcx-stock-rides-chips-gold-111820839.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T11:18:20Z"
         }
       ]
     },
@@ -323,6 +321,12 @@
       "market_cap": 101401066404.33089,
       "headlines": [
         {
+          "title": "How Retirees Can Turn $500,000 Into Passive Income With These 5 Dividend Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-turn-500-000-passive-124055597.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-19T12:40:55Z"
+        },
+        {
           "title": "Will Buyers Defend Constellation Energy Stock At $263?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buyers-defend-constellation-energy-stock-120804759.html",
           "publisher": "Trefis",
@@ -333,12 +337,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/one-unsettled-sits-under-southern-111820074.html",
           "publisher": "Trefis",
           "published": "2026-11-19T11:18:20Z"
-        },
-        {
-          "title": "PG&E Stock's Biggest Risk Is California's Wildfire Rules",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stocks-biggest-risk-134519568.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T13:45:19Z"
         }
       ]
     },
@@ -404,7 +402,7 @@
       "price": 40.13,
       "previous_close": 41.44,
       "change_pct": -3.16,
-      "market_cap": 94930283406.6902,
+      "market_cap": 94922483699.55261,
       "headlines": [
         {
           "title": "Searenergy Poland to support Ba\u0142tyk 2 and 3 offshore wind farm projects",
@@ -1603,6 +1601,34 @@
       ]
     },
     {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "price": 21.8,
+      "previous_close": 22.37,
+      "change_pct": -2.55,
+      "market_cap": 4257312978.4058647,
+      "headlines": [
+        {
+          "title": "Who Is Paying For X-Energy's Cash Burn?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/paying-x-energys-cash-burn-170957572.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T17:09:57Z"
+        },
+        {
+          "title": "NuScale Sinks 22% in a Week to a 52-Week Low as Canada\u2019s First SMR Runs Late. Is the Selling Overdone?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-sinks-22-week-52-024801932.html",
+          "publisher": "TIKR",
+          "published": "2026-11-18T02:48:01Z"
+        },
+        {
+          "title": "How to Play OKLO Stock as Oklo Secures Key Fuel Supply for Its Ohio Plant",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/play-oklo-stock-oklo-secures-195124026.html",
+          "publisher": "Barchart",
+          "published": "2026-11-17T19:51:24Z"
+        }
+      ]
+    },
+    {
       "symbol": "ENPH",
       "name": "Enphase Energy",
       "price": 22.66,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.94,
-      "change_pct": -0.38
+      "price": 83.12,
+      "change_pct": -0.17
     },
     {
       "label": "Brent",
-      "price": 89.96,
-      "change_pct": -2.16
+      "price": 90.13,
+      "change_pct": -1.98
     },
     {
       "label": "NatGas",
-      "price": 3.38,
-      "change_pct": 0.24
+      "price": 3.36,
+      "change_pct": -0.27
     }
   ]
 }
