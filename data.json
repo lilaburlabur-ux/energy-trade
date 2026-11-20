@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T13:34:59+00:00",
-  "as_of_local": "2026-11-20 13:34:59 UTC",
+  "as_of_utc": "2026-11-20T13:39:56+00:00",
+  "as_of_local": "2026-11-20 13:39:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "D"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -761,34 +763,6 @@
       ]
     },
     {
-      "symbol": "D",
-      "name": "Dominion Energy",
-      "price": 66.65,
-      "previous_close": 67.39,
-      "change_pct": -1.1,
-      "market_cap": 58623080440.811325,
-      "headlines": [
-        {
-          "title": "Invest $125,000 in These 4 Utility Stocks to Collect Passive Income in Retirement",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invest-125-000-4-utility-124550981.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-20T12:45:50Z"
-        },
-        {
-          "title": "Capital Group Dividend Value (CGDV) Adds BlackRock and Dominion on Nov. 18",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/capital-group-dividend-value-cgdv-110350011.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-20T11:03:50Z"
-        },
-        {
-          "title": "28 ETFs Add to Dominion Energy (D) on Nov. 18",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/28-etfs-add-dominion-energy-110036028.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-20T11:00:36Z"
-        }
-      ]
-    },
-    {
       "symbol": "MPLX",
       "name": "MPLX",
       "price": 56.49,
@@ -909,6 +883,12 @@
       "market_cap": 49702846168.24452,
       "headlines": [
         {
+          "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html",
+          "publisher": "Yahoo Finance",
+          "published": "2026-11-20T13:36:58Z"
+        },
+        {
           "title": "Bloom Energy Keeps Sliding: Why BMO Sees 37% Upside Anyway",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-keeps-sliding-why-125219818.html",
           "publisher": "TIKR",
@@ -919,12 +899,6 @@
           "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-trade-ef008720?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-20T12:44:00Z"
-        },
-        {
-          "title": "Anthropic, AMD, Intel, Marvell, Intuit, and More Stocks That Explain Today\u2019s Market",
-          "url": "https://www.barrons.com/articles/stock-movers-affd1759?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-20T12:02:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.53,
-      "change_pct": -0.82
+      "price": 82.47,
+      "change_pct": -0.89
     },
     {
       "label": "Brent",
-      "price": 89.33,
-      "change_pct": -2.88
+      "price": 89.25,
+      "change_pct": -2.97
     },
     {
       "label": "NatGas",
-      "price": 3.62,
-      "change_pct": 10.74
+      "price": 3.64,
+      "change_pct": 11.26
     }
   ]
 }
