@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T00:51:12+00:00",
-  "as_of_local": "2026-11-20 00:51:12 UTC",
+  "as_of_utc": "2026-11-20T00:56:22+00:00",
+  "as_of_local": "2026-11-20 00:56:22 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "EOG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -533,34 +535,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/invest-400-000-4-dividend-160250698.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-19T16:02:50Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EOG",
-      "name": "EOG Resources",
-      "price": 149.49,
-      "previous_close": 149.69,
-      "change_pct": -0.13,
-      "market_cap": 77508209493.8789,
-      "headlines": [
-        {
-          "title": "E&P stocks outlook: valuations, cash flow, and the OPEC+ wildcard",
-          "url": "https://finance.yahoo.com/energy/articles/e-p-stocks-outlook-valuations-150522308.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-19T15:05:22Z"
-        },
-        {
-          "title": "Vanguard\u2019s Little-Known Value ETF Skips the Index and Goes Straight for the Cheapest Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-little-known-value-etf-133706981.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T13:37:06Z"
-        },
-        {
-          "title": "How XOM's Strong Balance Sheet Helps Manage Oil Market Volatility",
-          "url": "https://finance.yahoo.com/energy/articles/xoms-strong-balance-sheet-helps-131400951.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T13:14:00Z"
         }
       ]
     },
@@ -1984,8 +1958,8 @@
           "name": "EOG Resources Inc",
           "short": "EOG Resources",
           "weight_pct": 4.07,
-          "change_pct": -0.13,
-          "price": 149.49,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2083,8 +2057,8 @@
         "name": "EOG Resources Inc",
         "short": "EOG Resources",
         "weight_pct": 4.07,
-        "change_pct": -0.13,
-        "price": 149.49,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.82,
-      "change_pct": -0.53
+      "price": 82.79,
+      "change_pct": -0.56
     },
     {
       "label": "Brent",
-      "price": 89.8,
-      "change_pct": -2.34
+      "price": 89.72,
+      "change_pct": -2.43
     },
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -3.8
+      "change_pct": -3.83
     }
   ]
 }
