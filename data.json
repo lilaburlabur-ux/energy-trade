@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T13:39:56+00:00",
-  "as_of_local": "2026-11-20 13:39:56 UTC",
+  "as_of_utc": "2026-11-20T13:45:13+00:00",
+  "as_of_local": "2026-11-20 13:45:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "D"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -759,6 +757,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-hedge-works-only-while-151336974.html",
           "publisher": "Trefis",
           "published": "2026-11-19T15:13:36Z"
+        }
+      ]
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy",
+      "price": 66.65,
+      "previous_close": 67.39,
+      "change_pct": -1.1,
+      "market_cap": 58623080440.811325,
+      "headlines": [
+        {
+          "title": "Invest $125,000 in These 4 Utility Stocks to Collect Passive Income in Retirement",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invest-125-000-4-utility-124550981.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-20T12:45:50Z"
+        },
+        {
+          "title": "Capital Group Dividend Value (CGDV) Adds BlackRock and Dominion on Nov. 18",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/capital-group-dividend-value-cgdv-110350011.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-20T11:03:50Z"
+        },
+        {
+          "title": "28 ETFs Add to Dominion Energy (D) on Nov. 18",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/28-etfs-add-dominion-energy-110036028.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-20T11:00:36Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.47,
-      "change_pct": -0.89
+      "price": 82.42,
+      "change_pct": -0.95
     },
     {
       "label": "Brent",
-      "price": 89.25,
-      "change_pct": -2.97
+      "price": 89.13,
+      "change_pct": -3.1
     },
     {
       "label": "NatGas",
-      "price": 3.64,
-      "change_pct": 11.26
+      "price": 3.66,
+      "change_pct": 12.0
     }
   ]
 }
