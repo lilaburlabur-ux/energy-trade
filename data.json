@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T08:55:51+00:00",
-  "as_of_local": "2026-11-20 08:55:51 UTC",
+  "as_of_utc": "2026-11-20T09:00:47+00:00",
+  "as_of_local": "2026-11-20 09:00:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EQT"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1071,6 +1069,34 @@
       ]
     },
     {
+      "symbol": "EQT",
+      "name": "EQT Corp",
+      "price": 49.3,
+      "previous_close": 50.69,
+      "change_pct": -2.74,
+      "market_cap": 30839586323.14366,
+      "headlines": [
+        {
+          "title": "Senate Nears a Vote on a Landmark Permitting Bill. Here\u2019s Who Could Benefit.",
+          "url": "https://www.barrons.com/articles/senate-permitting-bill-energy-utility-stocks-d6da279b?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-19T21:07:00Z"
+        },
+        {
+          "title": "Can Expand Energy Stock Hit $120?",
+          "url": "https://finance.yahoo.com/energy/articles/expand-energy-stock-hit-120-113044377.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T11:30:44Z"
+        },
+        {
+          "title": "How These 6 Natural Gas Stocks Make Money",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/6-natural-gas-stocks-money-153300478.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-15T15:33:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "CCJ",
       "name": "Cameco",
       "price": 61.42,
@@ -2089,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 81.36,
-      "change_pct": -2.22
+      "price": 81.52,
+      "change_pct": -2.03
     },
     {
       "label": "Brent",
-      "price": 88.25,
-      "change_pct": -4.06
+      "price": 88.43,
+      "change_pct": -3.86
     },
     {
       "label": "NatGas",
