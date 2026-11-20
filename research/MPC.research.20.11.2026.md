@@ -4,8 +4,8 @@ Signed file: `MPC.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $369.27 (2026-11-20, ~15-min delayed) |
-| Market cap | $100.54B |
+| Current price | $367.27 (2026-11-20, ~15-min delayed) |
+| Market cap | $100.00B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `MPC.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +91.59%; price +21.06% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -23.64% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +90.55%; price +20.40% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -24.05% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.34%, revenue growth 60.90%. |
-| Value attractiveness | Reasonable | Forward P/E 6.14, EV/Sales 0.73. |
-| Risk level | Elevated | Beta 0.51, ATR 4.9% of price, short float 2.73%. |
+| Value attractiveness | Reasonable | Forward P/E 6.11, EV/Sales 0.73. |
+| Risk level | Elevated | Beta 0.51, ATR 5.0% of price, short float 2.73%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -44,22 +44,22 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $369.27; 52w high $483.57 (-23.64%); 52w low $160.32 (+130.33%) |
-| Trend | +21.06% vs SMA200, -12.40% vs SMA50, -9.09% vs SMA20 |
-| Momentum | RSI(14) 34.9 (neutral) |
-| Volatility | ATR(14) 18.22 (~4.9% of price); beta 0.51 |
-| Setup perspective | -23.64% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $367.27; 52w high $483.57 (-24.05%); 52w low $160.32 (+129.09%) |
+| Trend | +20.40% vs SMA200, -12.86% vs SMA50, -9.56% vs SMA20 |
+| Momentum | RSI(14) 34.1 (neutral) |
+| Volatility | ATR(14) 18.22 (~5.0% of price); beta 0.51 |
+| Setup perspective | -24.05% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.7% |
-| Month | -19.4% |
-| Quarter | +2.1% |
-| Half Y | +45.8% |
-| 1Y | +91.6% |
-| YTD | +126.8% |
+| Week | -11.2% |
+| Month | -19.8% |
+| Quarter | +1.6% |
+| Half Y | +45.0% |
+| 1Y | +90.6% |
+| YTD | +125.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | Revenue (ttm) | $175.40B | Revenue growth 60.90% y/y |
 | Profitability | Gross 16.20%, operating 11.65%, net 8.34% | ROA 13.75%, ROE 60.46% |
 | Balance sheet | Cash $13.61B, debt $34.45B | Current ratio 1.45, debt/equity 115.42 |
-| Valuation | P/E 7.32, forward P/E 6.14, P/S 0.57, P/B 4.38 | EV/Sales 0.73, EV/EBITDA 5.38 |
+| Valuation | P/E 7.28, forward P/E 6.11, P/S 0.57, P/B 4.35 | EV/Sales 0.73, EV/EBITDA 5.38 |
 | Growth expectations | Earnings growth 489.60%, EPS q/q 443.60% | Analyst mean target $458.24 (17 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 | JPMORGAN CHASE & CO | 2,947,222 | 1.08% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.51, ATR 4.9% of price, short float 2.73%. Size positions accordingly.
+- **Volatility risk:** Beta 0.51, ATR 5.0% of price, short float 2.73%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +110,21 @@ Marathon Petroleum Corporation, together with its subsidiaries, operates as an i
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $369.27 | EV/Sales | 0.73 |
-| Market cap | $100.54B | EV/EBITDA | 5.38 |
+| Price | $367.27 | EV/Sales | 0.73 |
+| Market cap | $100.00B | EV/EBITDA | 5.38 |
 | Beta | 0.51 | Gross margin | 16.20% |
-| RSI(14) | 34.9 | Operating margin | 11.65% |
+| RSI(14) | 34.1 | Operating margin | 11.65% |
 | ATR(14) | 18.22 | Profit margin | 8.34% |
-| SMA20 dist | -9.09% | ROA | 13.75% |
-| SMA50 dist | -12.40% | ROE | 60.46% |
-| SMA200 dist | +21.06% | Revenue (ttm) | $175.40B |
+| SMA20 dist | -9.56% | ROA | 13.75% |
+| SMA50 dist | -12.86% | ROE | 60.46% |
+| SMA200 dist | +20.40% | Revenue (ttm) | $175.40B |
 | 52W high | $483.57 | Revenue growth y/y | 60.90% |
 | 52W low | $160.32 | Inst. ownership | 79.42% |
-| P/E (ttm) | 7.32 | Insider ownership | 0.37% |
-| Forward P/E | 6.14 | Short float | 2.73% |
-| PEG (trailing) | 0.86 | Avg volume | 2,520,632 |
+| P/E (ttm) | 7.28 | Insider ownership | 0.37% |
+| Forward P/E | 6.11 | Short float | 2.73% |
+| PEG (trailing) | 0.85 | Avg volume | 2,520,632 |
 | P/S | 0.57 | Employees | 18,500 |
-| P/B | 4.38 | Analyst rec (1=buy..5=sell) | 2.3 |
+| P/B | 4.35 | Analyst rec (1=buy..5=sell) | 2.3 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

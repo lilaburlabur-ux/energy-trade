@@ -4,8 +4,8 @@ Signed file: `FTI.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $59.22 (2026-11-20, ~15-min delayed) |
-| Market cap | $23.03B |
+| Current price | $58.71 (2026-11-20, ~15-min delayed) |
+| Market cap | $22.83B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,11 +15,11 @@ Signed file: `FTI.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-15.16%) with negative half-year (-16.46%). |
-| Fresh setup quality | Poor / broken | -25.99% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-15.89%) with negative half-year (-17.18%). |
+| Fresh setup quality | Poor / broken | -26.63% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 12.04%, revenue growth 9.40%. |
-| Value attractiveness | Reasonable | Forward P/E 15.55, EV/Sales 2.26. |
-| Risk level | Elevated | Beta 0.85, ATR 4.0% of price, short float 3.55%. |
+| Value attractiveness | Reasonable | Forward P/E 15.42, EV/Sales 2.26. |
+| Risk level | Elevated | Beta 0.85, ATR 4.1% of price, short float 3.55%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
@@ -36,30 +36,30 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 
 | Headline | Source | Date |
 |---|---|---|
+| TechnipFMC (FTI) Stock May Be 43% Undervalued Following Guyana Contract Win | Simply Wall St. | 2026-11-20 |
 | Is TechnipFMC (FTI) Undervalued As New Longtail Contracts Test Its Recent Pullback? | Simply Wall St. | 2026-11-20 |
 | INPEX Awards Baker Hughes-McDermott Contract for Ichthys LNG Expansion | Zacks | 2026-11-20 |
 | TechnipFMC Deepens ExxonMobil Ties With Guyana Longtail Awards | Zacks | 2026-11-20 |
-| Northern Oil and Gas Raises Output Outlook After Record Q3 EBITDA | Zacks | 2026-11-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $59.22; 52w high $80.02 (-25.99%); 52w low $43.37 (+36.56%) |
-| Trend | -15.16% vs SMA200, -13.19% vs SMA50, -9.30% vs SMA20 |
-| Momentum | RSI(14) 31.3 (neutral) |
-| Volatility | ATR(14) 2.39 (~4.0% of price); beta 0.85 |
-| Setup perspective | -25.99% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $58.71; 52w high $80.02 (-26.63%); 52w low $43.37 (+35.39%) |
+| Trend | -15.89% vs SMA200, -13.93% vs SMA50, -10.04% vs SMA20 |
+| Momentum | RSI(14) 30.5 (neutral) |
+| Volatility | ATR(14) 2.42 (~4.1% of price); beta 0.85 |
+| Setup perspective | -26.63% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -10.6% |
-| Month | -11.3% |
-| Quarter | -21.9% |
-| Half Y | -16.5% |
-| 1Y | +35.1% |
-| YTD | +25.5% |
+| Week | -11.3% |
+| Month | -12.1% |
+| Quarter | -22.5% |
+| Half Y | -17.2% |
+| 1Y | +33.9% |
+| YTD | +24.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.67B | Revenue growth 9.40% y/y |
 | Profitability | Gross 23.60%, operating 15.64%, net 12.04% | ROA 10.08%, ROE 38.30% |
 | Balance sheet | Cash $1.05B, debt $1.30B | Current ratio 1.09, debt/equity 38.93 |
-| Valuation | P/E 18.62, forward P/E 15.55, P/S 2.16, P/B 6.93 | EV/Sales 2.26, EV/EBITDA 11.61 |
+| Valuation | P/E 18.46, forward P/E 15.42, P/S 2.14, P/B 6.87 | EV/Sales 2.26, EV/EBITDA 11.61 |
 | Growth expectations | Earnings growth 40.00%, EPS q/q 35.10% | Analyst mean target $76.45 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | FMR, LLC | 11,619,603 | 2.99% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.85, ATR 4.0% of price, short float 3.55%. Size positions accordingly.
+- **Volatility risk:** Beta 0.85, ATR 4.1% of price, short float 3.55%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $59.22 | EV/Sales | 2.26 |
-| Market cap | $23.03B | EV/EBITDA | 11.61 |
+| Price | $58.71 | EV/Sales | 2.26 |
+| Market cap | $22.83B | EV/EBITDA | 11.61 |
 | Beta | 0.85 | Gross margin | 23.60% |
-| RSI(14) | 31.3 | Operating margin | 15.64% |
-| ATR(14) | 2.39 | Profit margin | 12.04% |
-| SMA20 dist | -9.30% | ROA | 10.08% |
-| SMA50 dist | -13.19% | ROE | 38.30% |
-| SMA200 dist | -15.16% | Revenue (ttm) | $10.67B |
+| RSI(14) | 30.5 | Operating margin | 15.64% |
+| ATR(14) | 2.42 | Profit margin | 12.04% |
+| SMA20 dist | -10.04% | ROA | 10.08% |
+| SMA50 dist | -13.93% | ROE | 38.30% |
+| SMA200 dist | -15.89% | Revenue (ttm) | $10.67B |
 | 52W high | $80.02 | Revenue growth y/y | 9.40% |
 | 52W low | $43.37 | Inst. ownership | 102.01% |
-| P/E (ttm) | 18.62 | Insider ownership | 1.57% |
-| Forward P/E | 15.55 | Short float | 3.55% |
+| P/E (ttm) | 18.46 | Insider ownership | 1.57% |
+| Forward P/E | 15.42 | Short float | 3.55% |
 | PEG (trailing) | — | Avg volume | 2,885,898 |
-| P/S | 2.16 | Employees | 21,975 |
-| P/B | 6.93 | Analyst rec (1=buy..5=sell) | 2.0 |
+| P/S | 2.14 | Employees | 21,975 |
+| P/B | 6.87 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

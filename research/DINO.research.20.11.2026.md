@@ -4,8 +4,8 @@ Signed file: `DINO.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $88.29 (2026-11-20, ~15-min delayed) |
-| Market cap | $14.94B |
+| Current price | $87.39 (2026-11-20, ~15-min delayed) |
+| Market cap | $14.79B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
 | Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `DINO.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | High | 1Y +68.01%; price +8.74% vs SMA200. |
-| Fresh setup quality | Poor / broken | -30.79% from 52w high — base needs to rebuild. |
+| Technical momentum | High | 1Y +66.30%; price +7.64% vs SMA200. |
+| Fresh setup quality | Poor / broken | -31.50% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.12%, revenue growth 49.70%. |
-| Value attractiveness | Reasonable | Forward P/E 5.04, EV/Sales 0.44. |
-| Risk level | High | Beta 0.71, ATR 5.5% of price, short float 3.94%. |
+| Value attractiveness | Reasonable | Forward P/E 4.99, EV/Sales 0.44. |
+| Risk level | High | Beta 0.71, ATR 5.6% of price, short float 3.94%. |
 
 **Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $88.29; 52w high $127.57 (-30.79%); 52w low $44.60 (+97.97%) |
-| Trend | +8.74% vs SMA200, -20.15% vs SMA50, -14.51% vs SMA20 |
-| Momentum | RSI(14) 26.6 (oversold) |
-| Volatility | ATR(14) 4.82 (~5.5% of price); beta 0.71 |
-| Setup perspective | -30.79% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $87.39; 52w high $127.57 (-31.50%); 52w low $44.60 (+95.95%) |
+| Trend | +7.64% vs SMA200, -20.95% vs SMA50, -15.35% vs SMA20 |
+| Momentum | RSI(14) 26.0 (oversold) |
+| Volatility | ATR(14) 4.87 (~5.6% of price); beta 0.71 |
+| Setup perspective | -31.50% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -13.6% |
-| Month | -27.4% |
-| Quarter | -6.8% |
-| Half Y | +27.7% |
-| 1Y | +68.0% |
-| YTD | +93.9% |
+| Week | -14.5% |
+| Month | -28.2% |
+| Quarter | -7.7% |
+| Half Y | +26.4% |
+| 1Y | +66.3% |
+| YTD | +91.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $34.83B | Revenue growth 49.70% y/y |
 | Profitability | Gross 18.01%, operating 13.74%, net 10.12% | ROA 15.77%, ROE 33.21% |
 | Balance sheet | Cash $3.33B, debt $3.36B | Current ratio 2.27, debt/equity 28.52 |
-| Valuation | P/E 4.50, forward P/E 5.04, P/S 0.43, P/B 1.30 | EV/Sales 0.44, EV/EBITDA 2.85 |
+| Valuation | P/E 4.45, forward P/E 4.99, P/S 0.42, P/B 1.29 | EV/Sales 0.44, EV/EBITDA 2.85 |
 | Growth expectations | Earnings growth 430.60%, EPS q/q 400.00% | Analyst mean target $120.75 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Geode Capital Management, LLC | 3,536,319 | 2.06% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 0.71, ATR 5.5% of price, short float 3.94%. Size positions accordingly.
+- **Volatility risk:** Beta 0.71, ATR 5.6% of price, short float 3.94%. Size positions accordingly.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -111,21 +111,21 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $88.29 | EV/Sales | 0.44 |
-| Market cap | $14.94B | EV/EBITDA | 2.85 |
+| Price | $87.39 | EV/Sales | 0.44 |
+| Market cap | $14.79B | EV/EBITDA | 2.85 |
 | Beta | 0.71 | Gross margin | 18.01% |
-| RSI(14) | 26.6 | Operating margin | 13.74% |
-| ATR(14) | 4.82 | Profit margin | 10.12% |
-| SMA20 dist | -14.51% | ROA | 15.77% |
-| SMA50 dist | -20.15% | ROE | 33.21% |
-| SMA200 dist | +8.74% | Revenue (ttm) | $34.83B |
+| RSI(14) | 26.0 | Operating margin | 13.74% |
+| ATR(14) | 4.87 | Profit margin | 10.12% |
+| SMA20 dist | -15.35% | ROA | 15.77% |
+| SMA50 dist | -20.95% | ROE | 33.21% |
+| SMA200 dist | +7.64% | Revenue (ttm) | $34.83B |
 | 52W high | $127.57 | Revenue growth y/y | 49.70% |
 | 52W low | $44.60 | Inst. ownership | 88.85% |
-| P/E (ttm) | 4.50 | Insider ownership | 1.94% |
-| Forward P/E | 5.04 | Short float | 3.94% |
+| P/E (ttm) | 4.45 | Insider ownership | 1.94% |
+| Forward P/E | 4.99 | Short float | 3.94% |
 | PEG (trailing) | 0.68 | Avg volume | 2,497,242 |
-| P/S | 0.43 | Employees | 5,165 |
-| P/B | 1.30 | Analyst rec (1=buy..5=sell) | 2.5 |
+| P/S | 0.42 | Employees | 5,165 |
+| P/B | 1.29 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

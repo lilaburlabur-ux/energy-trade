@@ -4,8 +4,8 @@ Signed file: `FLNC.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $3.48 (2026-11-20, ~15-min delayed) |
-| Market cap | $677.43M |
+| Current price | $3.46 (2026-11-20, ~15-min delayed) |
+| Market cap | $673.53M |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,11 +15,11 @@ Signed file: `FLNC.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-74.69%) with negative half-year (-83.81%). |
-| Fresh setup quality | Poor / broken | -89.20% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-74.83%) with negative half-year (-83.90%). |
+| Fresh setup quality | Poor / broken | -89.26% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-3.07%). |
-| Value attractiveness | Reasonable | Forward P/E -6.56, EV/Sales 0.26. |
-| Risk level | High | Beta 2.79, ATR 13.5% of price, short float 49.11%. |
+| Value attractiveness | Reasonable | Forward P/E -6.52, EV/Sales 0.26. |
+| Risk level | High | Beta 2.79, ATR 13.7% of price, short float 49.11%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
 
@@ -44,22 +44,22 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $3.48; 52w high $32.23 (-89.20%); 52w low $3.48 (+0.00%) |
-| Trend | -74.69% vs SMA200, -45.49% vs SMA50, -31.20% vs SMA20 |
-| Momentum | RSI(14) 25.1 (oversold) |
-| Volatility | ATR(14) 0.47 (~13.5% of price); beta 2.79 |
-| Setup perspective | -89.20% from 52w high — base needs to rebuild. |
+| Price vs 52-week range | Close $3.46; 52w high $32.23 (-89.26%); 52w low $3.46 (+0.00%) |
+| Trend | -74.83% vs SMA200, -45.80% vs SMA50, -31.58% vs SMA20 |
+| Momentum | RSI(14) 25.0 (oversold) |
+| Volatility | ATR(14) 0.47 (~13.7% of price); beta 2.79 |
+| Setup perspective | -89.26% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -25.6% |
-| Month | -38.9% |
-| Quarter | -68.0% |
-| Half Y | -83.8% |
-| 1Y | -79.3% |
-| YTD | -84.9% |
+| Week | -26.1% |
+| Month | -39.3% |
+| Quarter | -68.1% |
+| Half Y | -83.9% |
+| 1Y | -79.4% |
+| YTD | -85.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Revenue (ttm) | $2.63B | Revenue growth 7.90% y/y |
 | Profitability | Gross 9.36%, operating -4.21%, net -3.07% | ROA -2.95%, ROE -23.54% |
 | Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
-| Valuation | P/E —, forward P/E -6.56, P/S 0.26, P/B 1.33 | EV/Sales 0.26, EV/EBITDA -8.72 |
+| Valuation | P/E —, forward P/E -6.52, P/S 0.26, P/B 1.33 | EV/Sales 0.26, EV/EBITDA -8.72 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $7.95 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,7 +95,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | First Trust Advisors LP | 2,597,835 | 1.81% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.79, ATR 13.5% of price, short float 49.11%. Size positions accordingly.
+- **Volatility risk:** Beta 2.79, ATR 13.7% of price, short float 49.11%. Size positions accordingly.
 - **Short interest risk:** short float 49.11% can fuel squeezes both ways around news.
 - **Profitability risk:** trailing margins are negative; not yet a proven compounding earnings story.
 - **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
@@ -113,18 +113,18 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $3.48 | EV/Sales | 0.26 |
-| Market cap | $677.43M | EV/EBITDA | -8.72 |
+| Price | $3.46 | EV/Sales | 0.26 |
+| Market cap | $673.53M | EV/EBITDA | -8.72 |
 | Beta | 2.79 | Gross margin | 9.36% |
-| RSI(14) | 25.1 | Operating margin | -4.21% |
+| RSI(14) | 25.0 | Operating margin | -4.21% |
 | ATR(14) | 0.47 | Profit margin | -3.07% |
-| SMA20 dist | -31.20% | ROA | -2.95% |
-| SMA50 dist | -45.49% | ROE | -23.54% |
-| SMA200 dist | -74.69% | Revenue (ttm) | $2.63B |
+| SMA20 dist | -31.58% | ROA | -2.95% |
+| SMA50 dist | -45.80% | ROE | -23.54% |
+| SMA200 dist | -74.83% | Revenue (ttm) | $2.63B |
 | 52W high | $32.23 | Revenue growth y/y | 7.90% |
-| 52W low | $3.48 | Inst. ownership | 82.63% |
+| 52W low | $3.46 | Inst. ownership | 82.63% |
 | P/E (ttm) | — | Insider ownership | 14.42% |
-| Forward P/E | -6.56 | Short float | 49.11% |
+| Forward P/E | -6.52 | Short float | 49.11% |
 | PEG (trailing) | — | Avg volume | 7,045,429 |
 | P/S | 0.26 | Employees | 1,670 |
 | P/B | 1.33 | Analyst rec (1=buy..5=sell) | — |

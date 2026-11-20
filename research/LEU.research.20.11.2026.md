@@ -4,7 +4,7 @@ Signed file: `LEU.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $81.40 (2026-11-20, ~15-min delayed) |
+| Current price | $81.43 (2026-11-20, ~15-min delayed) |
 | Market cap | $1.68B |
 | Sector / Industry | Energy / Uranium |
 | Main theme | Uranium — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `LEU.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-52.35%) with negative half-year (-54.62%). |
-| Fresh setup quality | Poor / broken | -75.90% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-52.33%) with negative half-year (-54.60%). |
+| Fresh setup quality | Poor / broken | -75.89% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 16.77%, revenue growth -25.90%. |
-| Value attractiveness | Reasonable | Forward P/E 18.40, EV/Sales 1.74. |
+| Value attractiveness | Reasonable | Forward P/E 18.41, EV/Sales 1.74. |
 | Risk level | High | Beta 1.41, ATR 10.9% of price, short float 29.58%. |
 
 **Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
@@ -44,17 +44,17 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $81.40; 52w high $337.76 (-75.90%); 52w low $81.40 (+0.00%) |
-| Trend | -52.35% vs SMA200, -33.10% vs SMA50, -19.09% vs SMA20 |
+| Price vs 52-week range | Close $81.43; 52w high $337.76 (-75.89%); 52w low $81.43 (+0.00%) |
+| Trend | -52.33% vs SMA200, -33.07% vs SMA50, -19.06% vs SMA20 |
 | Momentum | RSI(14) 31.9 (neutral) |
-| Volatility | ATR(14) 8.84 (~10.9% of price); beta 1.41 |
-| Setup perspective | -75.90% from 52w high — base needs to rebuild. |
+| Volatility | ATR(14) 8.86 (~10.9% of price); beta 1.41 |
+| Setup perspective | -75.89% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -21.6% |
+| Week | -21.5% |
 | Month | -21.8% |
 | Quarter | -54.0% |
 | Half Y | -54.6% |
@@ -68,7 +68,7 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 | Revenue (ttm) | $454.50M | Revenue growth -25.90% y/y |
 | Profitability | Gross 23.28%, operating -2.77%, net 16.77% | ROA -0.31%, ROE 10.38% |
 | Balance sheet | Cash $2.24B, debt $1.18B | Current ratio 8.61, debt/equity 106.67 |
-| Valuation | P/E 24.15, forward P/E 18.40, P/S 3.69, P/B 1.51 | EV/Sales 1.74, EV/EBITDA -282.92 |
+| Valuation | P/E 24.16, forward P/E 18.41, P/S 3.69, P/B 1.51 | EV/Sales 1.74, EV/EBITDA -282.92 |
 | Growth expectations | Earnings growth 642.10%, EPS q/q 710.30% | Analyst mean target $180.00 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -112,18 +112,18 @@ Centrus Energy Corp. supplies nuclear fuel components for the nuclear power indu
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $81.40 | EV/Sales | 1.74 |
+| Price | $81.43 | EV/Sales | 1.74 |
 | Market cap | $1.68B | EV/EBITDA | -282.92 |
 | Beta | 1.41 | Gross margin | 23.28% |
 | RSI(14) | 31.9 | Operating margin | -2.77% |
-| ATR(14) | 8.84 | Profit margin | 16.77% |
-| SMA20 dist | -19.09% | ROA | -0.31% |
-| SMA50 dist | -33.10% | ROE | 10.38% |
-| SMA200 dist | -52.35% | Revenue (ttm) | $454.50M |
+| ATR(14) | 8.86 | Profit margin | 16.77% |
+| SMA20 dist | -19.06% | ROA | -0.31% |
+| SMA50 dist | -33.07% | ROE | 10.38% |
+| SMA200 dist | -52.33% | Revenue (ttm) | $454.50M |
 | 52W high | $337.76 | Revenue growth y/y | -25.90% |
-| 52W low | $81.40 | Inst. ownership | 94.28% |
-| P/E (ttm) | 24.15 | Insider ownership | 1.06% |
-| Forward P/E | 18.40 | Short float | 29.58% |
+| 52W low | $81.43 | Inst. ownership | 94.28% |
+| P/E (ttm) | 24.16 | Insider ownership | 1.06% |
+| Forward P/E | 18.41 | Short float | 29.58% |
 | PEG (trailing) | — | Avg volume | 795,307 |
 | P/S | 3.69 | Employees | 467 |
 | P/B | 1.51 | Analyst rec (1=buy..5=sell) | 1.8 |
