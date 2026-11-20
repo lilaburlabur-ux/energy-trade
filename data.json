@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T14:10:19+00:00",
-  "as_of_local": "2026-11-20 14:10:19 UTC",
+  "as_of_utc": "2026-11-20T14:15:26+00:00",
+  "as_of_local": "2026-11-20 14:15:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "WMB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -483,6 +481,34 @@
       ]
     },
     {
+      "symbol": "WMB",
+      "name": "Williams Companies",
+      "price": 66.13,
+      "previous_close": 67.23,
+      "change_pct": -1.64,
+      "market_cap": 82675888949.29623,
+      "headlines": [
+        {
+          "title": "Morgan Stanley\u2019s Vintage Values 2027: 5 Stocks Analysts See Climbing Further",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-vintage-values-2027-223235273.html",
+          "publisher": "Insider Monkey",
+          "published": "2026-11-19T22:32:35Z"
+        },
+        {
+          "title": "How Many Shares of Kinder Morgan or Williams Pay $1,000 a Month in Dividends?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/many-shares-kinder-morgan-williams-173544191.html",
+          "publisher": "TIKR",
+          "published": "2026-11-19T17:35:44Z"
+        },
+        {
+          "title": "Enterprise Products' Permian Expansion Supports Growth Prospects",
+          "url": "https://finance.yahoo.com/energy/articles/enterprise-products-permian-expansion-supports-173100313.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T17:31:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "EPD",
       "name": "Enterprise Products",
       "price": 36.16,
@@ -939,6 +965,12 @@
       "market_cap": 47924985865.96699,
       "headlines": [
         {
+          "title": "Devon Energy Corporation (DVN) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-corporation-dvn-attracting-130004904.html",
+          "publisher": "Zacks",
+          "published": "2026-11-20T13:00:04Z"
+        },
+        {
           "title": "DVN Short Strangle Takes Advantage of High Implied Volatility",
           "url": "https://finance.yahoo.com/markets/options/articles/dvn-short-strangle-takes-advantage-120002407.html",
           "publisher": "Barchart",
@@ -949,12 +981,6 @@
           "url": "https://finance.yahoo.com/energy/articles/expand-energy-stock-hit-120-113044377.html",
           "publisher": "Trefis",
           "published": "2026-11-19T11:30:44Z"
-        },
-        {
-          "title": "Is Permian Resources Spending Too Much?",
-          "url": "https://finance.yahoo.com/energy/articles/permian-resources-spending-too-much-124807527.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T12:48:07Z"
         }
       ]
     },
@@ -1751,6 +1777,12 @@
       "market_cap": 1451257105.291192,
       "headlines": [
         {
+          "title": "Energy Fuels Inc (UUUU) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-inc-uuuu-attracting-130002819.html",
+          "publisher": "Zacks",
+          "published": "2026-11-20T13:00:02Z"
+        },
+        {
           "title": "Sovereign Metals: Carstens takes chair as Kasiya nears investment decision - UPDATE",
           "url": "https://finance.yahoo.com/markets/commodities/articles/sovereign-metals-carstens-takes-chair-075100375.html",
           "publisher": "Proactive",
@@ -1761,12 +1793,6 @@
           "url": "https://finance.yahoo.com/energy/articles/sovereign-metals-appoints-tim-carstens-225100429.html",
           "publisher": "Proactive",
           "published": "2026-11-18T22:51:00Z"
-        },
-        {
-          "title": "Can Cameco's Uranium Contracts Drive Sustained Long-Term Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/camecos-uranium-contracts-drive-sustained-122700516.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T12:27:00Z"
         }
       ]
     },
@@ -1949,8 +1975,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 4.12,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.64,
+          "price": 66.13,
           "currency": "USD"
         },
         {
@@ -2048,8 +2074,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 4.12,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.64,
+        "price": 66.13,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.37,
-      "change_pct": -1.01
+      "price": 82.24,
+      "change_pct": -1.17
     },
     {
       "label": "Brent",
-      "price": 89.12,
-      "change_pct": -3.11
+      "price": 88.94,
+      "change_pct": -3.31
     },
     {
       "label": "NatGas",
-      "price": 3.67,
-      "change_pct": 12.24
+      "price": 3.66,
+      "change_pct": 12.15
     }
   ]
 }
