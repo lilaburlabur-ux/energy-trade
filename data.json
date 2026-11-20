@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T13:09:23+00:00",
-  "as_of_local": "2026-11-20 13:09:23 UTC",
+  "as_of_utc": "2026-11-20T13:14:26+00:00",
+  "as_of_local": "2026-11-20 13:14:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "HUBB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1183,6 +1181,34 @@
       ]
     },
     {
+      "symbol": "HUBB",
+      "name": "Hubbell",
+      "price": 418.74,
+      "previous_close": 426.47,
+      "change_pct": -1.81,
+      "market_cap": 22124142039.93286,
+      "headlines": [
+        {
+          "title": "Is Eaton A Better Data Center Play Than Rockwell?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-better-data-center-play-150328461.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T15:03:28Z"
+        },
+        {
+          "title": "Can Data Center Momentum Continue to Drive FPS Through 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/data-center-momentum-continue-drive-141300084.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T14:13:00Z"
+        },
+        {
+          "title": "Eaton Stock Has One Thing Left To Prove",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-one-thing-left-130831914.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T13:08:31Z"
+        }
+      ]
+    },
+    {
       "symbol": "NRG",
       "name": "NRG Energy",
       "price": 93.85,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.45,
-      "change_pct": -0.91
+      "price": 82.18,
+      "change_pct": -1.24
     },
     {
       "label": "Brent",
-      "price": 89.52,
-      "change_pct": -2.67
+      "price": 89.09,
+      "change_pct": -3.14
     },
     {
       "label": "NatGas",
       "price": 3.61,
-      "change_pct": 10.4
+      "change_pct": 10.34
     }
   ]
 }
