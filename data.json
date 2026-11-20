@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-20T01:56:31+00:00",
-  "as_of_local": "2026-11-20 01:56:31 UTC",
+  "as_of_utc": "2026-11-20T02:11:41+00:00",
+  "as_of_local": "2026-11-20 02:11:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "BE"
+    "LNG"
   ],
   "stocks": [
     {
@@ -735,34 +735,6 @@
       ]
     },
     {
-      "symbol": "LNG",
-      "name": "Cheniere Energy",
-      "price": 296.49,
-      "previous_close": 301.97,
-      "change_pct": -1.81,
-      "market_cap": 60315710078.18,
-      "headlines": [
-        {
-          "title": "PR Q3 Earnings Beat on Higher Output and Stronger Pricing",
-          "url": "https://finance.yahoo.com/energy/articles/pr-q3-earnings-beat-higher-155100845.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T15:51:00Z"
-        },
-        {
-          "title": "Cheniere Energy's 'Impressive' Contract Wins Highlight Premium Business Model, RBC Says",
-          "url": "https://finance.yahoo.com/energy/articles/cheniere-energy-apos-apos-impressive-153541810.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-19T15:35:41Z"
-        },
-        {
-          "title": "Your Chevron Hedge Works Only While Oil Spikes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-hedge-works-only-while-151336974.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T15:13:36Z"
-        }
-      ]
-    },
-    {
       "symbol": "D",
       "name": "Dominion Energy",
       "price": 67.39,
@@ -903,6 +875,34 @@
       ]
     },
     {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "price": 170.98,
+      "previous_close": 173.46,
+      "change_pct": -1.43,
+      "market_cap": 49702845987.79,
+      "headlines": [
+        {
+          "title": "Is a Bloom Energy Stock Crash Coming? 1 Warning Sign Investors Shouldn\u2019t Ignore.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-crash-coming-215002972.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-19T21:50:02Z"
+        },
+        {
+          "title": "Bloom Energy, An AI Winner, Has Room To Run After Soaring: Analyst",
+          "url": "https://www.investors.com/news/bloom-energy-stock-ai-power-play-room-to-run/?src=A00220&yptr=yahoo",
+          "publisher": "Investor's Business Daily",
+          "published": "2026-11-19T21:11:17Z"
+        },
+        {
+          "title": "Anthropic's Record IPO: Can It Lift AI Stocks?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-lift-ai-185300518.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T18:53:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "FANG",
       "name": "Diamondback Energy",
       "price": 174.32,
@@ -910,6 +910,12 @@
       "change_pct": -1.55,
       "market_cap": 49348499253.57,
       "headlines": [
+        {
+          "title": "US Oil and Gas Deal Boom Lures BMO Back Into the Market",
+          "url": "https://finance.yahoo.com/energy/articles/us-oil-gas-deal-boom-010000489.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-20T01:00:00Z"
+        },
         {
           "title": "Diamondback to buy certain Double Eagle subsidiaries in $5bn Permian deal",
           "url": "https://finance.yahoo.com/energy/articles/diamondback-buy-certain-double-eagle-182121526.html",
@@ -921,12 +927,6 @@
           "url": "https://finance.yahoo.com/energy/articles/pr-q3-earnings-beat-higher-155100845.html",
           "publisher": "Zacks",
           "published": "2026-11-19T15:51:00Z"
-        },
-        {
-          "title": "Should You Buy Occidental Stock For Its Cash Flow?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-occidental-stock-cash-flow-113901476.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T11:39:01Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.98,
-      "change_pct": -0.34
+      "price": 82.86,
+      "change_pct": -0.48
     },
     {
       "label": "Brent",
-      "price": 90.03,
-      "change_pct": -2.09
+      "price": 89.88,
+      "change_pct": -2.25
     },
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -3.91
+      "change_pct": -4.03
     }
   ]
 }
