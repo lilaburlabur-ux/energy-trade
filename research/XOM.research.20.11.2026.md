@@ -4,8 +4,8 @@ Signed file: `XOM.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $160.88 (2026-11-20, ~15-min delayed) |
-| Market cap | $656.27B |
+| Current price | $160.93 (2026-11-20, ~15-min delayed) |
+| Market cap | $656.47B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,8 +15,8 @@ Signed file: `XOM.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +40.73%; price +3.87% vs SMA200. |
-| Fresh setup quality | Moderate / wait | -13.54% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +40.77%; price +3.90% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.51% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
 | Value attractiveness | Reasonable | Forward P/E 12.89, EV/Sales 1.74. |
 | Risk level | Moderate | Beta 0.14, ATR 2.6% of price, short float 1.25%. |
@@ -44,22 +44,22 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $160.88; 52w high $186.08 (-13.54%); 52w low $111.55 (+44.22%) |
-| Trend | +3.87% vs SMA200, -4.46% vs SMA50, -5.61% vs SMA20 |
-| Momentum | RSI(14) 38.7 (neutral) |
+| Price vs 52-week range | Close $160.93; 52w high $186.08 (-13.51%); 52w low $111.55 (+44.26%) |
+| Trend | +3.90% vs SMA200, -4.43% vs SMA50, -5.59% vs SMA20 |
+| Momentum | RSI(14) 38.8 (neutral) |
 | Volatility | ATR(14) 4.19 (~2.6% of price); beta 0.14 |
-| Setup perspective | -13.54% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -13.51% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
 | Week | -5.1% |
-| Month | -9.2% |
+| Month | -9.1% |
 | Quarter | -1.3% |
 | Half Y | +5.2% |
-| 1Y | +40.7% |
-| YTD | +34.6% |
+| 1Y | +40.8% |
+| YTD | +34.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $388.23B | Revenue growth 32.60% y/y |
 | Profitability | Gross 29.81%, operating 12.88%, net 10.46% | ROA 6.75%, ROE 15.53% |
 | Balance sheet | Cash $12.15B, debt $34.25B | Current ratio 1.19, debt/equity 12.57 |
-| Valuation | P/E 16.55, forward P/E 12.89, P/S 1.69, P/B 2.47 | EV/Sales 1.74, EV/EBITDA 8.69 |
+| Valuation | P/E 16.56, forward P/E 12.89, P/S 1.69, P/B 2.47 | EV/Sales 1.74, EV/EBITDA 8.69 |
 | Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $184.18 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -109,17 +109,17 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $160.88 | EV/Sales | 1.74 |
-| Market cap | $656.27B | EV/EBITDA | 8.69 |
+| Price | $160.93 | EV/Sales | 1.74 |
+| Market cap | $656.47B | EV/EBITDA | 8.69 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 38.7 | Operating margin | 12.88% |
+| RSI(14) | 38.8 | Operating margin | 12.88% |
 | ATR(14) | 4.19 | Profit margin | 10.46% |
-| SMA20 dist | -5.61% | ROA | 6.75% |
-| SMA50 dist | -4.46% | ROE | 15.53% |
-| SMA200 dist | +3.87% | Revenue (ttm) | $388.23B |
+| SMA20 dist | -5.59% | ROA | 6.75% |
+| SMA50 dist | -4.43% | ROE | 15.53% |
+| SMA200 dist | +3.90% | Revenue (ttm) | $388.23B |
 | 52W high | $186.08 | Revenue growth y/y | 32.60% |
 | 52W low | $111.55 | Inst. ownership | 67.08% |
-| P/E (ttm) | 16.55 | Insider ownership | 0.11% |
+| P/E (ttm) | 16.56 | Insider ownership | 0.11% |
 | Forward P/E | 12.89 | Short float | 1.25% |
 | PEG (trailing) | 1.25 | Avg volume | 13,616,685 |
 | P/S | 1.69 | Employees | 57,900 |

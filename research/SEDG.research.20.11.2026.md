@@ -4,7 +4,7 @@ Signed file: `SEDG.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $18.48 (2026-11-20, ~15-min delayed) |
+| Current price | $18.49 (2026-11-20, ~15-min delayed) |
 | Market cap | $1.14B |
 | Sector / Industry | Technology / Solar |
 | Main theme | Solar — see catalysts below |
@@ -15,10 +15,10 @@ Signed file: `SEDG.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-55.68%) with negative half-year (-70.17%). |
-| Fresh setup quality | Poor / broken | -76.46% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-55.65%) with negative half-year (-70.15%). |
+| Fresh setup quality | Poor / broken | -76.45% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-17.34%). |
-| Value attractiveness | Reasonable | Forward P/E -128.46, EV/Sales 0.84. |
+| Value attractiveness | Reasonable | Forward P/E -128.53, EV/Sales 0.84. |
 | Risk level | High | Beta 1.30, ATR 11.9% of price, short float 19.02%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -44,11 +44,11 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $18.48; 52w high $78.51 (-76.46%); 52w low $18.48 (+0.00%) |
-| Trend | -55.68% vs SMA200, -39.40% vs SMA50, -30.77% vs SMA20 |
+| Price vs 52-week range | Close $18.49; 52w high $78.51 (-76.45%); 52w low $18.49 (+0.00%) |
+| Trend | -55.65% vs SMA200, -39.37% vs SMA50, -30.73% vs SMA20 |
 | Momentum | RSI(14) 24.1 (oversold) |
 | Volatility | ATR(14) 2.20 (~11.9% of price); beta 1.30 |
-| Setup perspective | -76.46% from 52w high — base needs to rebuild. |
+| Setup perspective | -76.45% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -58,8 +58,8 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Month | -43.9% |
 | Quarter | -38.6% |
 | Half Y | -70.2% |
-| 1Y | -44.8% |
-| YTD | -41.1% |
+| 1Y | -44.7% |
+| YTD | -41.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 | Revenue (ttm) | $1.32B | Revenue growth -4.10% y/y |
 | Profitability | Gross 21.49%, operating -11.01%, net -17.34% | ROA -4.03%, ROE -50.64% |
 | Balance sheet | Cash $555.08M, debt $403.18M | Current ratio 2.12, debt/equity 95.26 |
-| Valuation | P/E —, forward P/E -128.46, P/S 0.87, P/B 2.70 | EV/Sales 0.84, EV/EBITDA -9.15 |
+| Valuation | P/E —, forward P/E -128.53, P/S 0.87, P/B 2.70 | EV/Sales 0.84, EV/EBITDA -9.15 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $29.89 (18 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,18 +113,18 @@ SolarEdge Technologies, Inc., together with its subsidiaries, operates as an ene
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $18.48 | EV/Sales | 0.84 |
+| Price | $18.49 | EV/Sales | 0.84 |
 | Market cap | $1.14B | EV/EBITDA | -9.15 |
 | Beta | 1.30 | Gross margin | 21.49% |
 | RSI(14) | 24.1 | Operating margin | -11.01% |
 | ATR(14) | 2.20 | Profit margin | -17.34% |
-| SMA20 dist | -30.77% | ROA | -4.03% |
-| SMA50 dist | -39.40% | ROE | -50.64% |
-| SMA200 dist | -55.68% | Revenue (ttm) | $1.32B |
+| SMA20 dist | -30.73% | ROA | -4.03% |
+| SMA50 dist | -39.37% | ROE | -50.64% |
+| SMA200 dist | -55.65% | Revenue (ttm) | $1.32B |
 | 52W high | $78.51 | Revenue growth y/y | -4.10% |
-| 52W low | $18.48 | Inst. ownership | 100.65% |
+| 52W low | $18.49 | Inst. ownership | 100.65% |
 | P/E (ttm) | — | Insider ownership | 1.11% |
-| Forward P/E | -128.46 | Short float | 19.02% |
+| Forward P/E | -128.53 | Short float | 19.02% |
 | PEG (trailing) | — | Avg volume | 2,986,934 |
 | P/S | 0.87 | Employees | 3,576 |
 | P/B | 2.70 | Analyst rec (1=buy..5=sell) | 3.1 |

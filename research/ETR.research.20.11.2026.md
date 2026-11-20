@@ -4,7 +4,7 @@ Signed file: `ETR.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $104.74 (2026-11-20, ~15-min delayed) |
+| Current price | $104.75 (2026-11-20, ~15-min delayed) |
 | Market cap | $50.05B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
@@ -15,7 +15,7 @@ Signed file: `ETR.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-2.42%) with negative half-year (-5.69%). |
+| Technical momentum | Low | Below SMA200 (-2.42%) with negative half-year (-5.68%). |
 | Fresh setup quality | Moderate / wait | -9.67% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 14.56%, revenue growth 14.50%. |
 | Value attractiveness | Fair-to-demanding | Forward P/E 20.48, EV/Sales 5.82. |
@@ -44,8 +44,8 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $104.74; 52w high $115.95 (-9.67%); 52w low $89.02 (+17.65%) |
-| Trend | -2.42% vs SMA200, -0.04% vs SMA50, -3.97% vs SMA20 |
+| Price vs 52-week range | Close $104.75; 52w high $115.95 (-9.67%); 52w low $89.02 (+17.66%) |
+| Trend | -2.42% vs SMA200, -0.04% vs SMA50, -3.96% vs SMA20 |
 | Momentum | RSI(14) 38.7 (neutral) |
 | Volatility | ATR(14) 2.08 (~2.0% of price); beta 0.43 |
 | Setup perspective | -9.67% from 52w high; no clean fresh pivot by default. |
@@ -110,12 +110,12 @@ Entergy Corporation, together with its subsidiaries, engages in the production a
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $104.74 | EV/Sales | 5.82 |
+| Price | $104.75 | EV/Sales | 5.82 |
 | Market cap | $50.05B | EV/EBITDA | 13.80 |
 | Beta | 0.43 | Gross margin | 47.93% |
 | RSI(14) | 38.7 | Operating margin | 25.01% |
 | ATR(14) | 2.08 | Profit margin | 14.56% |
-| SMA20 dist | -3.97% | ROA | 2.89% |
+| SMA20 dist | -3.96% | ROA | 2.89% |
 | SMA50 dist | -0.04% | ROE | 11.02% |
 | SMA200 dist | -2.42% | Revenue (ttm) | $14.04B |
 | 52W high | $115.95 | Revenue growth y/y | 14.50% |

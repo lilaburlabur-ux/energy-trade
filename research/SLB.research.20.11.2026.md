@@ -4,7 +4,7 @@ Signed file: `SLB.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $46.08 (2026-11-20, ~15-min delayed) |
+| Current price | $46.09 (2026-11-20, ~15-min delayed) |
 | Market cap | $68.02B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
@@ -15,8 +15,8 @@ Signed file: `SLB.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-10.10%) with negative half-year (-18.71%). |
-| Fresh setup quality | Moderate / wait | -22.93% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-10.08%) with negative half-year (-18.69%). |
+| Fresh setup quality | Moderate / wait | -22.91% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 8.40%, revenue growth 5.80%. |
 | Value attractiveness | Reasonable | Forward P/E 14.97, EV/Sales 2.20. |
 | Risk level | Elevated | Beta 0.79, ATR 3.6% of price, short float 4.46%. |
@@ -44,11 +44,11 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $46.08; 52w high $59.79 (-22.93%); 52w low $34.35 (+34.15%) |
-| Trend | -10.10% vs SMA200, -8.98% vs SMA50, -9.58% vs SMA20 |
-| Momentum | RSI(14) 30.9 (neutral) |
+| Price vs 52-week range | Close $46.09; 52w high $59.79 (-22.91%); 52w low $34.35 (+34.18%) |
+| Trend | -10.08% vs SMA200, -8.96% vs SMA50, -9.56% vs SMA20 |
+| Momentum | RSI(14) 31.0 (neutral) |
 | Volatility | ATR(14) 1.64 (~3.6% of price); beta 0.79 |
-| Setup perspective | -22.93% from 52w high; no clean fresh pivot by default. |
+| Setup perspective | -22.91% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
@@ -58,7 +58,7 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 | Month | -7.0% |
 | Quarter | -14.2% |
 | Half Y | -18.7% |
-| 1Y | +31.6% |
+| 1Y | +31.7% |
 | YTD | +16.5% |
 
 ## 4. Fundamental Analysis
@@ -110,14 +110,14 @@ SLB N.V. engages in the provision of technology for the energy industry worldwid
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $46.08 | EV/Sales | 2.20 |
+| Price | $46.09 | EV/Sales | 2.20 |
 | Market cap | $68.02B | EV/EBITDA | 10.97 |
 | Beta | 0.79 | Gross margin | 16.59% |
-| RSI(14) | 30.9 | Operating margin | 13.81% |
+| RSI(14) | 31.0 | Operating margin | 13.81% |
 | ATR(14) | 1.64 | Profit margin | 8.40% |
-| SMA20 dist | -9.58% | ROA | 5.72% |
-| SMA50 dist | -8.98% | ROE | 11.66% |
-| SMA200 dist | -10.10% | Revenue (ttm) | $36.89B |
+| SMA20 dist | -9.56% | ROA | 5.72% |
+| SMA50 dist | -8.96% | ROE | 11.66% |
+| SMA200 dist | -10.08% | Revenue (ttm) | $36.89B |
 | 52W high | $59.79 | Revenue growth y/y | 5.80% |
 | 52W low | $34.35 | Inst. ownership | 93.94% |
 | P/E (ttm) | 22.37 | Insider ownership | 0.20% |

@@ -4,8 +4,8 @@ Signed file: `FLNC.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $3.49 (2026-11-20, ~15-min delayed) |
-| Market cap | $679.37M |
+| Current price | $3.48 (2026-11-20, ~15-min delayed) |
+| Market cap | $677.43M |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: high. |
@@ -15,10 +15,10 @@ Signed file: `FLNC.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-74.61%) with negative half-year (-83.76%). |
-| Fresh setup quality | Poor / broken | -89.17% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-74.69%) with negative half-year (-83.81%). |
+| Fresh setup quality | Poor / broken | -89.20% from 52w high — base needs to rebuild. |
 | Fundamental quality | Weak | Negative profit margin (-3.07%). |
-| Value attractiveness | Reasonable | Forward P/E -6.58, EV/Sales 0.26. |
+| Value attractiveness | Reasonable | Forward P/E -6.56, EV/Sales 0.26. |
 | Risk level | High | Beta 2.79, ATR 13.5% of price, short float 49.11%. |
 
 **Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: high.
@@ -44,22 +44,22 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $3.49; 52w high $32.23 (-89.17%); 52w low $3.49 (+0.00%) |
-| Trend | -74.61% vs SMA200, -45.34% vs SMA50, -31.01% vs SMA20 |
-| Momentum | RSI(14) 25.2 (oversold) |
+| Price vs 52-week range | Close $3.48; 52w high $32.23 (-89.20%); 52w low $3.48 (+0.00%) |
+| Trend | -74.69% vs SMA200, -45.49% vs SMA50, -31.20% vs SMA20 |
+| Momentum | RSI(14) 25.1 (oversold) |
 | Volatility | ATR(14) 0.47 (~13.5% of price); beta 2.79 |
-| Setup perspective | -89.17% from 52w high — base needs to rebuild. |
+| Setup perspective | -89.20% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | -25.4% |
-| Month | -38.8% |
-| Quarter | -67.9% |
+| Week | -25.6% |
+| Month | -38.9% |
+| Quarter | -68.0% |
 | Half Y | -83.8% |
-| 1Y | -79.2% |
-| YTD | -84.8% |
+| 1Y | -79.3% |
+| YTD | -84.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 | Revenue (ttm) | $2.63B | Revenue growth 7.90% y/y |
 | Profitability | Gross 9.36%, operating -4.21%, net -3.07% | ROA -2.95%, ROE -23.54% |
 | Balance sheet | Cash $339.33M, debt $413.16M | Current ratio 1.34, debt/equity 95.81 |
-| Valuation | P/E —, forward P/E -6.58, P/S 0.26, P/B 1.34 | EV/Sales 0.26, EV/EBITDA -8.72 |
+| Valuation | P/E —, forward P/E -6.56, P/S 0.26, P/B 1.33 | EV/Sales 0.26, EV/EBITDA -8.72 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $7.95 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -113,21 +113,21 @@ Fluence Energy, Inc., through its subsidiaries, provides energy storage and opti
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $3.49 | EV/Sales | 0.26 |
-| Market cap | $679.37M | EV/EBITDA | -8.72 |
+| Price | $3.48 | EV/Sales | 0.26 |
+| Market cap | $677.43M | EV/EBITDA | -8.72 |
 | Beta | 2.79 | Gross margin | 9.36% |
-| RSI(14) | 25.2 | Operating margin | -4.21% |
+| RSI(14) | 25.1 | Operating margin | -4.21% |
 | ATR(14) | 0.47 | Profit margin | -3.07% |
-| SMA20 dist | -31.01% | ROA | -2.95% |
-| SMA50 dist | -45.34% | ROE | -23.54% |
-| SMA200 dist | -74.61% | Revenue (ttm) | $2.63B |
+| SMA20 dist | -31.20% | ROA | -2.95% |
+| SMA50 dist | -45.49% | ROE | -23.54% |
+| SMA200 dist | -74.69% | Revenue (ttm) | $2.63B |
 | 52W high | $32.23 | Revenue growth y/y | 7.90% |
-| 52W low | $3.49 | Inst. ownership | 82.63% |
+| 52W low | $3.48 | Inst. ownership | 82.63% |
 | P/E (ttm) | — | Insider ownership | 14.42% |
-| Forward P/E | -6.58 | Short float | 49.11% |
+| Forward P/E | -6.56 | Short float | 49.11% |
 | PEG (trailing) | — | Avg volume | 7,045,429 |
 | P/S | 0.26 | Employees | 1,670 |
-| P/B | 1.34 | Analyst rec (1=buy..5=sell) | — |
+| P/B | 1.33 | Analyst rec (1=buy..5=sell) | — |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

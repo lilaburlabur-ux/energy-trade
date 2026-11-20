@@ -15,7 +15,7 @@ Signed file: `OKLO.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-59.32%) with negative half-year (-69.55%). |
+| Technical momentum | Low | Below SMA200 (-59.31%) with negative half-year (-69.55%). |
 | Fresh setup quality | Poor / broken | -82.03% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth —. |
 | Value attractiveness | Reasonable | Forward P/E -17.65, EV/Sales 512.02. |
@@ -44,8 +44,8 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $20.06; 52w high $111.65 (-82.03%); 52w low $19.20 (+4.48%) |
-| Trend | -59.32% vs SMA200, -33.60% vs SMA50, -16.17% vs SMA20 |
+| Price vs 52-week range | Close $20.06; 52w high $111.65 (-82.03%); 52w low $19.20 (+4.50%) |
+| Trend | -59.31% vs SMA200, -33.59% vs SMA50, -16.16% vs SMA20 |
 | Momentum | RSI(14) 32.7 (neutral) |
 | Volatility | ATR(14) 2.18 (~10.9% of price); beta 1.31 |
 | Setup perspective | -82.03% from 52w high — base needs to rebuild. |
@@ -56,8 +56,8 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 |---|---|
 | Week | -16.1% |
 | Month | -25.7% |
-| Quarter | -49.5% |
-| Half Y | -69.6% |
+| Quarter | -49.4% |
+| Half Y | -69.5% |
 | 1Y | -80.5% |
 | YTD | -74.2% |
 
@@ -68,7 +68,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Revenue (ttm) | $3.07M | Revenue growth — y/y |
 | Profitability | Gross 41.06%, operating -8587.07%, net 0.00% | ROA -6.57%, ROE -6.79% |
 | Balance sheet | Cash $2.50B, debt $4.41M | Current ratio 31.20, debt/equity 0.12 |
-| Valuation | P/E —, forward P/E -17.65, P/S 1,275.65, P/B 1.07 | EV/Sales 512.02, EV/EBITDA -5.99 |
+| Valuation | P/E —, forward P/E -17.65, P/S 1,275.87, P/B 1.07 | EV/Sales 512.02, EV/EBITDA -5.99 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $55.43 (21 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -117,15 +117,15 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | Beta | 1.31 | Gross margin | 41.06% |
 | RSI(14) | 32.7 | Operating margin | -8587.07% |
 | ATR(14) | 2.18 | Profit margin | 0.00% |
-| SMA20 dist | -16.17% | ROA | -6.57% |
-| SMA50 dist | -33.60% | ROE | -6.79% |
-| SMA200 dist | -59.32% | Revenue (ttm) | $3.07M |
+| SMA20 dist | -16.16% | ROA | -6.57% |
+| SMA50 dist | -33.59% | ROE | -6.79% |
+| SMA200 dist | -59.31% | Revenue (ttm) | $3.07M |
 | 52W high | $111.65 | Revenue growth y/y | — |
 | 52W low | $19.20 | Inst. ownership | 49.32% |
 | P/E (ttm) | — | Insider ownership | 14.62% |
 | Forward P/E | -17.65 | Short float | 21.88% |
 | PEG (trailing) | — | Avg volume | 10,105,162 |
-| P/S | 1,275.65 | Employees | 215 |
+| P/S | 1,275.87 | Employees | 215 |
 | P/B | 1.07 | Analyst rec (1=buy..5=sell) | 2.1 |
 
 ## 8. Analyst Actions

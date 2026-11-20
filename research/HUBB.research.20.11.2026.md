@@ -4,8 +4,8 @@ Signed file: `HUBB.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $406.07 (2026-11-20, ~15-min delayed) |
-| Market cap | $21.45B |
+| Current price | $406.12 (2026-11-20, ~15-min delayed) |
+| Market cap | $21.46B |
 | Sector / Industry | Industrials / Electrical Equipment & Parts |
 | Main theme | Electrical Equipment & Parts — see catalysts below |
 | Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
@@ -15,8 +15,8 @@ Signed file: `HUBB.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Low | Below SMA200 (-15.78%) with negative half-year (-13.99%). |
-| Fresh setup quality | Poor / broken | -26.76% from 52w high — base needs to rebuild. |
+| Technical momentum | Low | Below SMA200 (-15.77%) with negative half-year (-13.98%). |
+| Fresh setup quality | Poor / broken | -26.75% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 13.78%, revenue growth 24.60%. |
 | Value attractiveness | Reasonable | Forward P/E 17.61, EV/Sales 4.11. |
 | Risk level | Elevated | Beta 0.84, ATR 3.7% of price, short float 5.75%. |
@@ -44,11 +44,11 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $406.07; 52w high $554.46 (-26.76%); 52w low $402.45 (+0.90%) |
-| Trend | -15.78% vs SMA200, -9.86% vs SMA50, -6.21% vs SMA20 |
+| Price vs 52-week range | Close $406.12; 52w high $554.46 (-26.75%); 52w low $402.45 (+0.91%) |
+| Trend | -15.77% vs SMA200, -9.85% vs SMA50, -6.20% vs SMA20 |
 | Momentum | RSI(14) 34.2 (neutral) |
 | Volatility | ATR(14) 14.85 (~3.7% of price); beta 0.84 |
-| Setup perspective | -26.76% from 52w high — base needs to rebuild. |
+| Setup perspective | -26.75% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
@@ -112,14 +112,14 @@ Hubbell Incorporated, together with its subsidiaries, manufactures and sells ele
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $406.07 | EV/Sales | 4.11 |
-| Market cap | $21.45B | EV/EBITDA | 16.89 |
+| Price | $406.12 | EV/Sales | 4.11 |
+| Market cap | $21.46B | EV/EBITDA | 16.89 |
 | Beta | 0.84 | Gross margin | 35.02% |
 | RSI(14) | 34.2 | Operating margin | 20.10% |
 | ATR(14) | 14.85 | Profit margin | 13.78% |
-| SMA20 dist | -6.21% | ROA | 8.53% |
-| SMA50 dist | -9.86% | ROE | 23.43% |
-| SMA200 dist | -15.78% | Revenue (ttm) | $6.59B |
+| SMA20 dist | -6.20% | ROA | 8.53% |
+| SMA50 dist | -9.85% | ROE | 23.43% |
+| SMA200 dist | -15.77% | Revenue (ttm) | $6.59B |
 | 52W high | $554.46 | Revenue growth y/y | 24.60% |
 | 52W low | $402.45 | Inst. ownership | 98.04% |
 | P/E (ttm) | 23.82 | Insider ownership | 0.39% |
