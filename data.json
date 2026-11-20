@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-20T00:46:06+00:00",
-  "as_of_local": "2026-11-20 00:46:06 UTC",
+  "as_of_utc": "2026-11-20T00:51:12+00:00",
+  "as_of_local": "2026-11-20 00:51:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 648310793147.8025,
       "headlines": [
         {
+          "title": "Guyana Oil Boom Rekindles Frontier Drilling Appetite",
+          "url": "https://finance.yahoo.com/energy/articles/guyana-oil-boom-rekindles-frontier-000000725.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-20T00:00:00Z"
+        },
+        {
           "title": "ExxonMobil Holdings (XOM) Gets Mozambique Approval For $30 Billion Rovuma LNG Plan",
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-gets-mozambique-211612645.html",
           "publisher": "Simply Wall St.",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/trump-cheers-biggest-drop-gasoline-195817716.html",
           "publisher": "TIKR",
           "published": "2026-11-19T19:58:17Z"
-        },
-        {
-          "title": "How Retirees Can Turn $1 Million Into Passive Income With These 5 Dividend Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-turn-1-million-passive-180050853.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T18:00:50Z"
         }
       ]
     },
@@ -993,6 +993,12 @@
       "market_cap": 46346970516.52901,
       "headlines": [
         {
+          "title": "Baker Hughes and McDermott Win Contract for Major Australian LNG Project",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-mcdermott-win-contract-004000683.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-20T00:40:00Z"
+        },
+        {
           "title": "Baker Hughes & TPAO Partner on Next-Generation Geothermal in Turkiye",
           "url": "https://finance.yahoo.com/energy/articles/baker-hughes-tpao-partner-next-113400937.html",
           "publisher": "Zacks",
@@ -1003,12 +1009,6 @@
           "url": "https://finance.yahoo.com/news/nextchem-agrees-buy-chart-lng-102055516.html",
           "publisher": "Offshore Technology",
           "published": "2026-11-18T10:20:55Z"
-        },
-        {
-          "title": "A CNH Industrial Director Who Runs Baker Hughes Just Bought $567,000 of Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-director-runs-baker-092632780.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T09:26:32Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 82.86,
-      "change_pct": -0.48
+      "price": 82.82,
+      "change_pct": -0.53
     },
     {
       "label": "Brent",
-      "price": 89.77,
-      "change_pct": -2.37
+      "price": 89.8,
+      "change_pct": -2.34
     },
     {
       "label": "NatGas",
