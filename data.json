@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-20T12:18:52+00:00",
-  "as_of_local": "2026-11-20 12:18:52 UTC",
+  "as_of_utc": "2026-11-20T12:23:49+00:00",
+  "as_of_local": "2026-11-20 12:23:49 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "NEE"
+    "EQNR"
   ],
   "stocks": [
     {
@@ -143,6 +143,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-totalenergies-vs-183426434.html",
           "publisher": "TIKR",
           "published": "2026-11-18T18:34:26Z"
+        }
+      ]
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy",
+      "price": 83.79,
+      "previous_close": 84.78,
+      "change_pct": -1.17,
+      "market_cap": 175733275765.85104,
+      "headlines": [
+        {
+          "title": "Why Is Dominion Energy (D) Facing Tough Questions In Virginia Merger Hearings?",
+          "url": "https://finance.yahoo.com/energy/articles/why-dominion-energy-d-facing-101230471.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T10:12:30Z"
+        },
+        {
+          "title": "DOJ closes antitrust probe into NextEra\u2019s $66.8 bln Dominion deal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/doj-closes-antitrust-probe-nextera-032504407.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-20T03:25:04Z"
+        },
+        {
+          "title": "$100,000 in Dominion Energy and Exelon Could Pay $3,846 a Year in Dividends",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/100-000-dominion-energy-exelon-164743852.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-19T16:47:43Z"
         }
       ]
     },
@@ -367,34 +395,6 @@
           "url": "https://finance.yahoo.com/energy/articles/valeros-crude-flexibility-gulf-coast-171900103.html",
           "publisher": "Zacks",
           "published": "2026-11-19T17:19:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "EQNR",
-      "name": "Equinor",
-      "price": 39.69,
-      "previous_close": 40.13,
-      "change_pct": -1.1,
-      "market_cap": 93881713117.43237,
-      "headlines": [
-        {
-          "title": "Sector Update: Energy Stocks Lower Thursday Afternoon",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-thursday-184347774.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-19T18:43:47Z"
-        },
-        {
-          "title": "Sector Update: Energy Stocks Mixed in Early Thursday Trading",
-          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-early-143651830.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-19T14:36:51Z"
-        },
-        {
-          "title": "Should Investors Buy, Hold or Sell Equinor Stock Post Q3 Earnings?",
-          "url": "https://finance.yahoo.com/energy/articles/investors-buy-hold-sell-equinor-132900291.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T13:29:00Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.43,
-      "change_pct": -0.94
+      "price": 82.35,
+      "change_pct": -1.03
     },
     {
       "label": "Brent",
-      "price": 89.39,
-      "change_pct": -2.82
+      "price": 89.38,
+      "change_pct": -2.83
     },
     {
       "label": "NatGas",
-      "price": 3.57,
-      "change_pct": 9.15
+      "price": 3.56,
+      "change_pct": 8.97
     }
   ]
 }
