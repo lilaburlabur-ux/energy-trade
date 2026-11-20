@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T10:52:31+00:00",
-  "as_of_local": "2026-11-20 10:52:31 UTC",
+  "as_of_utc": "2026-11-20T10:57:23+00:00",
+  "as_of_local": "2026-11-20 10:57:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NOV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1517,34 +1519,6 @@
       ]
     },
     {
-      "symbol": "NOV",
-      "name": "NOV Inc",
-      "price": 16.47,
-      "previous_close": 16.85,
-      "change_pct": -2.26,
-      "market_cap": 5871760481.9723,
-      "headlines": [
-        {
-          "title": "NOV (NOV) Stock Trades At A Discount To Fair Value",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nov-nov-stock-trades-discount-001953310.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-17T00:19:53Z"
-        },
-        {
-          "title": "DTI Q3 Earnings Miss Estimates on Higher Costs Despite Sales Growth",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html",
-          "publisher": "Zacks",
-          "published": "2026-11-10T18:15:00Z"
-        },
-        {
-          "title": "CNQ Q3 Earnings Beat on Strong Pricing and Record Thermal Output",
-          "url": "https://finance.yahoo.com/energy/articles/cnq-q3-earnings-beat-strong-152800153.html",
-          "publisher": "Zacks",
-          "published": "2026-11-09T15:28:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 79.61,
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 81.57,
-      "change_pct": -1.97
+      "price": 81.51,
+      "change_pct": -2.04
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.59,
-      "change_pct": 9.76
+      "change_pct": 9.7
     }
   ]
 }
