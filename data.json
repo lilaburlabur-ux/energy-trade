@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T13:04:29+00:00",
-  "as_of_local": "2026-11-20 13:04:29 UTC",
+  "as_of_utc": "2026-11-20T13:09:23+00:00",
+  "as_of_local": "2026-11-20 13:09:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "HUBB"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -915,16 +917,16 @@
           "published": "2026-11-20T12:52:19Z"
         },
         {
-          "title": "Has Buying Bloom Energy Stock's Dips Paid Off?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buying-bloom-energy-stocks-dips-112253707.html",
-          "publisher": "Trefis",
-          "published": "2026-11-20T11:22:53Z"
+          "title": "This Top AI Energy Supply Stock Is Getting Torched. Why Fortune Favors the Bold.",
+          "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-trade-ef008720?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-20T12:44:00Z"
         },
         {
-          "title": "Wall Street Wrap: ASTS, BE, MDB Stocks Win Bullish Calls As PEP, USAR, SMMT Face Downgrades",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wrap-asts-mdb-101450578.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-20T10:14:50Z"
+          "title": "Anthropic, AMD, Intel, Marvell, Intuit, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://www.barrons.com/articles/stock-movers-affd1759?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-20T12:02:00Z"
         }
       ]
     },
@@ -1177,34 +1179,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-mid-cap-110426867.html",
           "publisher": "GuruFocus.com",
           "published": "2026-11-19T11:04:26Z"
-        }
-      ]
-    },
-    {
-      "symbol": "HUBB",
-      "name": "Hubbell",
-      "price": 418.74,
-      "previous_close": 426.47,
-      "change_pct": -1.81,
-      "market_cap": 22124142039.93286,
-      "headlines": [
-        {
-          "title": "Is Eaton A Better Data Center Play Than Rockwell?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-better-data-center-play-150328461.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T15:03:28Z"
-        },
-        {
-          "title": "Can Data Center Momentum Continue to Drive FPS Through 2027?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/data-center-momentum-continue-drive-141300084.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T14:13:00Z"
-        },
-        {
-          "title": "Eaton Stock Has One Thing Left To Prove",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-one-thing-left-130831914.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T13:08:31Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.37,
-      "change_pct": -1.01
+      "price": 82.45,
+      "change_pct": -0.91
     },
     {
       "label": "Brent",
-      "price": 89.41,
-      "change_pct": -2.79
+      "price": 89.52,
+      "change_pct": -2.67
     },
     {
       "label": "NatGas",
-      "price": 3.6,
-      "change_pct": 10.22
+      "price": 3.61,
+      "change_pct": 10.4
     }
   ]
 }
