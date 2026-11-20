@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T22:56:03+00:00",
-  "as_of_local": "2026-11-20 22:56:03 UTC",
+  "as_of_utc": "2026-11-20T23:00:53+00:00",
+  "as_of_local": "2026-11-20 23:00:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "LEU"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1683,6 +1681,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-first-solar-154151558.html",
           "publisher": "Trefis",
           "published": "2026-11-18T15:41:51Z"
+        }
+      ]
+    },
+    {
+      "symbol": "LEU",
+      "name": "Centrus Energy",
+      "price": 81.43,
+      "previous_close": 89.7,
+      "change_pct": -9.22,
+      "market_cap": 1678960389.7922516,
+      "headlines": [
+        {
+          "title": "Can Energy Fuels Sustain Its Expansion Plans Amid Cash Outflows?",
+          "url": "https://finance.yahoo.com/energy/articles/energy-fuels-sustain-expansion-plans-145500840.html",
+          "publisher": "Zacks",
+          "published": "2026-11-20T14:55:00Z"
+        },
+        {
+          "title": "Cameco's EBITDA Falls for a Second Quarter: Is There a Recovery Ahead?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/camecos-ebitda-falls-second-quarter-145000759.html",
+          "publisher": "Zacks",
+          "published": "2026-11-20T14:50:00Z"
+        },
+        {
+          "title": "Who Is Paying For X-Energy's Cash Burn?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/paying-x-energys-cash-burn-170957572.html",
+          "publisher": "Trefis",
+          "published": "2026-11-18T17:09:57Z"
         }
       ]
     },
