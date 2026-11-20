@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-20T09:26:17+00:00",
-  "as_of_local": "2026-11-20 09:26:17 UTC",
+  "as_of_utc": "2026-11-20T09:31:26+00:00",
+  "as_of_local": "2026-11-20 09:31:26 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -265,6 +265,12 @@
       "market_cap": 108613912461.32281,
       "headlines": [
         {
+          "title": "Southern (SO) Wraps Up $1.75 Billion Composite Units Offering With 35 Million Units",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/southern-wraps-1-75-billion-091154176.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T09:11:54Z"
+        },
+        {
           "title": "Will Buyers Defend Constellation Energy Stock At $263?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/buyers-defend-constellation-energy-stock-120804759.html",
           "publisher": "Trefis",
@@ -275,12 +281,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/one-unsettled-sits-under-southern-111820074.html",
           "publisher": "Trefis",
           "published": "2026-11-19T11:18:20Z"
-        },
-        {
-          "title": "How Many Shares of Southern Company, Edison International or WEC Energy Pay $1,000 a Month in Dividends?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/many-shares-southern-company-edison-154911957.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T15:49:11Z"
         }
       ]
     },
@@ -349,6 +349,12 @@
       "market_cap": 94674465599.91403,
       "headlines": [
         {
+          "title": "What\u2019s Going On With Phillips 66 (PSX)?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/going-phillips-66-psx-090824443.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T09:08:24Z"
+        },
+        {
           "title": "Your Chevron Hedge Works Only While Oil Spikes",
           "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-hedge-works-only-while-151336974.html",
           "publisher": "Trefis",
@@ -359,12 +365,6 @@
           "url": "https://finance.yahoo.com/energy/articles/valero-energy-vs-phillips-66-125100442.html",
           "publisher": "Zacks",
           "published": "2026-11-19T12:51:00Z"
-        },
-        {
-          "title": "What Moved Marathon Petroleum Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/moved-marathon-petroleum-stock-124548617.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T12:45:48Z"
         }
       ]
     },
@@ -377,6 +377,12 @@
       "market_cap": 94391211640.95459,
       "headlines": [
         {
+          "title": "Why Everyone Is Watching Valero Energy (VLO) Right Now",
+          "url": "https://finance.yahoo.com/energy/articles/why-everyone-watching-valero-energy-090742671.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T09:07:42Z"
+        },
+        {
           "title": "Trump Cheers the \u201cBiggest Drop in Gasoline in 18 Years.\u201d Not Good for Exxon and Chevron",
           "url": "https://finance.yahoo.com/energy/articles/trump-cheers-biggest-drop-gasoline-195817716.html",
           "publisher": "TIKR",
@@ -387,12 +393,6 @@
           "url": "https://finance.yahoo.com/energy/articles/valeros-crude-flexibility-gulf-coast-171900103.html",
           "publisher": "Zacks",
           "published": "2026-11-19T17:19:00Z"
-        },
-        {
-          "title": "Your Chevron Hedge Works Only While Oil Spikes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-hedge-works-only-while-151336974.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T15:13:36Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.69,
-      "change_pct": -1.83
+      "price": 81.43,
+      "change_pct": -2.14
     },
     {
       "label": "Brent",
-      "price": 88.59,
-      "change_pct": -3.69
+      "price": 88.39,
+      "change_pct": -3.9
     },
     {
       "label": "NatGas",
       "price": 3.58,
-      "change_pct": 9.52
+      "change_pct": 9.58
     }
   ]
 }
