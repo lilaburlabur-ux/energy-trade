@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-20T05:33:07+00:00",
-  "as_of_local": "2026-11-20 05:33:07 UTC",
+  "as_of_utc": "2026-11-20T05:38:17+00:00",
+  "as_of_local": "2026-11-20 05:38:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "BP"
+    "CCJ"
   ],
   "stocks": [
     {
@@ -227,6 +227,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/concern-behind-erste-group-call-151651946.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-19T15:16:51Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BP",
+      "name": "BP",
+      "price": 43.21,
+      "previous_close": 43.25,
+      "change_pct": -0.09,
+      "market_cap": 111293925185.39008,
+      "headlines": [
+        {
+          "title": "BP weighs divesting West Africa LNG stake to streamline portfolio, Bloomberg says",
+          "url": "https://finance.yahoo.com/energy/articles/bp-weighs-divesting-west-africa-184647485.html",
+          "publisher": "Investing.com",
+          "published": "2026-11-19T18:46:47Z"
+        },
+        {
+          "title": "European Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-161006986.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-19T16:10:06Z"
+        },
+        {
+          "title": "Should Investors Buy, Hold or Sell Equinor Stock Post Q3 Earnings?",
+          "url": "https://finance.yahoo.com/energy/articles/investors-buy-hold-sell-equinor-132900291.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T13:29:00Z"
         }
       ]
     },
@@ -1067,34 +1095,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/6-natural-gas-stocks-money-153300478.html",
           "publisher": "Motley Fool",
           "published": "2026-11-15T15:33:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CCJ",
-      "name": "Cameco",
-      "price": 61.42,
-      "previous_close": 62.44,
-      "change_pct": -1.63,
-      "market_cap": 26750434772.695297,
-      "headlines": [
-        {
-          "title": "Cameco Slides After a C$2 Million Q3 Loss as Westinghouse Holds \u201cthe Greatest Growth Potential\u201d",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-slides-c-2-million-120317395.html",
-          "publisher": "TIKR",
-          "published": "2026-11-19T12:03:17Z"
-        },
-        {
-          "title": "Can Cameco's Uranium Contracts Drive Sustained Long-Term Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/camecos-uranium-contracts-drive-sustained-122700516.html",
-          "publisher": "Zacks",
-          "published": "2026-11-18T12:27:00Z"
-        },
-        {
-          "title": "The Next Nuclear Opportunity May Be in Fuel, Not Reactors: 3 Stocks to Watch",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/next-nuclear-opportunity-may-fuel-153000439.html",
-          "publisher": "MarketBeat",
-          "published": "2026-11-17T15:30:00Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.83,
-      "change_pct": -0.46
+      "price": 82.89,
+      "change_pct": -0.38
     },
     {
       "label": "Brent",
-      "price": 89.85,
-      "change_pct": -2.32
+      "price": 89.92,
+      "change_pct": -2.24
     },
     {
       "label": "NatGas",
-      "price": 3.24,
-      "change_pct": -0.92
+      "price": 3.23,
+      "change_pct": -1.01
     }
   ]
 }
