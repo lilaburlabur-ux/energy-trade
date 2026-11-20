@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T05:38:17+00:00",
-  "as_of_local": "2026-11-20 05:38:17 UTC",
+  "as_of_utc": "2026-11-20T05:53:23+00:00",
+  "as_of_local": "2026-11-20 05:53:23 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "CCJ"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1099,6 +1097,34 @@
       ]
     },
     {
+      "symbol": "CCJ",
+      "name": "Cameco",
+      "price": 61.42,
+      "previous_close": 62.44,
+      "change_pct": -1.63,
+      "market_cap": 26750434772.695297,
+      "headlines": [
+        {
+          "title": "Cameco Slides After a C$2 Million Q3 Loss as Westinghouse Holds \u201cthe Greatest Growth Potential\u201d",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cameco-slides-c-2-million-120317395.html",
+          "publisher": "TIKR",
+          "published": "2026-11-19T12:03:17Z"
+        },
+        {
+          "title": "Can Cameco's Uranium Contracts Drive Sustained Long-Term Growth?",
+          "url": "https://finance.yahoo.com/energy/articles/camecos-uranium-contracts-drive-sustained-122700516.html",
+          "publisher": "Zacks",
+          "published": "2026-11-18T12:27:00Z"
+        },
+        {
+          "title": "The Next Nuclear Opportunity May Be in Fuel, Not Reactors: 3 Stocks to Watch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/next-nuclear-opportunity-may-fuel-153000439.html",
+          "publisher": "MarketBeat",
+          "published": "2026-11-17T15:30:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "HAL",
       "name": "Halliburton",
       "price": 31.73,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.89,
-      "change_pct": -0.38
+      "price": 82.82,
+      "change_pct": -0.47
     },
     {
       "label": "Brent",
-      "price": 89.92,
-      "change_pct": -2.24
+      "price": 89.93,
+      "change_pct": -2.23
     },
     {
       "label": "NatGas",
       "price": 3.23,
-      "change_pct": -1.01
+      "change_pct": -1.04
     }
   ]
 }
