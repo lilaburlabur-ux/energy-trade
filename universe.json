@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-11-20 21:33 UTC",
+  "as_of": "2026-11-20 21:35 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -1022,7 +1022,7 @@
       44.81
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 2.81
+     "fwd_eps": 2.8
     },
     {
      "ticker": "HAL",
@@ -2848,7 +2848,7 @@
      "industry": "Engineering & Construction",
      "country": "United States",
      "market_cap_b": 84.29,
-     "pe": 50.59,
+     "pe": 49.3,
      "price": 559.03,
      "change_pct": -4.83,
      "volume": 2171995,
@@ -3149,7 +3149,7 @@
     }
    ],
    "median_change_pct": -8.6,
-   "pe_hm": 27.1
+   "pe_hm": 27.0
   },
   {
    "id": "power_utilities_ipp",
