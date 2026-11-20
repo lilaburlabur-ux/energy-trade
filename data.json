@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-20T08:30:45+00:00",
-  "as_of_local": "2026-11-20 08:30:45 UTC",
+  "as_of_utc": "2026-11-20T08:35:37+00:00",
+  "as_of_local": "2026-11-20 08:35:37 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -573,6 +573,12 @@
       "market_cap": 73632300824.74274,
       "headlines": [
         {
+          "title": "3 Canadian Oil Sands Stocks Backed By Alberta Royalty Changes",
+          "url": "https://finance.yahoo.com/energy/articles/3-canadian-oil-sands-stocks-081217609.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T08:12:17Z"
+        },
+        {
           "title": "Suncor vs. Cenovus: Which Canadian Energy Stock Is the Better Buy?",
           "url": "https://finance.yahoo.com/energy/articles/suncor-vs-cenovus-canadian-energy-141900207.html",
           "publisher": "Zacks",
@@ -583,12 +589,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-avnet-093600283.html",
           "publisher": "Zacks",
           "published": "2026-11-17T09:36:00Z"
-        },
-        {
-          "title": "Why Is Suncor Energy (TSX:SU) Rethinking Its In Situ Growth Plans?",
-          "url": "https://finance.yahoo.com/energy/articles/why-suncor-energy-tsx-su-043414518.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-17T04:34:14Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.42,
-      "change_pct": -0.95
+      "price": 82.2,
+      "change_pct": -1.21
     },
     {
       "label": "Brent",
-      "price": 89.47,
-      "change_pct": -2.73
+      "price": 89.24,
+      "change_pct": -2.98
     },
     {
       "label": "NatGas",
       "price": 3.17,
-      "change_pct": -2.88
+      "change_pct": -3.03
     }
   ]
 }
