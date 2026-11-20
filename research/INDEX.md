@@ -22,7 +22,7 @@
 | OVV | $16.35B | +59% | 6.9 | 13% | Moderate | Reasonable | Elevated |
 | SLB | $67.73B | +31% | 14.9 | 8% | Low | Reasonable | Elevated |
 | HAL | $25.26B | +18% | 10.4 | 9% | Low | Reasonable | Elevated |
-| BKR | $44.50B | -6% | 16.0 | 10% | Low | Reasonable | Elevated |
+| BKR | $44.50B | -6% | 15.9 | 10% | Low | Reasonable | Elevated |
 | NOV | $5.71B | +8% | 12.6 | 2% | Low | Reasonable | High |
 | FTI | $22.83B | +34% | 15.4 | 12% | Low | Reasonable | Elevated |
 | WFRD | $5.43B | +5% | 11.2 | 9% | Low | Reasonable | Elevated |

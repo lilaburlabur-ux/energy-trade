@@ -69,7 +69,7 @@ Suncor Energy Inc. operates as an integrated energy company in Canada, the Unite
 | Profitability | Gross 60.55%, operating 24.04%, net 17.68% | ROA 10.11%, ROE 23.46% |
 | Balance sheet | Cash $8.00B, debt $14.44B | Current ratio 1.71, debt/equity 29.07 |
 | Valuation | P/E 9.41, forward P/E 9.01, P/S 1.17, P/B 2.09 | EV/Sales 1.27, EV/EBITDA 3.45 |
-| Growth expectations | Earnings growth 144.60%, EPS q/q 135.60% | Analyst mean target $74.08 (3 analysts) |
+| Growth expectations | Earnings growth 144.60%, EPS q/q 135.60% | Analyst mean target $74.10 (3 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
