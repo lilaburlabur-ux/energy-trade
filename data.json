@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-20T03:57:33+00:00",
-  "as_of_local": "2026-11-20 03:57:33 UTC",
+  "as_of_utc": "2026-11-20T04:00:57+00:00",
+  "as_of_local": "2026-11-20 04:00:57 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "MPLX"
+    "SHEL"
   ],
   "stocks": [
     {
@@ -59,34 +59,6 @@
           "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111926/card/wall-street-is-selling-the-news-too-after-anthropic-debut-W7n0ktGOTj6pJZCiT2O9?siteid=yhoof2&yptr=yahoo",
           "publisher": "Barrons.com",
           "published": "2026-11-19T17:08:54Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SHEL",
-      "name": "Shell",
-      "price": 94.34,
-      "previous_close": 97.24,
-      "change_pct": -2.98,
-      "market_cap": 265545447184.71002,
-      "headlines": [
-        {
-          "title": "HF Sinclair (DINO) Names Shawn J. Carsten As CFO",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hf-sinclair-dino-names-shawn-201212839.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19T20:12:12Z"
-        },
-        {
-          "title": "Will Eni's Expanded Lummus Partnership Boost Chemical Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/enis-expanded-lummus-partnership-boost-170500348.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T17:05:00Z"
-        },
-        {
-          "title": "NVIDIA\u2019s Q3 Earnings, Anthropic IPO Watch, Data Center Construction Slows in Q3",
-          "url": "https://finance.yahoo.com/video/nvidia-q3-earnings-anthropic-ipo-202556170.html",
-          "publisher": "Blockspace",
-          "published": "2026-11-18T20:25:56Z"
         }
       ]
     },
@@ -787,6 +759,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-dominion-energy-133819521.html",
           "publisher": "Trefis",
           "published": "2026-11-19T13:38:19Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPLX",
+      "name": "MPLX",
+      "price": 57.38,
+      "previous_close": 57.42,
+      "change_pct": -0.07,
+      "market_cap": 57225897433.11,
+      "headlines": [
+        {
+          "title": "2 Dividend Stocks Could Generate $30,000 a Year, but the Allocation Matters",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-dividend-stocks-could-generate-191730464.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-19T19:17:30Z"
+        },
+        {
+          "title": "Zacks Industry Outlook Highlights Kinder Morgan, The Williams and MPLX LP",
+          "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-kinder-095300150.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T09:53:00Z"
+        },
+        {
+          "title": "4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas",
+          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-141753664.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-16T14:17:53Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.03,
-      "change_pct": -0.28
+      "price": 83.09,
+      "change_pct": -0.2
     },
     {
       "label": "Brent",
-      "price": 90.04,
-      "change_pct": -2.08
+      "price": 90.09,
+      "change_pct": -2.02
     },
     {
       "label": "NatGas",
-      "price": 3.25,
-      "change_pct": -3.53
+      "price": 3.26,
+      "change_pct": -3.38
     }
   ]
 }
