@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T11:53:29+00:00",
-  "as_of_local": "2026-11-20 11:53:29 UTC",
+  "as_of_utc": "2026-11-20T11:58:31+00:00",
+  "as_of_local": "2026-11-20 11:58:31 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "CEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -421,34 +423,6 @@
           "url": "https://finance.yahoo.com/energy/articles/investors-buy-hold-sell-equinor-132900291.html",
           "publisher": "Zacks",
           "published": "2026-11-19T13:29:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "CEG",
-      "name": "Constellation Energy",
-      "price": 252.03,
-      "previous_close": 262.74,
-      "change_pct": -4.08,
-      "market_cap": 88615890833.9104,
-      "headlines": [
-        {
-          "title": "Constellation Energy (CEG) Following Its Earnings Beat And Guidance Hike Looks Cheap Versus Fair Value",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-following-earnings-201045909.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19T20:10:45Z"
-        },
-        {
-          "title": "Oklo Just Dropped 22% in a Month. What Would It Take to Get OKLO Stock to $25?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-just-dropped-22-month-200532898.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T20:05:32Z"
-        },
-        {
-          "title": "$100,000 in Dominion Energy and Exelon Could Pay $3,846 a Year in Dividends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/100-000-dominion-energy-exelon-164743852.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T16:47:43Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.26,
-      "change_pct": -1.14
+      "price": 82.27,
+      "change_pct": -1.13
     },
     {
       "label": "Brent",
-      "price": 89.09,
-      "change_pct": -3.14
+      "price": 89.12,
+      "change_pct": -3.11
     },
     {
       "label": "NatGas",
-      "price": 3.56,
-      "change_pct": 9.06
+      "price": 3.57,
+      "change_pct": 9.21
     }
   ]
 }
