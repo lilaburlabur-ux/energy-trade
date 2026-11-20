@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-20T03:52:17+00:00",
-  "as_of_local": "2026-11-20 03:52:17 UTC",
+  "as_of_utc": "2026-11-20T03:57:33+00:00",
+  "as_of_local": "2026-11-20 03:57:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "KMI"
+    "MPLX"
   ],
   "stocks": [
     {
@@ -651,6 +651,34 @@
       ]
     },
     {
+      "symbol": "KMI",
+      "name": "Kinder Morgan",
+      "price": 31.09,
+      "previous_close": 31.36,
+      "change_pct": -0.86,
+      "market_cap": 69259666809.53236,
+      "headlines": [
+        {
+          "title": "Senate Nears a Vote on a Landmark Permitting Bill. Here\u2019s Who Could Benefit.",
+          "url": "https://www.barrons.com/articles/senate-permitting-bill-energy-utility-stocks-d6da279b?siteid=yhoof2&yptr=yahoo",
+          "publisher": "Barrons.com",
+          "published": "2026-11-19T21:07:00Z"
+        },
+        {
+          "title": "How Many Shares of Kinder Morgan or Williams Pay $1,000 a Month in Dividends?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/many-shares-kinder-morgan-williams-173544191.html",
+          "publisher": "TIKR",
+          "published": "2026-11-19T17:35:44Z"
+        },
+        {
+          "title": "Enterprise Products' Permian Expansion Supports Growth Prospects",
+          "url": "https://finance.yahoo.com/energy/articles/enterprise-products-permian-expansion-supports-173100313.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T17:31:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "ET",
       "name": "Energy Transfer",
       "price": 19.11,
@@ -759,34 +787,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-dominion-energy-133819521.html",
           "publisher": "Trefis",
           "published": "2026-11-19T13:38:19Z"
-        }
-      ]
-    },
-    {
-      "symbol": "MPLX",
-      "name": "MPLX",
-      "price": 57.38,
-      "previous_close": 57.42,
-      "change_pct": -0.07,
-      "market_cap": 57225897433.11,
-      "headlines": [
-        {
-          "title": "2 Dividend Stocks Could Generate $30,000 a Year, but the Allocation Matters",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-dividend-stocks-could-generate-191730464.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T19:17:30Z"
-        },
-        {
-          "title": "Zacks Industry Outlook Highlights Kinder Morgan, The Williams and MPLX LP",
-          "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-kinder-095300150.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T09:53:00Z"
-        },
-        {
-          "title": "4 High-Yield Energy Stocks That Get Paid to Move Oil and Gas",
-          "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-141753664.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-16T14:17:53Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.87,
-      "change_pct": -0.47
+      "price": 83.03,
+      "change_pct": -0.28
     },
     {
       "label": "Brent",
-      "price": 89.91,
-      "change_pct": -2.22
+      "price": 90.04,
+      "change_pct": -2.08
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -3.74
+      "change_pct": -3.53
     }
   ]
 }
