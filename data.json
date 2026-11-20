@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T23:16:02+00:00",
-  "as_of_local": "2026-11-20 23:16:02 UTC",
+  "as_of_utc": "2026-11-20T23:21:12+00:00",
+  "as_of_local": "2026-11-20 23:21:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "MPC"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -311,6 +309,34 @@
           "url": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-data-center-165800435.html",
           "publisher": "Zacks",
           "published": "2026-11-20T16:58:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum",
+      "price": 367.19,
+      "previous_close": 367.93,
+      "change_pct": -0.2,
+      "market_cap": 99979331057.95166,
+      "headlines": [
+        {
+          "title": "U.S. Refiners Benefit From Strong Margins: What's Ahead in 2027?",
+          "url": "https://finance.yahoo.com/energy/articles/u-refiners-benefit-strong-margins-143100328.html",
+          "publisher": "Zacks",
+          "published": "2026-11-20T14:31:00Z"
+        },
+        {
+          "title": "2 Dividend Stocks Could Generate $30,000 a Year, but the Allocation Matters",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-dividend-stocks-could-generate-191730464.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-19T19:17:30Z"
+        },
+        {
+          "title": "Your Chevron Hedge Works Only While Oil Spikes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-hedge-works-only-while-151336974.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T15:13:36Z"
         }
       ]
     },
@@ -1922,8 +1948,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 4.64,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -0.2,
+          "price": 367.19,
           "currency": "USD"
         },
         {
@@ -2021,8 +2047,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 4.64,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -0.2,
+        "price": 367.19,
         "currency": "USD"
       },
       {
