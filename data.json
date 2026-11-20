@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T00:36:09+00:00",
-  "as_of_local": "2026-11-20 00:36:09 UTC",
+  "as_of_utc": "2026-11-20T00:41:14+00:00",
+  "as_of_local": "2026-11-20 00:41:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETR"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -869,34 +871,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-think-occidental-petroleum-differently-172147996.html",
           "publisher": "Trefis",
           "published": "2026-11-18T17:21:47Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ETR",
-      "name": "Entergy",
-      "price": 106.18,
-      "previous_close": 108.0,
-      "change_pct": -1.69,
-      "market_cap": 50735683853.601265,
-      "headlines": [
-        {
-          "title": "5 Energy Stocks to Benefit from Anthropic\u2019s $1.5 Trillion Debut",
-          "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-benefit-anthropic-220000406.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-19T22:00:00Z"
-        },
-        {
-          "title": "One Unsettled Question Sits Under Southern Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/one-unsettled-sits-under-southern-111820074.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T11:18:20Z"
-        },
-        {
-          "title": "Do Wall Street Analysts Like Entergy Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-entergy-stock-122023795.html",
-          "publisher": "Barchart",
-          "published": "2026-11-18T12:20:23Z"
         }
       ]
     },
@@ -2115,8 +2089,8 @@
     },
     {
       "label": "WTI",
-      "price": 82.86,
-      "change_pct": -0.48
+      "price": 82.84,
+      "change_pct": -0.5
     },
     {
       "label": "Brent",
@@ -2126,7 +2100,7 @@
     {
       "label": "NatGas",
       "price": 3.24,
-      "change_pct": -3.77
+      "change_pct": -3.8
     }
   ]
 }
