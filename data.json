@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T21:30:46+00:00",
-  "as_of_local": "2026-11-20 21:30:46 UTC",
+  "as_of_utc": "2026-11-20T21:35:56+00:00",
+  "as_of_local": "2026-11-20 21:35:56 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "D"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -147,9 +149,9 @@
     {
       "symbol": "NEE",
       "name": "NextEra Energy",
-      "price": 83.54,
+      "price": 83.45,
       "previous_close": 83.79,
-      "change_pct": -0.3,
+      "change_pct": -0.41,
       "market_cap": 175020183388.5799,
       "headlines": [
         {
@@ -315,9 +317,9 @@
     {
       "symbol": "MPC",
       "name": "Marathon Petroleum",
-      "price": 367.27,
+      "price": 367.19,
       "previous_close": 367.93,
-      "change_pct": -0.18,
+      "change_pct": -0.2,
       "market_cap": 99979331057.95166,
       "headlines": [
         {
@@ -343,9 +345,9 @@
     {
       "symbol": "PSX",
       "name": "Phillips 66",
-      "price": 239.38,
+      "price": 239.33,
       "previous_close": 242.71,
-      "change_pct": -1.37,
+      "change_pct": -1.39,
       "market_cap": 93356019111.70383,
       "headlines": [
         {
@@ -511,9 +513,9 @@
     {
       "symbol": "EPD",
       "name": "Enterprise Products",
-      "price": 35.85,
+      "price": 35.83,
       "previous_close": 36.16,
-      "change_pct": -0.86,
+      "change_pct": -0.91,
       "market_cap": 77271156011.00143,
       "headlines": [
         {
@@ -623,9 +625,9 @@
     {
       "symbol": "KMI",
       "name": "Kinder Morgan",
-      "price": 30.4,
+      "price": 30.36,
       "previous_close": 31.09,
-      "change_pct": -2.24,
+      "change_pct": -2.35,
       "market_cap": 67633435712.12947,
       "headlines": [
         {
@@ -757,34 +759,6 @@
           "url": "https://finance.yahoo.com/energy/articles/williams-afford-spending-bill-135216299.html",
           "publisher": "Trefis",
           "published": "2026-11-12T13:52:16Z"
-        }
-      ]
-    },
-    {
-      "symbol": "D",
-      "name": "Dominion Energy",
-      "price": 66.28,
-      "previous_close": 66.65,
-      "change_pct": -0.56,
-      "market_cap": 58297638576.15094,
-      "headlines": [
-        {
-          "title": "Is Dominion Energy (D) Stock Cheap After Its 65% Run?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-stock-cheap-181009873.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20T18:10:09Z"
-        },
-        {
-          "title": "Utility ETFs to Buy as Data Center Electricity Usage Is Set to Double by 2030",
-          "url": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-data-center-165800435.html",
-          "publisher": "Zacks",
-          "published": "2026-11-20T16:58:00Z"
-        },
-        {
-          "title": "Dominion Energy (D) Draws Fresh ETF Inflows, Is The Recovery Already Priced In?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-draws-fresh-141934568.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20T14:19:34Z"
         }
       ]
     },
@@ -1043,9 +1017,9 @@
     {
       "symbol": "PEG",
       "name": "Public Service Enterprise",
-      "price": 73.92,
+      "price": 73.9,
       "previous_close": 74.11,
-      "change_pct": -0.26,
+      "change_pct": -0.28,
       "market_cap": 36840290076.97416,
       "headlines": [
         {
@@ -1129,7 +1103,7 @@
       "name": "Halliburton",
       "price": 30.53,
       "previous_close": 31.73,
-      "change_pct": -3.77,
+      "change_pct": -3.78,
       "market_cap": 25252167789.202587,
       "headlines": [
         {
@@ -1575,9 +1549,9 @@
     {
       "symbol": "NXE",
       "name": "NexGen Energy",
-      "price": 6.41,
+      "price": 6.4,
       "previous_close": 6.93,
-      "change_pct": -7.5,
+      "change_pct": -7.65,
       "market_cap": 4403422536.016108,
       "headlines": [
         {
@@ -1633,7 +1607,7 @@
       "name": "Uranium Energy Corp",
       "price": 5.3,
       "previous_close": 5.76,
-      "change_pct": -7.9,
+      "change_pct": -7.99,
       "market_cap": 2626598819.0252733,
       "headlines": [
         {
@@ -1771,9 +1745,9 @@
     {
       "symbol": "UUUU",
       "name": "Energy Fuels",
-      "price": 5.0,
+      "price": 4.96,
       "previous_close": 5.48,
-      "change_pct": -8.76,
+      "change_pct": -9.49,
       "market_cap": 1313546582.582384,
       "headlines": [
         {
@@ -1948,8 +1922,8 @@
           "name": "Marathon Petroleum Corp",
           "short": "Marathon",
           "weight_pct": 4.64,
-          "change_pct": -0.18,
-          "price": 367.27,
+          "change_pct": -0.2,
+          "price": 367.19,
           "currency": "USD"
         },
         {
@@ -1957,8 +1931,8 @@
           "name": "Phillips 66",
           "short": "Phillips",
           "weight_pct": 4.52,
-          "change_pct": -1.37,
-          "price": 239.38,
+          "change_pct": -1.39,
+          "price": 239.33,
           "currency": "USD"
         },
         {
@@ -2047,8 +2021,8 @@
         "name": "Marathon Petroleum Corp",
         "short": "Marathon",
         "weight_pct": 4.64,
-        "change_pct": -0.18,
-        "price": 367.27,
+        "change_pct": -0.2,
+        "price": 367.19,
         "currency": "USD"
       },
       {
@@ -2056,8 +2030,8 @@
         "name": "Phillips 66",
         "short": "Phillips",
         "weight_pct": 4.52,
-        "change_pct": -1.37,
-        "price": 239.38,
+        "change_pct": -1.39,
+        "price": 239.33,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.69,
-      "change_pct": 0.58
+      "price": 83.78,
+      "change_pct": 0.69
     },
     {
       "label": "Brent",
-      "price": 89.96,
-      "change_pct": -2.2
+      "price": 90.05,
+      "change_pct": -2.1
     },
     {
       "label": "NatGas",
       "price": 3.78,
-      "change_pct": 15.54
+      "change_pct": 15.67
     }
   ]
 }
