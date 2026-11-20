@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T12:23:49+00:00",
-  "as_of_local": "2026-11-20 12:23:49 UTC",
+  "as_of_utc": "2026-11-20T12:28:53+00:00",
+  "as_of_local": "2026-11-20 12:28:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EQNR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -395,6 +393,34 @@
           "url": "https://finance.yahoo.com/energy/articles/valeros-crude-flexibility-gulf-coast-171900103.html",
           "publisher": "Zacks",
           "published": "2026-11-19T17:19:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EQNR",
+      "name": "Equinor",
+      "price": 39.69,
+      "previous_close": 40.13,
+      "change_pct": -1.1,
+      "market_cap": 93881713117.43237,
+      "headlines": [
+        {
+          "title": "Sector Update: Energy Stocks Lower Thursday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-thursday-184347774.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-19T18:43:47Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Mixed in Early Thursday Trading",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-early-143651830.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-19T14:36:51Z"
+        },
+        {
+          "title": "Should Investors Buy, Hold or Sell Equinor Stock Post Q3 Earnings?",
+          "url": "https://finance.yahoo.com/energy/articles/investors-buy-hold-sell-equinor-132900291.html",
+          "publisher": "Zacks",
+          "published": "2026-11-19T13:29:00Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.35,
-      "change_pct": -1.03
+      "price": 82.27,
+      "change_pct": -1.13
     },
     {
       "label": "Brent",
-      "price": 89.38,
-      "change_pct": -2.83
+      "price": 89.32,
+      "change_pct": -2.89
     },
     {
       "label": "NatGas",
-      "price": 3.56,
-      "change_pct": 8.97
+      "price": 3.57,
+      "change_pct": 9.33
     }
   ]
 }
