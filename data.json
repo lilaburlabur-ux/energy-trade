@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T03:07:17+00:00",
-  "as_of_local": "2026-11-20 03:07:17 UTC",
+  "as_of_utc": "2026-11-20T03:22:07+00:00",
+  "as_of_local": "2026-11-20 03:22:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OKE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -813,34 +815,6 @@
           "url": "https://finance.yahoo.com/energy/articles/4-high-yield-energy-stocks-141753664.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-16T14:17:53Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OKE",
-      "name": "ONEOK",
-      "price": 86.52,
-      "previous_close": 87.72,
-      "change_pct": -1.37,
-      "market_cap": 54546569692.85975,
-      "headlines": [
-        {
-          "title": "3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-dividends-built-roth-194751819.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T19:47:51Z"
-        },
-        {
-          "title": "ONEOK or Kimberly-Clark: I Can Only Pick One Dividend Stock for the Next 20 Years. Here\u2019s Mine",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-kimberly-clark-only-pick-170148037.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T17:01:48Z"
-        },
-        {
-          "title": "GSK or ONEOK: I Can Only Pick One Dividend Stock for the Next 10 Years. Here\u2019s Mine",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/gsk-oneok-only-pick-one-151727202.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T15:17:27Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.12,
-      "change_pct": -0.17
+      "price": 82.72,
+      "change_pct": -0.65
     },
     {
       "label": "Brent",
-      "price": 90.13,
-      "change_pct": -1.98
+      "price": 89.79,
+      "change_pct": -2.35
     },
     {
       "label": "NatGas",
-      "price": 3.24,
-      "change_pct": -3.86
+      "price": 3.25,
+      "change_pct": -3.71
     }
   ]
 }
