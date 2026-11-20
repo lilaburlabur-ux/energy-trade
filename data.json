@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-20T11:12:51+00:00",
-  "as_of_local": "2026-11-20 11:12:51 UTC",
+  "as_of_utc": "2026-11-20T11:18:00+00:00",
+  "as_of_local": "2026-11-20 11:18:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -13,6 +13,12 @@
       "market_cap": 648310793147.8025,
       "headlines": [
         {
+          "title": "Robinhood faces shareholder challenge as SEC loosens proxy oversight",
+          "url": "https://finance.yahoo.com/news/robinhood-faces-shareholder-challenge-sec-110523692.html",
+          "publisher": "Reuters",
+          "published": "2026-11-20T11:05:23Z"
+        },
+        {
           "title": "Guyana Oil Boom Rekindles Frontier Drilling Appetite",
           "url": "https://finance.yahoo.com/energy/articles/guyana-oil-boom-rekindles-frontier-000000725.html",
           "publisher": "Oilprice.com",
@@ -23,12 +29,6 @@
           "url": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-gets-mozambique-211612645.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-19T21:16:12Z"
-        },
-        {
-          "title": "Trump Cheers the \u201cBiggest Drop in Gasoline in 18 Years.\u201d Not Good for Exxon and Chevron",
-          "url": "https://finance.yahoo.com/energy/articles/trump-cheers-biggest-drop-gasoline-195817716.html",
-          "publisher": "TIKR",
-          "published": "2026-11-19T19:58:17Z"
         }
       ]
     },
@@ -41,6 +41,12 @@
       "market_cap": 402933886159.0,
       "headlines": [
         {
+          "title": "Anthropic's record IPO nets huge windfall for L.A. investors",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-nets-huge-110000462.html",
+          "publisher": "LA Times",
+          "published": "2026-11-20T11:00:00Z"
+        },
+        {
           "title": "Trump Cheers the \u201cBiggest Drop in Gasoline in 18 Years.\u201d Not Good for Exxon and Chevron",
           "url": "https://finance.yahoo.com/energy/articles/trump-cheers-biggest-drop-gasoline-195817716.html",
           "publisher": "TIKR",
@@ -51,12 +57,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-blue-chip-stocks-21-174451496.html",
           "publisher": "Kiplinger",
           "published": "2026-11-19T18:46:25Z"
-        },
-        {
-          "title": "Nasdaq Drops on Anthropic\u2019s Pop",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111926/card/wall-street-is-selling-the-news-too-after-anthropic-debut-W7n0ktGOTj6pJZCiT2O9?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-19T17:08:54Z"
         }
       ]
     },
@@ -2115,13 +2115,13 @@
     },
     {
       "label": "WTI",
-      "price": 81.63,
-      "change_pct": -1.9
+      "price": 81.65,
+      "change_pct": -1.87
     },
     {
       "label": "Brent",
-      "price": 88.54,
-      "change_pct": -3.74
+      "price": 88.46,
+      "change_pct": -3.83
     },
     {
       "label": "NatGas",
