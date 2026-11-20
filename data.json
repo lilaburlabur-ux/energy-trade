@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T03:37:21+00:00",
-  "as_of_local": "2026-11-20 03:37:21 UTC",
+  "as_of_utc": "2026-11-20T03:52:17+00:00",
+  "as_of_local": "2026-11-20 03:52:17 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "KMI"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -645,34 +647,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/slb-stock-analyst-estimates-ratings-074754675.html",
           "publisher": "Barchart",
           "published": "2026-11-16T07:47:54Z"
-        }
-      ]
-    },
-    {
-      "symbol": "KMI",
-      "name": "Kinder Morgan",
-      "price": 31.09,
-      "previous_close": 31.36,
-      "change_pct": -0.86,
-      "market_cap": 69259666809.53236,
-      "headlines": [
-        {
-          "title": "Senate Nears a Vote on a Landmark Permitting Bill. Here\u2019s Who Could Benefit.",
-          "url": "https://www.barrons.com/articles/senate-permitting-bill-energy-utility-stocks-d6da279b?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-19T21:07:00Z"
-        },
-        {
-          "title": "How Many Shares of Kinder Morgan or Williams Pay $1,000 a Month in Dividends?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/many-shares-kinder-morgan-williams-173544191.html",
-          "publisher": "TIKR",
-          "published": "2026-11-19T17:35:44Z"
-        },
-        {
-          "title": "Enterprise Products' Permian Expansion Supports Growth Prospects",
-          "url": "https://finance.yahoo.com/energy/articles/enterprise-products-permian-expansion-supports-173100313.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T17:31:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.75,
-      "change_pct": -0.61
+      "price": 82.87,
+      "change_pct": -0.47
     },
     {
       "label": "Brent",
-      "price": 89.79,
-      "change_pct": -2.35
+      "price": 89.91,
+      "change_pct": -2.22
     },
     {
       "label": "NatGas",
       "price": 3.25,
-      "change_pct": -3.53
+      "change_pct": -3.74
     }
   ]
 }
