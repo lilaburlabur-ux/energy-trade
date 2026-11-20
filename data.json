@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-20T14:20:24+00:00",
-  "as_of_local": "2026-11-20 14:20:24 UTC",
+  "as_of_utc": "2026-11-20T14:25:58+00:00",
+  "as_of_local": "2026-11-20 14:25:58 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -601,6 +601,12 @@
       "market_cap": 71232329395.99007,
       "headlines": [
         {
+          "title": "Zacks Investment Ideas feature highlights:  Anthropic, SpaceX, Amazon, Vertiv and Bloom Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-131200144.html",
+          "publisher": "Zacks",
+          "published": "2026-11-20T13:12:00Z"
+        },
+        {
           "title": "Evercore\u2019s $325 Target Says Vertiv\u2019s Selloff Went Too Far",
           "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-325-target-says-vertiv-093635420.html",
           "publisher": "TIKR",
@@ -611,12 +617,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-lift-ai-185300518.html",
           "publisher": "Zacks",
           "published": "2026-11-19T18:53:00Z"
-        },
-        {
-          "title": "Vertiv's 800 VDC Push Boosts AI Prospects: Can It Beat APH and SMCI?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/vertivs-800-vdc-push-boosts-164600968.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T16:46:00Z"
         }
       ]
     },
@@ -915,16 +915,16 @@
           "published": "2026-11-20T13:36:58Z"
         },
         {
+          "title": "Zacks Investment Ideas feature highlights:  Anthropic, SpaceX, Amazon, Vertiv and Bloom Energy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-131200144.html",
+          "publisher": "Zacks",
+          "published": "2026-11-20T13:12:00Z"
+        },
+        {
           "title": "Bloom Energy Keeps Sliding: Why BMO Sees 37% Upside Anyway",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-keeps-sliding-why-125219818.html",
           "publisher": "TIKR",
           "published": "2026-11-20T12:52:19Z"
-        },
-        {
-          "title": "This Top AI Energy Supply Stock Is Getting Torched. Why Fortune Favors the Bold.",
-          "url": "https://www.barrons.com/articles/bloom-energy-stock-ai-trade-ef008720?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-20T12:44:00Z"
         }
       ]
     },
@@ -2120,13 +2120,13 @@
     },
     {
       "label": "Brent",
-      "price": 89.02,
-      "change_pct": -3.22
+      "price": 89.04,
+      "change_pct": -3.2
     },
     {
       "label": "NatGas",
-      "price": 3.64,
-      "change_pct": 11.54
+      "price": 3.63,
+      "change_pct": 11.14
     }
   ]
 }
