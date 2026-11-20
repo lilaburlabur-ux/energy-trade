@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T23:21:12+00:00",
-  "as_of_local": "2026-11-20 23:21:12 UTC",
+  "as_of_utc": "2026-11-20T23:26:40+00:00",
+  "as_of_local": "2026-11-20 23:26:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "ETN"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -197,34 +199,6 @@
           "url": "https://finance.yahoo.com/energy/articles/venture-global-expands-china-gas-141900757.html",
           "publisher": "Zacks",
           "published": "2026-11-20T14:19:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "ETN",
-      "name": "Eaton",
-      "price": 311.33,
-      "previous_close": 330.57,
-      "change_pct": -5.82,
-      "market_cap": 120951699783.3252,
-      "headlines": [
-        {
-          "title": "Could Honeywell Be The Value Stock For Your Portfolio?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-honeywell-value-stock-portfolio-185321167.html",
-          "publisher": "Trefis",
-          "published": "2026-11-20T18:53:21Z"
-        },
-        {
-          "title": "Senate Passes Landmark Permitting Bill. Here\u2019s Who Could Benefit.",
-          "url": "https://www.barrons.com/articles/senate-permitting-bill-energy-utility-stocks-d6da279b?siteid=yhoof2&yptr=yahoo",
-          "publisher": "Barrons.com",
-          "published": "2026-11-20T15:20:00Z"
-        },
-        {
-          "title": "Prediction: These Will Be the Best-Performing Industrial Stocks of 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-best-performing-industrial-stocks-150502724.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-20T15:05:02Z"
         }
       ]
     },
@@ -1805,6 +1779,12 @@
       "market_cap": 1131176134.6121635,
       "headlines": [
         {
+          "title": "SolarEdge (SEDG) Stock Fair Value Falls As Analysts Weigh Weaker Solar Demand",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-sedg-stock-fair-value-231222697.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T23:12:22Z"
+        },
+        {
           "title": "T.J. Rodgers Just Sold 71% of His Enphase Stake Near $23",
           "url": "https://finance.yahoo.com/markets/stocks/articles/t-j-rodgers-just-sold-155250099.html",
           "publisher": "24/7 Wall St.",
@@ -1815,12 +1795,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-first-solar-154151558.html",
           "publisher": "Trefis",
           "published": "2026-11-18T15:41:51Z"
-        },
-        {
-          "title": "Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?",
-          "url": "https://finance.yahoo.com/energy/articles/solar-stocks-rebound-brutal-rout-025353544.html",
-          "publisher": "Stocktwits",
-          "published": "2026-11-18T02:53:53Z"
         }
       ]
     },
