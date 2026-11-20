@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-20T13:50:00+00:00",
-  "as_of_local": "2026-11-20 13:50:00 UTC",
+  "as_of_utc": "2026-11-20T13:55:08+00:00",
+  "as_of_local": "2026-11-20 13:55:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "BKR"
+    "ETR"
   ],
   "stocks": [
     {
@@ -875,34 +875,6 @@
       ]
     },
     {
-      "symbol": "ETR",
-      "name": "Entergy",
-      "price": 106.18,
-      "previous_close": 108.0,
-      "change_pct": -1.69,
-      "market_cap": 50735683853.601265,
-      "headlines": [
-        {
-          "title": "Entergy And 2 More Nuclear Power Stocks To Watch",
-          "url": "https://finance.yahoo.com/energy/articles/entergy-2-more-nuclear-power-061330177.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20T06:13:30Z"
-        },
-        {
-          "title": "5 Energy Stocks to Benefit from Anthropic\u2019s $1.5 Trillion Debut",
-          "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-benefit-anthropic-220000406.html",
-          "publisher": "Oilprice.com",
-          "published": "2026-11-19T22:00:00Z"
-        },
-        {
-          "title": "One Unsettled Question Sits Under Southern Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/one-unsettled-sits-under-southern-111820074.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T11:18:20Z"
-        }
-      ]
-    },
-    {
       "symbol": "BE",
       "name": "Bloom Energy",
       "price": 168.11,
@@ -983,6 +955,34 @@
           "url": "https://finance.yahoo.com/energy/articles/permian-resources-spending-too-much-124807527.html",
           "publisher": "Trefis",
           "published": "2026-11-18T12:48:07Z"
+        }
+      ]
+    },
+    {
+      "symbol": "BKR",
+      "name": "Baker Hughes",
+      "price": 46.67,
+      "previous_close": 47.3,
+      "change_pct": -1.33,
+      "market_cap": 46346970516.52901,
+      "headlines": [
+        {
+          "title": "Top 3 Australian Rare Earth Stocks To Watch In November 2026",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/top-3-australian-rare-earth-011323661.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T01:13:23Z"
+        },
+        {
+          "title": "Metallium And 2 Other Australian Lithium Stocks To Own",
+          "url": "https://finance.yahoo.com/energy/articles/metallium-2-other-australian-lithium-011154452.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T01:11:54Z"
+        },
+        {
+          "title": "Baker Hughes and McDermott Win Contract for Major Australian LNG Project",
+          "url": "https://finance.yahoo.com/energy/articles/baker-hughes-mcdermott-win-contract-004000683.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-20T00:40:00Z"
         }
       ]
     },
@@ -2089,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.42,
-      "change_pct": -0.95
+      "price": 82.3,
+      "change_pct": -1.09
     },
     {
       "label": "Brent",
-      "price": 89.26,
-      "change_pct": -2.96
+      "price": 88.98,
+      "change_pct": -3.26
     },
     {
       "label": "NatGas",
-      "price": 3.68,
-      "change_pct": 12.61
+      "price": 3.67,
+      "change_pct": 12.33
     }
   ]
 }
