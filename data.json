@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T14:05:15+00:00",
-  "as_of_local": "2026-11-20 14:05:15 UTC",
+  "as_of_utc": "2026-11-20T14:10:19+00:00",
+  "as_of_local": "2026-11-20 14:10:19 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "WMB"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -69,6 +71,12 @@
       "market_cap": 265351102486.98938,
       "headlines": [
         {
+          "title": "Bank of America, Shell can save you more money on gas",
+          "url": "https://finance.yahoo.com/small-business/articles/bank-america-shell-save-more-140143316.html",
+          "publisher": "USA TODAY",
+          "published": "2026-11-20T14:01:43Z"
+        },
+        {
           "title": "Chariot secures cash-generating foothold in Angola",
           "url": "https://finance.yahoo.com/energy/articles/chariot-secures-cash-generating-foothold-073400208.html",
           "publisher": "Proactive",
@@ -79,12 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hf-sinclair-dino-names-shawn-201212839.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-19T20:12:12Z"
-        },
-        {
-          "title": "Will Eni's Expanded Lummus Partnership Boost Chemical Growth?",
-          "url": "https://finance.yahoo.com/energy/articles/enis-expanded-lummus-partnership-boost-170500348.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T17:05:00Z"
         }
       ]
     },
@@ -187,16 +189,16 @@
           "published": "2026-11-20T11:03:46Z"
         },
         {
+          "title": "ExxonMobil Sinks 11% in a Month as Oil Slides. Darren Woods Says Its Earnings Power Comes From \u201cLasting Improvements\u201d",
+          "url": "https://finance.yahoo.com/energy/articles/exxonmobil-sinks-11-month-oil-090839525.html",
+          "publisher": "TIKR",
+          "published": "2026-11-20T09:08:39Z"
+        },
+        {
           "title": "The 25 Biggest US IPOs of All Time",
           "url": "https://finance.yahoo.com/markets/stocks/articles/25-biggest-u-ipos-time-172550995.html",
           "publisher": "Kiplinger",
           "published": "2026-11-19T21:38:58Z"
-        },
-        {
-          "title": "Your Chevron Hedge Works Only While Oil Spikes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-hedge-works-only-while-151336974.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T15:13:36Z"
         }
       ]
     },
@@ -477,34 +479,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/jacobs-report-q4-earnings-expect-164000419.html",
           "publisher": "Zacks",
           "published": "2026-11-19T16:40:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "WMB",
-      "name": "Williams Companies",
-      "price": 66.13,
-      "previous_close": 67.23,
-      "change_pct": -1.64,
-      "market_cap": 82675888949.29623,
-      "headlines": [
-        {
-          "title": "Morgan Stanley\u2019s Vintage Values 2027: 5 Stocks Analysts See Climbing Further",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-vintage-values-2027-223235273.html",
-          "publisher": "Insider Monkey",
-          "published": "2026-11-19T22:32:35Z"
-        },
-        {
-          "title": "How Many Shares of Kinder Morgan or Williams Pay $1,000 a Month in Dividends?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/many-shares-kinder-morgan-williams-173544191.html",
-          "publisher": "TIKR",
-          "published": "2026-11-19T17:35:44Z"
-        },
-        {
-          "title": "Enterprise Products' Permian Expansion Supports Growth Prospects",
-          "url": "https://finance.yahoo.com/energy/articles/enterprise-products-permian-expansion-supports-173100313.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T17:31:00Z"
         }
       ]
     },
@@ -1975,8 +1949,8 @@
           "name": "Williams Companies Inc",
           "short": "Williams",
           "weight_pct": 4.12,
-          "change_pct": -1.64,
-          "price": 66.13,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2074,8 +2048,8 @@
         "name": "Williams Companies Inc",
         "short": "Williams",
         "weight_pct": 4.12,
-        "change_pct": -1.64,
-        "price": 66.13,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.26,
-      "change_pct": -1.14
+      "price": 82.37,
+      "change_pct": -1.01
     },
     {
       "label": "Brent",
-      "price": 89.0,
-      "change_pct": -3.24
+      "price": 89.12,
+      "change_pct": -3.11
     },
     {
       "label": "NatGas",
       "price": 3.67,
-      "change_pct": 12.21
+      "change_pct": 12.24
     }
   ]
 }
