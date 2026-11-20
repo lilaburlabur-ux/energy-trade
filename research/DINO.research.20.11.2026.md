@@ -4,24 +4,24 @@ Signed file: `DINO.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $15.19B |
+| Current price | $88.32 (2026-11-20, ~15-min delayed) |
+| Market cap | $14.95B |
 | Sector / Industry | Energy / Oil & Gas Refining & Marketing |
 | Main theme | Oil & Gas Refining & Marketing — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +68.07%; price +8.78% vs SMA200. |
+| Fresh setup quality | Poor / broken | -30.77% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 10.12%, revenue growth 49.70%. |
-| Value attractiveness | Reasonable | Forward P/E 5.12, EV/Sales 0.44. |
-| Risk level | Moderate | Beta 0.71, ATR nan% of price, short float 3.94%. |
+| Value attractiveness | Reasonable | Forward P/E 5.04, EV/Sales 0.44. |
+| Risk level | High | Beta 0.71, ATR 5.5% of price, short float 3.94%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 
 | Headline | Source | Date |
 |---|---|---|
+| TechnipFMC Deepens ExxonMobil Ties With Guyana Longtail Awards | Zacks | 2026-11-20 |
+| Can Phillips 66's Midstream Investments Cushion Refining Pressures? | Zacks | 2026-11-20 |
 | HF Sinclair (DINO) On New CFO Appointment And The Undervalued Narrative | Simply Wall St. | 2026-11-19 |
 | HF Sinclair (DINO) Names Shawn J. Carsten As CFO | Simply Wall St. | 2026-11-19 |
-| HF Sinclair (DINO) Stock Looks Fairly Valued Despite Its 218% Run | Simply Wall St. | 2026-11-19 |
-| Down 27.8% in 4 Weeks, Here's Why HF Sinclair (DINO) Looks Ripe for a Turnaround | Zacks | 2026-11-19 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $127.57 (+nan%); 52w low $44.60 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 28.4 (oversold) |
-| Volatility | ATR(14) 5.18 (~nan% of price); beta 0.71 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $88.32; 52w high $127.57 (-30.77%); 52w low $44.60 (+98.03%) |
+| Trend | +8.78% vs SMA200, -20.13% vs SMA50, -14.49% vs SMA20 |
+| Momentum | RSI(14) 26.6 (oversold) |
+| Volatility | ATR(14) 4.82 (~5.5% of price); beta 0.71 |
+| Setup perspective | -30.77% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -13.6% |
+| Month | -27.4% |
+| Quarter | -6.7% |
+| Half Y | +27.8% |
+| 1Y | +68.1% |
+| YTD | +93.9% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Revenue (ttm) | $34.83B | Revenue growth 49.70% y/y |
 | Profitability | Gross 18.01%, operating 13.74%, net 10.12% | ROA 15.77%, ROE 33.21% |
 | Balance sheet | Cash $3.33B, debt $3.36B | Current ratio 2.27, debt/equity 28.52 |
-| Valuation | P/E 4.57, forward P/E 5.12, P/S 0.44, P/B 1.32 | EV/Sales 0.44, EV/EBITDA 2.85 |
+| Valuation | P/E 4.50, forward P/E 5.04, P/S 0.43, P/B 1.30 | EV/Sales 0.44, EV/EBITDA 2.85 |
 | Growth expectations | Earnings growth 430.60%, EPS q/q 400.00% | Analyst mean target $120.75 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 89.21% |
+| Institutional ownership | 88.85% |
 | Insider ownership | 1.94% |
 | Short float | 3.94% |
 | Short ratio (days to cover) | 2.7 |
@@ -95,6 +95,8 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | Geode Capital Management, LLC | 3,536,319 | 2.06% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.71, ATR 5.5% of price, short float 3.94%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +111,21 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 0.44 |
-| Market cap | $15.19B | EV/EBITDA | 2.85 |
+| Price | $88.32 | EV/Sales | 0.44 |
+| Market cap | $14.95B | EV/EBITDA | 2.85 |
 | Beta | 0.71 | Gross margin | 18.01% |
-| RSI(14) | 28.4 | Operating margin | 13.74% |
-| ATR(14) | 5.18 | Profit margin | 10.12% |
-| SMA20 dist | +nan% | ROA | 15.77% |
-| SMA50 dist | +nan% | ROE | 33.21% |
-| SMA200 dist | +nan% | Revenue (ttm) | $34.83B |
+| RSI(14) | 26.6 | Operating margin | 13.74% |
+| ATR(14) | 4.82 | Profit margin | 10.12% |
+| SMA20 dist | -14.49% | ROA | 15.77% |
+| SMA50 dist | -20.13% | ROE | 33.21% |
+| SMA200 dist | +8.78% | Revenue (ttm) | $34.83B |
 | 52W high | $127.57 | Revenue growth y/y | 49.70% |
-| 52W low | $44.60 | Inst. ownership | 89.21% |
-| P/E (ttm) | 4.57 | Insider ownership | 1.94% |
-| Forward P/E | 5.12 | Short float | 3.94% |
-| PEG (trailing) | 0.69 | Avg volume | 2,493,454 |
-| P/S | 0.44 | Employees | 5,165 |
-| P/B | 1.32 | Analyst rec (1=buy..5=sell) | 2.5 |
+| 52W low | $44.60 | Inst. ownership | 88.85% |
+| P/E (ttm) | 4.50 | Insider ownership | 1.94% |
+| Forward P/E | 5.04 | Short float | 3.94% |
+| PEG (trailing) | 0.68 | Avg volume | 2,497,242 |
+| P/S | 0.43 | Employees | 5,165 |
+| P/B | 1.30 | Analyst rec (1=buy..5=sell) | 2.5 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +140,7 @@ HF Sinclair Corporation operates as an independent energy company in the United 
 | 2026-10-05 | main | UBS | Buy → Buy |
 
 ## 9. Conclusion
-DINO: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+DINO: High momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

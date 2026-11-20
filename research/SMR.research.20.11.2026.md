@@ -4,24 +4,24 @@ Signed file: `SMR.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $1.56B |
+| Current price | $3.32 (2026-11-20, ~15-min delayed) |
+| Market cap | $1.36B |
 | Sector / Industry | Industrials / Specialty Industrial Machinery |
 | Main theme | Specialty Industrial Machinery — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-66.18%) with negative half-year (-70.91%). |
+| Fresh setup quality | Poor / broken | -85.48% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 0.00%, revenue growth -96.60%. |
-| Value attractiveness | Reasonable | Forward P/E -5.63, EV/Sales 215.40. |
-| Risk level | High | Beta 2.43, ATR nan% of price, short float 26.36%. |
+| Value attractiveness | Reasonable | Forward P/E -4.90, EV/Sales 215.40. |
+| Risk level | High | Beta 2.43, ATR 14.2% of price, short float 26.36%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: high.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 
 | Headline | Source | Date |
 |---|---|---|
+| Constellation Energy Sinks 10% in a Week as AI Stocks Slide, Giving Back Its Earnings Jump. Time to Buy? | TIKR | 2026-11-20 |
+| NuScale Power (SMR) Stock Fair Value Falls As Analysts Weigh Liquidity Against Delays | Simply Wall St. | 2026-11-20 |
+| Can NuScale Power (SMR) Keep Trading Below Book Value? | Simply Wall St. | 2026-11-20 |
 | Oklo Just Dropped 22% in a Month. What Would It Take to Get OKLO Stock to $25? | 24/7 Wall St. | 2026-11-19 |
-| Could Investing $1,000 a Year in NuScale Power Make You Rich? | Motley Fool | 2026-11-19 |
-| NuScale Power Expands Everstar AI Use to Boost Project Efficiency | Zacks | 2026-11-19 |
-| Who Is Paying For X-Energy's Cash Burn? | Trefis | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $22.85 (+nan%); 52w low $3.91 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 28.5 (oversold) |
-| Volatility | ATR(14) 0.48 (~nan% of price); beta 2.43 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $3.32; 52w high $22.85 (-85.48%); 52w low $3.32 (+0.00%) |
+| Trend | -66.18% vs SMA200, -48.11% vs SMA50, -32.48% vs SMA20 |
+| Momentum | RSI(14) 24.2 (oversold) |
+| Volatility | ATR(14) 0.47 (~14.2% of price); beta 2.43 |
+| Setup perspective | -85.48% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -28.8% |
+| Month | -38.4% |
+| Quarter | -63.4% |
+| Half Y | -70.9% |
+| 1Y | -84.3% |
+| YTD | -79.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Revenue (ttm) | $2.73M | Revenue growth -96.60% y/y |
 | Profitability | Gross -2.16%, operating 9099.45%, net 0.00% | ROA 10.69%, ROE -17.12% |
 | Balance sheet | Cash $933.39M, debt $6.63M | Current ratio 24.40, debt/equity 0.34 |
-| Valuation | P/E —, forward P/E -5.63, P/S 573.16, P/B 0.77 | EV/Sales 215.40, EV/EBITDA 2.35 |
+| Valuation | P/E —, forward P/E -4.90, P/S 498.95, P/B 0.67 | EV/Sales 215.40, EV/EBITDA 2.35 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $8.59 (16 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,8 +95,9 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | Marex Group Ltd. | 7,849,069 | 1.91% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 2.43, ATR nan% of price, short float 26.36%. Size positions accordingly.
+- **Volatility risk:** Beta 2.43, ATR 14.2% of price, short float 26.36%. Size positions accordingly.
 - **Short interest risk:** short float 26.36% can fuel squeezes both ways around news.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -111,21 +112,21 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 215.40 |
-| Market cap | $1.56B | EV/EBITDA | 2.35 |
+| Price | $3.32 | EV/Sales | 215.40 |
+| Market cap | $1.36B | EV/EBITDA | 2.35 |
 | Beta | 2.43 | Gross margin | -2.16% |
-| RSI(14) | 28.5 | Operating margin | 9099.45% |
-| ATR(14) | 0.48 | Profit margin | 0.00% |
-| SMA20 dist | +nan% | ROA | 10.69% |
-| SMA50 dist | +nan% | ROE | -17.12% |
-| SMA200 dist | +nan% | Revenue (ttm) | $2.73M |
+| RSI(14) | 24.2 | Operating margin | 9099.45% |
+| ATR(14) | 0.47 | Profit margin | 0.00% |
+| SMA20 dist | -32.48% | ROA | 10.69% |
+| SMA50 dist | -48.11% | ROE | -17.12% |
+| SMA200 dist | -66.18% | Revenue (ttm) | $2.73M |
 | 52W high | $22.85 | Revenue growth y/y | -96.60% |
-| 52W low | $3.91 | Inst. ownership | 65.03% |
+| 52W low | $3.32 | Inst. ownership | 65.03% |
 | P/E (ttm) | — | Insider ownership | 1.70% |
-| Forward P/E | -5.63 | Short float | 26.36% |
-| PEG (trailing) | — | Avg volume | 34,318,998 |
-| P/S | 573.16 | Employees | 428 |
-| P/B | 0.77 | Analyst rec (1=buy..5=sell) | 2.8 |
+| Forward P/E | -4.90 | Short float | 26.36% |
+| PEG (trailing) | — | Avg volume | 34,452,678 |
+| P/S | 498.95 | Employees | 428 |
+| P/B | 0.67 | Analyst rec (1=buy..5=sell) | 2.8 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -140,7 +141,7 @@ NuScale Power Corporation provides small modular reactor technology solutions. I
 | 2026-10-21 | main | Citigroup | Sell → Sell |
 
 ## 9. Conclusion
-SMR: Moderate momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+SMR: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

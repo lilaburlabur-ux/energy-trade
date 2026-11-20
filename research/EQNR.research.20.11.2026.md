@@ -4,24 +4,24 @@ Signed file: `EQNR.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $93.88B |
+| Current price | $39.41 (2026-11-20, ~15-min delayed) |
+| Market cap | $93.22B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +76.66%; price +3.46% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -18.54% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 9.79%, revenue growth 26.60%. |
-| Value attractiveness | Reasonable | Forward P/E 7.97, EV/Sales 1.61. |
-| Risk level | Moderate | Beta -0.66, ATR nan% of price, short float 2.69%. |
+| Value attractiveness | Reasonable | Forward P/E 7.92, EV/Sales 1.61. |
+| Risk level | Elevated | Beta -0.66, ATR 3.3% of price, short float 2.69%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $48.38 (+nan%); 52w low $21.48 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 37.9 (neutral) |
-| Volatility | ATR(14) 1.39 (~nan% of price); beta -0.66 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $39.41; 52w high $48.38 (-18.54%); 52w low $21.48 (+83.44%) |
+| Trend | +3.46% vs SMA200, -9.10% vs SMA50, -8.56% vs SMA20 |
+| Momentum | RSI(14) 35.7 (neutral) |
+| Volatility | ATR(14) 1.30 (~3.3% of price); beta -0.66 |
+| Setup perspective | -18.54% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -7.4% |
+| Month | -14.3% |
+| Quarter | -6.1% |
+| Half Y | +3.5% |
+| 1Y | +76.7% |
+| YTD | +67.5% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Revenue (ttm) | $120.57B | Revenue growth 26.60% y/y |
 | Profitability | Gross 43.18%, operating 32.11%, net 9.79% | ROA 17.09%, ROE 27.57% |
 | Balance sheet | Cash $24.00B, debt $29.66B | Current ratio 1.18, debt/equity 65.92 |
-| Valuation | P/E 8.23, forward P/E 7.97, P/S 0.78, P/B 4.20 | EV/Sales 1.61, EV/EBITDA 4.04 |
+| Valuation | P/E 8.18, forward P/E 7.92, P/S 0.77, P/B 4.17 | EV/Sales 1.61, EV/EBITDA 4.04 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $41.69 (7 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -95,6 +95,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | Fisher Asset Management, LLC | 1,321,102 | 0.06% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta -0.66, ATR 3.3% of price, short float 2.69%. Size positions accordingly.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.61 |
-| Market cap | $93.88B | EV/EBITDA | 4.04 |
+| Price | $39.41 | EV/Sales | 1.61 |
+| Market cap | $93.22B | EV/EBITDA | 4.04 |
 | Beta | -0.66 | Gross margin | 43.18% |
-| RSI(14) | 37.9 | Operating margin | 32.11% |
-| ATR(14) | 1.39 | Profit margin | 9.79% |
-| SMA20 dist | +nan% | ROA | 17.09% |
-| SMA50 dist | +nan% | ROE | 27.57% |
-| SMA200 dist | +nan% | Revenue (ttm) | $120.57B |
+| RSI(14) | 35.7 | Operating margin | 32.11% |
+| ATR(14) | 1.30 | Profit margin | 9.79% |
+| SMA20 dist | -8.56% | ROA | 17.09% |
+| SMA50 dist | -9.10% | ROE | 27.57% |
+| SMA200 dist | +3.46% | Revenue (ttm) | $120.57B |
 | 52W high | $48.38 | Revenue growth y/y | 26.60% |
 | 52W low | $21.48 | Inst. ownership | 6.61% |
-| P/E (ttm) | 8.23 | Insider ownership | 0.00% |
-| Forward P/E | 7.97 | Short float | 2.69% |
-| PEG (trailing) | 0.90 | Avg volume | 3,977,306 |
-| P/S | 0.78 | Employees | 23,545 |
-| P/B | 4.20 | Analyst rec (1=buy..5=sell) | 3.1 |
+| P/E (ttm) | 8.18 | Insider ownership | 0.00% |
+| Forward P/E | 7.92 | Short float | 2.69% |
+| PEG (trailing) | 0.79 | Avg volume | 4,006,759 |
+| P/S | 0.77 | Employees | 23,545 |
+| P/B | 4.17 | Analyst rec (1=buy..5=sell) | 3.1 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +139,7 @@ Equinor ASA operates as an energy company in Norway and internationally. It oper
 | 2025-05-07 | down | JP Morgan | Overweight → Neutral |
 
 ## 9. Conclusion
-EQNR: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+EQNR: High momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

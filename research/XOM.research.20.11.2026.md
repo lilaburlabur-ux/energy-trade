@@ -4,8 +4,8 @@ Signed file: `XOM.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $648.31B |
+| Current price | $160.88 (2026-11-20, ~15-min delayed) |
+| Market cap | $656.27B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `XOM.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +40.73%; price +3.87% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -13.54% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 32.60%. |
-| Value attractiveness | Reasonable | Forward P/E 12.73, EV/Sales 1.74. |
-| Risk level | Moderate | Beta 0.14, ATR nan% of price, short float 1.25%. |
+| Value attractiveness | Reasonable | Forward P/E 12.89, EV/Sales 1.74. |
+| Risk level | Moderate | Beta 0.14, ATR 2.6% of price, short float 1.25%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 
 | Headline | Source | Date |
 |---|---|---|
-| Guyana Oil Boom Rekindles Frontier Drilling Appetite | Oilprice.com | 2026-11-20 |
-| ExxonMobil Holdings (XOM) Gets Mozambique Approval For $30 Billion Rovuma LNG Plan | Simply Wall St. | 2026-11-19 |
-| Trump Cheers the “Biggest Drop in Gasoline in 18 Years.” Not Good for Exxon and Chevron | TIKR | 2026-11-19 |
-| How Retirees Can Turn $1 Million Into Passive Income With These 5 Dividend Stocks | 24/7 Wall St. | 2026-11-19 |
+| Robinhood faces shareholder challenge as SEC loosens proxy oversight | Reuters | 2026-11-20 |
+| ExxonMobil Secures Government Approval for Revised Rovuma LNG Plan | Zacks | 2026-11-20 |
+| How Retirees Can Turn $750,000 Into Passive Income With These 5 Dividend Stocks | 24/7 Wall St. | 2026-11-20 |
+| TechnipFMC Deepens ExxonMobil Ties With Guyana Longtail Awards | Zacks | 2026-11-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $186.08 (+nan%); 52w low $111.55 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 36.7 (neutral) |
-| Volatility | ATR(14) 4.35 (~nan% of price); beta 0.14 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $160.88; 52w high $186.08 (-13.54%); 52w low $111.55 (+44.22%) |
+| Trend | +3.87% vs SMA200, -4.46% vs SMA50, -5.61% vs SMA20 |
+| Momentum | RSI(14) 38.7 (neutral) |
+| Volatility | ATR(14) 4.19 (~2.6% of price); beta 0.14 |
+| Setup perspective | -13.54% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -5.1% |
+| Month | -9.2% |
+| Quarter | -1.3% |
+| Half Y | +5.2% |
+| 1Y | +40.7% |
+| YTD | +34.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 | Revenue (ttm) | $388.23B | Revenue growth 32.60% y/y |
 | Profitability | Gross 29.81%, operating 12.88%, net 10.46% | ROA 6.75%, ROE 15.53% |
 | Balance sheet | Cash $12.15B, debt $34.25B | Current ratio 1.19, debt/equity 12.57 |
-| Valuation | P/E 16.35, forward P/E 12.73, P/S 1.67, P/B 2.44 | EV/Sales 1.74, EV/EBITDA 8.69 |
+| Valuation | P/E 16.55, forward P/E 12.89, P/S 1.69, P/B 2.47 | EV/Sales 1.74, EV/EBITDA 8.69 |
 | Growth expectations | Earnings growth 111.40%, EPS q/q 104.20% | Analyst mean target $184.18 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 67.11% |
+| Institutional ownership | 67.08% |
 | Insider ownership | 0.11% |
 | Short float | 1.25% |
 | Short ratio (days to cover) | 3.8 |
@@ -109,21 +109,21 @@ ExxonMobil Holdings Corporation engages in the exploration and production of cru
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.74 |
-| Market cap | $648.31B | EV/EBITDA | 8.69 |
+| Price | $160.88 | EV/Sales | 1.74 |
+| Market cap | $656.27B | EV/EBITDA | 8.69 |
 | Beta | 0.14 | Gross margin | 29.81% |
-| RSI(14) | 36.7 | Operating margin | 12.88% |
-| ATR(14) | 4.35 | Profit margin | 10.46% |
-| SMA20 dist | +nan% | ROA | 6.75% |
-| SMA50 dist | +nan% | ROE | 15.53% |
-| SMA200 dist | +nan% | Revenue (ttm) | $388.23B |
+| RSI(14) | 38.7 | Operating margin | 12.88% |
+| ATR(14) | 4.19 | Profit margin | 10.46% |
+| SMA20 dist | -5.61% | ROA | 6.75% |
+| SMA50 dist | -4.46% | ROE | 15.53% |
+| SMA200 dist | +3.87% | Revenue (ttm) | $388.23B |
 | 52W high | $186.08 | Revenue growth y/y | 32.60% |
-| 52W low | $111.55 | Inst. ownership | 67.11% |
-| P/E (ttm) | 16.35 | Insider ownership | 0.11% |
-| Forward P/E | 12.73 | Short float | 1.25% |
-| PEG (trailing) | 1.26 | Avg volume | 13,640,740 |
-| P/S | 1.67 | Employees | 57,900 |
-| P/B | 2.44 | Analyst rec (1=buy..5=sell) | 2.4 |
+| 52W low | $111.55 | Inst. ownership | 67.08% |
+| P/E (ttm) | 16.55 | Insider ownership | 0.11% |
+| Forward P/E | 12.89 | Short float | 1.25% |
+| PEG (trailing) | 1.25 | Avg volume | 13,616,685 |
+| P/S | 1.69 | Employees | 57,900 |
+| P/B | 2.47 | Analyst rec (1=buy..5=sell) | 2.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

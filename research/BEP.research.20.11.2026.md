@@ -4,24 +4,24 @@ Signed file: `BEP.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $20.52B |
+| Current price | $29.35 (2026-11-20, ~15-min delayed) |
+| Market cap | $20.06B |
 | Sector / Industry | Utilities / Utilities - Renewable |
 | Main theme | Utilities - Renewable — see catalysts below |
-| Current stance | Moderate technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, weak fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-7.52%) with negative half-year (-15.45%). |
+| Fresh setup quality | Moderate / wait | -19.88% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Weak | Negative profit margin (-4.19%). |
-| Value attractiveness | Reasonable | Forward P/E -17.70, EV/Sales 13.47. |
-| Risk level | Moderate | Beta 0.95, ATR nan% of price, short float 0.71%. |
+| Value attractiveness | Reasonable | Forward P/E -17.31, EV/Sales 13.47. |
+| Risk level | Moderate | Beta 0.95, ATR 2.9% of price, short float 0.71%. |
 
-**Bottom line:** Moderate technical momentum, weak fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, weak fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -44,22 +44,22 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $36.63 (+nan%); 52w low $25.75 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 56.4 (neutral) |
-| Volatility | ATR(14) 0.88 (~nan% of price); beta 0.95 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $29.35; 52w high $36.63 (-19.88%); 52w low $25.75 (+13.99%) |
+| Trend | -7.52% vs SMA200, +0.30% vs SMA50, -1.97% vs SMA20 |
+| Momentum | RSI(14) 46.1 (neutral) |
+| Volatility | ATR(14) 0.86 (~2.9% of price); beta 0.95 |
+| Setup perspective | -19.88% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -2.1% |
+| Month | +1.5% |
+| Quarter | -8.1% |
+| Half Y | -15.4% |
+| 1Y | +6.4% |
+| YTD | +8.8% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,7 +68,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | Revenue (ttm) | $6.54B | Revenue growth 11.50% y/y |
 | Profitability | Gross 48.30%, operating 8.73%, net -4.19% | ROA 0.35%, ROE -0.75% |
 | Balance sheet | Cash $3.82B, debt $43.18B | Current ratio 0.78, debt/equity 114.10 |
-| Valuation | P/E —, forward P/E -17.70, P/S 3.14, P/B 2.32 | EV/Sales 13.47, EV/EBITDA 30.55 |
+| Valuation | P/E —, forward P/E -17.31, P/S 3.07, P/B 2.27 | EV/Sales 13.47, EV/EBITDA 30.55 |
 | Growth expectations | Earnings growth —, EPS q/q — | Analyst mean target $34.38 (14 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -110,21 +110,21 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 13.47 |
-| Market cap | $20.52B | EV/EBITDA | 30.55 |
+| Price | $29.35 | EV/Sales | 13.47 |
+| Market cap | $20.06B | EV/EBITDA | 30.55 |
 | Beta | 0.95 | Gross margin | 48.30% |
-| RSI(14) | 56.4 | Operating margin | 8.73% |
-| ATR(14) | 0.88 | Profit margin | -4.19% |
-| SMA20 dist | +nan% | ROA | 0.35% |
-| SMA50 dist | +nan% | ROE | -0.75% |
-| SMA200 dist | +nan% | Revenue (ttm) | $6.54B |
+| RSI(14) | 46.1 | Operating margin | 8.73% |
+| ATR(14) | 0.86 | Profit margin | -4.19% |
+| SMA20 dist | -1.97% | ROA | 0.35% |
+| SMA50 dist | +0.30% | ROE | -0.75% |
+| SMA200 dist | -7.52% | Revenue (ttm) | $6.54B |
 | 52W high | $36.63 | Revenue growth y/y | 11.50% |
 | 52W low | $25.75 | Inst. ownership | 64.39% |
 | P/E (ttm) | — | Insider ownership | 0.07% |
-| Forward P/E | -17.70 | Short float | 0.71% |
-| PEG (trailing) | — | Avg volume | 1,118,893 |
-| P/S | 3.14 | Employees | 6,700 |
-| P/B | 2.32 | Analyst rec (1=buy..5=sell) | 2.2 |
+| Forward P/E | -17.31 | Short float | 0.71% |
+| PEG (trailing) | — | Avg volume | 1,120,281 |
+| P/S | 3.07 | Employees | 6,700 |
+| P/B | 2.27 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +139,7 @@ Brookfield Renewable Partners L.P. owns a portfolio of renewable power generatin
 | 2026-04-20 | main | CIBC | Outperformer → Outperformer |
 
 ## 9. Conclusion
-BEP: Moderate momentum / weak fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+BEP: Low momentum / weak fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

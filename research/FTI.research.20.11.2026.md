@@ -4,24 +4,24 @@ Signed file: `FTI.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $23.84B |
+| Current price | $59.06 (2026-11-20, ~15-min delayed) |
+| Market cap | $22.96B |
 | Sector / Industry | Energy / Oil & Gas Equipment & Services |
 | Main theme | Oil & Gas Equipment & Services — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-15.39%) with negative half-year (-16.69%). |
+| Fresh setup quality | Poor / broken | -26.19% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 12.04%, revenue growth 9.40%. |
-| Value attractiveness | Reasonable | Forward P/E 16.10, EV/Sales 2.26. |
-| Risk level | Moderate | Beta 0.85, ATR nan% of price, short float 3.55%. |
+| Value attractiveness | Reasonable | Forward P/E 15.51, EV/Sales 2.26. |
+| Risk level | Elevated | Beta 0.85, ATR 4.0% of price, short float 3.55%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 
 | Headline | Source | Date |
 |---|---|---|
-| Pembina Pipeline Eyes Growth as Canadian Energy Demand Expands | Zacks | 2026-11-19 |
-| Expand Energy Expects U.S. Natural Gas Demand to Jump Over 10% by 2028 | Zacks | 2026-11-19 |
-| iShares Core S&P Mid-Cap (IJH) Adds Chime Financial on Tuesday | GuruFocus.com | 2026-11-19 |
-| California Resources Builds Integrated Energy Growth Platform | Zacks | 2026-11-18 |
+| Is TechnipFMC (FTI) Undervalued As New Longtail Contracts Test Its Recent Pullback? | Simply Wall St. | 2026-11-20 |
+| INPEX Awards Baker Hughes-McDermott Contract for Ichthys LNG Expansion | Zacks | 2026-11-20 |
+| TechnipFMC Deepens ExxonMobil Ties With Guyana Longtail Awards | Zacks | 2026-11-20 |
+| Northern Oil and Gas Raises Output Outlook After Record Q3 EBITDA | Zacks | 2026-11-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $80.02 (+nan%); 52w low $43.37 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 37.8 (neutral) |
-| Volatility | ATR(14) 2.38 (~nan% of price); beta 0.85 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $59.06; 52w high $80.02 (-26.19%); 52w low $43.37 (+36.19%) |
+| Trend | -15.39% vs SMA200, -13.42% vs SMA50, -9.53% vs SMA20 |
+| Momentum | RSI(14) 31.1 (neutral) |
+| Volatility | ATR(14) 2.39 (~4.0% of price); beta 0.85 |
+| Setup perspective | -26.19% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -10.8% |
+| Month | -11.5% |
+| Quarter | -22.1% |
+| Half Y | -16.7% |
+| 1Y | +34.7% |
+| YTD | +25.2% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | Revenue (ttm) | $10.67B | Revenue growth 9.40% y/y |
 | Profitability | Gross 23.60%, operating 15.64%, net 12.04% | ROA 10.08%, ROE 38.30% |
 | Balance sheet | Cash $1.05B, debt $1.30B | Current ratio 1.09, debt/equity 38.93 |
-| Valuation | P/E 19.28, forward P/E 16.10, P/S 2.23, P/B 7.18 | EV/Sales 2.26, EV/EBITDA 11.61 |
+| Valuation | P/E 18.57, forward P/E 15.51, P/S 2.15, P/B 6.91 | EV/Sales 2.26, EV/EBITDA 11.61 |
 | Growth expectations | Earnings growth 40.00%, EPS q/q 35.10% | Analyst mean target $76.45 (22 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 102.04% |
+| Institutional ownership | 102.01% |
 | Insider ownership | 1.57% |
 | Short float | 3.55% |
 | Short ratio (days to cover) | 5.1 |
@@ -95,6 +95,8 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | FMR, LLC | 11,619,603 | 2.99% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.85, ATR 4.0% of price, short float 3.55%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +111,21 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.26 |
-| Market cap | $23.84B | EV/EBITDA | 11.61 |
+| Price | $59.06 | EV/Sales | 2.26 |
+| Market cap | $22.96B | EV/EBITDA | 11.61 |
 | Beta | 0.85 | Gross margin | 23.60% |
-| RSI(14) | 37.8 | Operating margin | 15.64% |
-| ATR(14) | 2.38 | Profit margin | 12.04% |
-| SMA20 dist | +nan% | ROA | 10.08% |
-| SMA50 dist | +nan% | ROE | 38.30% |
-| SMA200 dist | +nan% | Revenue (ttm) | $10.67B |
+| RSI(14) | 31.1 | Operating margin | 15.64% |
+| ATR(14) | 2.39 | Profit margin | 12.04% |
+| SMA20 dist | -9.53% | ROA | 10.08% |
+| SMA50 dist | -13.42% | ROE | 38.30% |
+| SMA200 dist | -15.39% | Revenue (ttm) | $10.67B |
 | 52W high | $80.02 | Revenue growth y/y | 9.40% |
-| 52W low | $43.37 | Inst. ownership | 102.04% |
-| P/E (ttm) | 19.28 | Insider ownership | 1.57% |
-| Forward P/E | 16.10 | Short float | 3.55% |
-| PEG (trailing) | — | Avg volume | 2,864,415 |
-| P/S | 2.23 | Employees | 21,975 |
-| P/B | 7.18 | Analyst rec (1=buy..5=sell) | 2.0 |
+| 52W low | $43.37 | Inst. ownership | 102.01% |
+| P/E (ttm) | 18.57 | Insider ownership | 1.57% |
+| Forward P/E | 15.51 | Short float | 3.55% |
+| PEG (trailing) | — | Avg volume | 2,885,898 |
+| P/S | 2.15 | Employees | 21,975 |
+| P/B | 6.91 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +140,7 @@ TechnipFMC plc engages in the oil and natural gas projects, technologies, system
 | 2026-05-08 | main | Barclays | Overweight → Overweight |
 
 ## 9. Conclusion
-FTI: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+FTI: Low momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

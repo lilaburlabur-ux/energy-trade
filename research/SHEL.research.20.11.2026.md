@@ -4,8 +4,8 @@ Signed file: `SHEL.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $265.55B |
+| Current price | $93.97 (2026-11-20, ~15-min delayed) |
+| Market cap | $265.24B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SHEL.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +32.10%; price +6.06% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -12.85% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.18%, revenue growth 36.20%. |
 | Value attractiveness | Reasonable | Forward P/E 8.38, EV/Sales 0.96. |
-| Risk level | Moderate | Beta -0.25, ATR nan% of price, short float 1.01%. |
+| Risk level | Moderate | Beta -0.25, ATR 2.0% of price, short float 1.01%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 
 | Headline | Source | Date |
 |---|---|---|
+| Bank of America, Shell can save you more money on gas | USA TODAY | 2026-11-20 |
+| Coca-Cola or Shell: Only One Gets My Dividend Dollars for the Next 20 Years | TIKR | 2026-11-20 |
+| Chariot secures cash-generating foothold in Angola | Proactive | 2026-11-20 |
 | HF Sinclair (DINO) Names Shawn J. Carsten As CFO | Simply Wall St. | 2026-11-19 |
-| Will Eni's Expanded Lummus Partnership Boost Chemical Growth? | Zacks | 2026-11-19 |
-| NVIDIA’s Q3 Earnings, Anthropic IPO Watch, Data Center Construction Slows in Q3 | Blockspace | 2026-11-18 |
-| Shell's Rosmari-Marjoram Startup Boosts Malaysia's Gas Supply | Zacks | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $107.83 (+nan%); 52w low $67.89 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 34.8 (neutral) |
-| Volatility | ATR(14) 1.93 (~nan% of price); beta -0.25 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $93.97; 52w high $107.83 (-12.85%); 52w low $67.89 (+38.41%) |
+| Trend | +6.06% vs SMA200, -5.10% vs SMA50, -6.08% vs SMA20 |
+| Momentum | RSI(14) 34.1 (neutral) |
+| Volatility | ATR(14) 1.84 (~2.0% of price); beta -0.25 |
+| Setup perspective | -12.85% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -5.2% |
+| Month | -10.5% |
+| Quarter | +1.9% |
+| Half Y | +11.5% |
+| 1Y | +32.1% |
+| YTD | +29.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -74,7 +74,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 13.96% |
+| Institutional ownership | 13.97% |
 | Insider ownership | 0.01% |
 | Short float | 1.01% |
 | Short ratio (days to cover) | 2.5 |
@@ -109,19 +109,19 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 0.96 |
-| Market cap | $265.55B | EV/EBITDA | 4.59 |
+| Price | $93.97 | EV/Sales | 0.96 |
+| Market cap | $265.24B | EV/EBITDA | 4.59 |
 | Beta | -0.25 | Gross margin | 26.93% |
-| RSI(14) | 34.8 | Operating margin | 15.25% |
-| ATR(14) | 1.93 | Profit margin | 10.18% |
-| SMA20 dist | +nan% | ROA | 7.67% |
-| SMA50 dist | +nan% | ROE | 17.43% |
-| SMA200 dist | +nan% | Revenue (ttm) | $321.29B |
+| RSI(14) | 34.1 | Operating margin | 15.25% |
+| ATR(14) | 1.84 | Profit margin | 10.18% |
+| SMA20 dist | -6.08% | ROA | 7.67% |
+| SMA50 dist | -5.10% | ROE | 17.43% |
+| SMA200 dist | +6.06% | Revenue (ttm) | $321.29B |
 | 52W high | $107.83 | Revenue growth y/y | 36.20% |
-| 52W low | $67.89 | Inst. ownership | 13.96% |
+| 52W low | $67.89 | Inst. ownership | 13.97% |
 | P/E (ttm) | 8.16 | Insider ownership | 0.01% |
 | Forward P/E | 8.38 | Short float | 1.01% |
-| PEG (trailing) | 1.31 | Avg volume | 6,079,178 |
+| PEG (trailing) | 1.30 | Avg volume | 6,097,511 |
 | P/S | 0.83 | Employees | 84,000 |
 | P/B | 1.36 | Analyst rec (1=buy..5=sell) | 2.2 |
 

@@ -4,8 +4,8 @@ Signed file: `SO.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $108.61B |
+| Current price | $93.64 (2026-11-20, ~15-min delayed) |
+| Market cap | $109.03B |
 | Sector / Industry | Utilities / Utilities - Regulated Electric |
 | Main theme | Utilities - Regulated Electric — see catalysts below |
 | Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `SO.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +8.63%; price +2.61% vs SMA200. |
+| Fresh setup quality | Watch | -3.16% from 52w high and near SMA20 — check for a tight base. |
 | Fundamental quality | Strong | Profit margin 16.00%, revenue growth 13.00%. |
-| Value attractiveness | Reasonable | Forward P/E 18.90, EV/Sales 5.93. |
-| Risk level | Moderate | Beta 0.29, ATR nan% of price, short float 2.61%. |
+| Value attractiveness | Reasonable | Forward P/E 18.97, EV/Sales 5.93. |
+| Risk level | Moderate | Beta 0.29, ATR 1.9% of price, short float 2.61%. |
 
 **Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 
 | Headline | Source | Date |
 |---|---|---|
-| Will Buyers Defend Constellation Energy Stock At $263? | Trefis | 2026-11-19 |
-| One Unsettled Question Sits Under Southern Stock | Trefis | 2026-11-19 |
-| How Many Shares of Southern Company, Edison International or WEC Energy Pay $1,000 a Month in Dividends? | TIKR | 2026-11-18 |
-| PG&E Stock's Biggest Risk Is California's Wildfire Rules | Trefis | 2026-11-18 |
+| What Is Going On With PG&E Stock? | Trefis | 2026-11-20 |
+| Utility ETFs to Buy as Data Center Electricity Usage Is Set to Double by 2030 | Zacks | 2026-11-20 |
+| NextEra Energy's YTD Rally Beats the Industry: Is the Stock a Buy? | Zacks | 2026-11-20 |
+| Southern Company’s $100 Billion Spending Plan Puts Its Dividend Growth to the Test | 24/7 Wall St. | 2026-11-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $96.70 (+nan%); 52w low $81.40 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 62.1 (neutral) |
-| Volatility | ATR(14) 1.78 (~nan% of price); beta 0.29 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $93.64; 52w high $96.70 (-3.16%); 52w low $81.40 (+15.05%) |
+| Trend | +2.61% vs SMA200, +5.67% vs SMA50, +0.91% vs SMA20 |
+| Momentum | RSI(14) 58.0 (neutral) |
+| Volatility | ATR(14) 1.75 (~1.9% of price); beta 0.29 |
+| Setup perspective | -3.16% from 52w high and near SMA20 — check for a tight base. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | +0.9% |
+| Month | +0.6% |
+| Quarter | +4.8% |
+| Half Y | +0.7% |
+| 1Y | +8.6% |
+| YTD | +11.0% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Revenue (ttm) | $31.20B | Revenue growth 13.00% y/y |
 | Profitability | Gross 48.55%, operating 27.38%, net 16.00% | ROA 3.36%, ROE 11.90% |
 | Balance sheet | Cash $1.74B, debt $75.49B | Current ratio 0.84, debt/equity 168.49 |
-| Valuation | P/E 21.30, forward P/E 18.90, P/S 3.48, P/B 2.58 | EV/Sales 5.93, EV/EBITDA 12.57 |
+| Valuation | P/E 21.38, forward P/E 18.97, P/S 3.49, P/B 2.59 | EV/Sales 5.93, EV/EBITDA 12.57 |
 | Growth expectations | Earnings growth 14.30%, EPS q/q 19.60% | Analyst mean target $96.28 (20 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 73.64% |
+| Institutional ownership | 73.58% |
 | Insider ownership | 0.10% |
 | Short float | 2.61% |
 | Short ratio (days to cover) | 5.1 |
@@ -95,6 +95,7 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 | Franklin Templeton, Inc. | 17,180,445 | 1.48% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Technical trap:** near 52-week highs — do not confuse an old breakout that already worked with a fresh entry.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -109,21 +110,21 @@ The Southern Company, through its subsidiaries, engages in the sale of electrici
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 5.93 |
-| Market cap | $108.61B | EV/EBITDA | 12.57 |
+| Price | $93.64 | EV/Sales | 5.93 |
+| Market cap | $109.03B | EV/EBITDA | 12.57 |
 | Beta | 0.29 | Gross margin | 48.55% |
-| RSI(14) | 62.1 | Operating margin | 27.38% |
-| ATR(14) | 1.78 | Profit margin | 16.00% |
-| SMA20 dist | +nan% | ROA | 3.36% |
-| SMA50 dist | +nan% | ROE | 11.90% |
-| SMA200 dist | +nan% | Revenue (ttm) | $31.20B |
+| RSI(14) | 58.0 | Operating margin | 27.38% |
+| ATR(14) | 1.75 | Profit margin | 16.00% |
+| SMA20 dist | +0.91% | ROA | 3.36% |
+| SMA50 dist | +5.67% | ROE | 11.90% |
+| SMA200 dist | +2.61% | Revenue (ttm) | $31.20B |
 | 52W high | $96.70 | Revenue growth y/y | 13.00% |
-| 52W low | $81.40 | Inst. ownership | 73.64% |
-| P/E (ttm) | 21.30 | Insider ownership | 0.10% |
-| Forward P/E | 18.90 | Short float | 2.61% |
-| PEG (trailing) | 2.23 | Avg volume | 7,016,968 |
-| P/S | 3.48 | Employees | 29,502 |
-| P/B | 2.58 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $81.40 | Inst. ownership | 73.58% |
+| P/E (ttm) | 21.38 | Insider ownership | 0.10% |
+| Forward P/E | 18.97 | Short float | 2.61% |
+| PEG (trailing) | 2.20 | Avg volume | 7,008,235 |
+| P/S | 3.49 | Employees | 29,502 |
+| P/B | 2.59 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

@@ -4,24 +4,24 @@ Signed file: `NRG.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $19.71B |
+| Current price | $88.31 (2026-11-20, ~15-min delayed) |
+| Market cap | $18.55B |
 | Sector / Industry | Utilities / Utilities - Independent Power Producers |
 | Main theme | Utilities - Independent Power Producers — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: high. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-32.00%) with negative half-year (-35.30%). |
+| Fresh setup quality | Poor / broken | -51.46% from 52w high — base needs to rebuild. |
 | Fundamental quality | Mixed | Profit margin 3.60%, revenue growth 24.00%. |
-| Value attractiveness | Reasonable | Forward P/E 9.80, EV/Sales 1.24. |
-| Risk level | Elevated | Beta 1.20, ATR nan% of price, short float 3.71%. |
+| Value attractiveness | Reasonable | Forward P/E 9.22, EV/Sales 1.24. |
+| Risk level | High | Beta 1.20, ATR 5.3% of price, short float 3.71%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: elevated.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: high.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 
 | Headline | Source | Date |
 |---|---|---|
+| NRG Energy (NRG) Looks Repriced As Strong Earnings And 2027 Outlook Reset The Story | Simply Wall St. | 2026-11-20 |
 | NRG Energy (NRG) Stock Looks Undervalued As Asset Sale Reshapes Earnings | Simply Wall St. | 2026-11-19 |
 | Vistra Just Dropped 16% in a Month, but Its Plans Always Had “a More Conservative View of the AI Build-Out” | TIKR | 2026-11-19 |
 | NRG Energy, Inc. (NRG) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-11-17 |
-| Vistra Stock's $21 Billion Debt: Should Holders Worry? | Trefis | 2026-11-17 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $181.92 (+nan%); 52w low $80.55 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 46.8 (neutral) |
-| Volatility | ATR(14) 4.69 (~nan% of price); beta 1.20 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $88.31; 52w high $181.92 (-51.46%); 52w low $80.55 (+9.63%) |
+| Trend | -32.00% vs SMA200, -9.90% vs SMA50, -5.49% vs SMA20 |
+| Momentum | RSI(14) 40.4 (neutral) |
+| Volatility | ATR(14) 4.67 (~5.3% of price); beta 1.20 |
+| Setup perspective | -51.46% from 52w high — base needs to rebuild. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -9.1% |
+| Month | -6.0% |
+| Quarter | -20.6% |
+| Half Y | -35.3% |
+| 1Y | -46.9% |
+| YTD | -46.1% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Revenue (ttm) | $34.96B | Revenue growth 24.00% y/y |
 | Profitability | Gross 20.20%, operating 7.89%, net 3.60% | ROA 5.36%, ROE 34.74% |
 | Balance sheet | Cash $154.00M, debt $23.13B | Current ratio 0.99, debt/equity 438.73 |
-| Valuation | P/E 16.41, forward P/E 9.80, P/S 0.56, P/B 4.26 | EV/Sales 1.24, EV/EBITDA 10.55 |
-| Growth expectations | Earnings growth 275.40%, EPS q/q 269.10% | Analyst mean target $158.33 (15 analysts) |
+| Valuation | P/E 15.44, forward P/E 9.22, P/S 0.53, P/B 4.01 | EV/Sales 1.24, EV/EBITDA 10.55 |
+| Growth expectations | Earnings growth 275.40%, EPS q/q 269.10% | Analyst mean target $157.13 (15 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 92.35% |
+| Institutional ownership | 92.33% |
 | Insider ownership | 4.50% |
 | Short float | 3.71% |
 | Short ratio (days to cover) | 1.8 |
@@ -95,7 +95,8 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | Morgan Stanley | 4,431,337 | 2.11% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
-- **Volatility risk:** Beta 1.20, ATR nan% of price, short float 3.71%. Size positions accordingly.
+- **Volatility risk:** Beta 1.20, ATR 5.3% of price, short float 3.71%. Size positions accordingly.
+- **Trend risk:** far below the 52-week high; falling-knife entries without a base are low-quality setups.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
 ### Setup checklist for your journal
@@ -110,21 +111,21 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.24 |
-| Market cap | $19.71B | EV/EBITDA | 10.55 |
+| Price | $88.31 | EV/Sales | 1.24 |
+| Market cap | $18.55B | EV/EBITDA | 10.55 |
 | Beta | 1.20 | Gross margin | 20.20% |
-| RSI(14) | 46.8 | Operating margin | 7.89% |
-| ATR(14) | 4.69 | Profit margin | 3.60% |
-| SMA20 dist | +nan% | ROA | 5.36% |
-| SMA50 dist | +nan% | ROE | 34.74% |
-| SMA200 dist | +nan% | Revenue (ttm) | $34.96B |
+| RSI(14) | 40.4 | Operating margin | 7.89% |
+| ATR(14) | 4.67 | Profit margin | 3.60% |
+| SMA20 dist | -5.49% | ROA | 5.36% |
+| SMA50 dist | -9.90% | ROE | 34.74% |
+| SMA200 dist | -32.00% | Revenue (ttm) | $34.96B |
 | 52W high | $181.92 | Revenue growth y/y | 24.00% |
-| 52W low | $80.55 | Inst. ownership | 92.35% |
-| P/E (ttm) | 16.41 | Insider ownership | 4.50% |
-| Forward P/E | 9.80 | Short float | 3.71% |
-| PEG (trailing) | 0.34 | Avg volume | 3,285,159 |
-| P/S | 0.56 | Employees | 16,702 |
-| P/B | 4.26 | Analyst rec (1=buy..5=sell) | 1.4 |
+| 52W low | $80.55 | Inst. ownership | 92.33% |
+| P/E (ttm) | 15.44 | Insider ownership | 4.50% |
+| Forward P/E | 9.22 | Short float | 3.71% |
+| PEG (trailing) | 0.34 | Avg volume | 3,282,360 |
+| P/S | 0.53 | Employees | 16,702 |
+| P/B | 4.01 | Analyst rec (1=buy..5=sell) | 1.4 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +140,7 @@ NRG Energy, Inc., together with its subsidiaries, operates as an energy and home
 | 2026-08-21 | main | Morgan Stanley | Equal-Weight → Equal-Weight |
 
 ## 9. Conclusion
-NRG: Moderate momentum / mixed fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+NRG: Low momentum / mixed fundamentals / reasonable value / high risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

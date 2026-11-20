@@ -4,8 +4,8 @@ Signed file: `BP.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $111.29B |
+| Current price | $42.94 (2026-11-20, ~15-min delayed) |
+| Market cap | $110.60B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
 | Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
@@ -15,11 +15,11 @@ Signed file: `BP.research.20.11.2026`
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Moderate | 1Y +25.30%; price +0.77% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -15.37% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 3.84%, revenue growth 41.40%. |
-| Value attractiveness | Reasonable | Forward P/E 7.05, EV/Sales 2.09. |
-| Risk level | Moderate | Beta -0.26, ATR nan% of price, short float 0.31%. |
+| Value attractiveness | Reasonable | Forward P/E 7.01, EV/Sales 2.09. |
+| Risk level | Moderate | Beta -0.26, ATR 2.6% of price, short float 0.31%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
@@ -36,30 +36,30 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 
 | Headline | Source | Date |
 |---|---|---|
-| BP weighs divesting West Africa LNG stake to streamline portfolio, Bloomberg says | Investing.com | 2026-11-19 |
-| European Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading | MT Newswires | 2026-11-19 |
-| Should Investors Buy, Hold or Sell Equinor Stock Post Q3 Earnings? | Zacks | 2026-11-19 |
-| BP p.l.c. (BP) is Attracting Investor Attention: Here is What You Should Know | Zacks | 2026-11-19 |
+| BP Steps Up Deleveraging With Strong Cash Flows and Divestments | Zacks | 2026-11-20 |
+| Better High-Yield Dividend Stock: BP vs. General Mills | TIKR | 2026-11-20 |
+| BP vs TotalEnergies: why TotalEnergies comes out ahead | Investing.com | 2026-11-20 |
+| Is BP (BP) Stock Undervalued Right Now? | Zacks | 2026-11-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $50.74 (+nan%); 52w low $31.75 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 35.8 (neutral) |
-| Volatility | ATR(14) 1.16 (~nan% of price); beta -0.26 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $42.94; 52w high $50.74 (-15.37%); 52w low $31.75 (+35.23%) |
+| Trend | +0.77% vs SMA200, -6.26% vs SMA50, -6.44% vs SMA20 |
+| Momentum | RSI(14) 34.6 (neutral) |
+| Volatility | ATR(14) 1.11 (~2.6% of price); beta -0.26 |
+| Setup perspective | -15.37% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -6.0% |
+| Month | -13.2% |
+| Quarter | -0.7% |
+| Half Y | -0.9% |
+| 1Y | +25.3% |
+| YTD | +25.7% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 | Revenue (ttm) | $235.14B | Revenue growth 41.40% y/y |
 | Profitability | Gross 29.56%, operating 13.41%, net 3.84% | ROA 6.75%, ROE 13.42% |
 | Balance sheet | Cash $43.05B, debt $69.62B | Current ratio 1.29, debt/equity 87.47 |
-| Valuation | P/E 21.08, forward P/E 7.05, P/S 0.47, P/B 7.21 | EV/Sales 2.09, EV/EBITDA 10.45 |
+| Valuation | P/E 20.95, forward P/E 7.01, P/S 0.47, P/B 7.16 | EV/Sales 2.09, EV/EBITDA 10.45 |
 | Growth expectations | Earnings growth 305.00%, EPS q/q 304.50% | Analyst mean target $55.89 (19 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 14.53% |
+| Institutional ownership | 14.55% |
 | Insider ownership | 0.01% |
 | Short float | 0.31% |
 | Short ratio (days to cover) | 0.8 |
@@ -109,21 +109,21 @@ BP p.l.c., an integrated energy company, engages in the oil and gas business wor
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.09 |
-| Market cap | $111.29B | EV/EBITDA | 10.45 |
+| Price | $42.94 | EV/Sales | 2.09 |
+| Market cap | $110.60B | EV/EBITDA | 10.45 |
 | Beta | -0.26 | Gross margin | 29.56% |
-| RSI(14) | 35.8 | Operating margin | 13.41% |
-| ATR(14) | 1.16 | Profit margin | 3.84% |
-| SMA20 dist | +nan% | ROA | 6.75% |
-| SMA50 dist | +nan% | ROE | 13.42% |
-| SMA200 dist | +nan% | Revenue (ttm) | $235.14B |
+| RSI(14) | 34.6 | Operating margin | 13.41% |
+| ATR(14) | 1.11 | Profit margin | 3.84% |
+| SMA20 dist | -6.44% | ROA | 6.75% |
+| SMA50 dist | -6.26% | ROE | 13.42% |
+| SMA200 dist | +0.77% | Revenue (ttm) | $235.14B |
 | 52W high | $50.74 | Revenue growth y/y | 41.40% |
-| 52W low | $31.75 | Inst. ownership | 14.53% |
-| P/E (ttm) | 21.08 | Insider ownership | 0.01% |
-| Forward P/E | 7.05 | Short float | 0.31% |
-| PEG (trailing) | 0.04 | Avg volume | 9,069,612 |
+| 52W low | $31.75 | Inst. ownership | 14.55% |
+| P/E (ttm) | 20.95 | Insider ownership | 0.01% |
+| Forward P/E | 7.01 | Short float | 0.31% |
+| PEG (trailing) | 0.04 | Avg volume | 9,087,106 |
 | P/S | 0.47 | Employees | 93,700 |
-| P/B | 7.21 | Analyst rec (1=buy..5=sell) | 2.2 |
+| P/B | 7.16 | Analyst rec (1=buy..5=sell) | 2.2 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |

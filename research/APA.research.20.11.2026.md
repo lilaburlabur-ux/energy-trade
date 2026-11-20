@@ -4,24 +4,24 @@ Signed file: `APA.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $14.98B |
+| Current price | $45.27 (2026-11-20, ~15-min delayed) |
+| Market cap | $15.20B |
 | Sector / Industry | Energy / Oil & Gas E&P |
 | Main theme | Oil & Gas E&P — see catalysts below |
-| Current stance | Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate. |
+| Current stance | High technical momentum, strong fundamentals, value: reasonable, risk: elevated. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | High | 1Y +93.62%; price +16.50% vs SMA200. |
+| Fresh setup quality | Moderate / wait | -14.29% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Strong | Profit margin 23.49%, revenue growth 31.50%. |
-| Value attractiveness | Reasonable | Forward P/E 7.61, EV/Sales 2.08. |
-| Risk level | Moderate | Beta 0.28, ATR nan% of price, short float 9.07%. |
+| Value attractiveness | Reasonable | Forward P/E 7.72, EV/Sales 2.08. |
+| Risk level | Elevated | Beta 0.28, ATR 4.0% of price, short float 9.07%. |
 
-**Bottom line:** Moderate technical momentum, strong fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** High technical momentum, strong fundamentals, value: reasonable, risk: elevated.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 
 | Headline | Source | Date |
 |---|---|---|
-| 5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates | Oilprice.com | 2026-11-18 |
-| SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal | Zacks | 2026-11-17 |
-| What Is Devon Getting For All That Spending? | Trefis | 2026-11-16 |
-| Apache North Sea workers stage third strike round, Unite says production halted | Investing.com | 2026-11-16 |
+| APA vs. LNG: Which Stock Should Value Investors Buy Now? | Zacks | 2026-11-20 |
+| Best Momentum Stocks to Buy for November 20th | Zacks | 2026-11-20 |
+| Best Income Stocks to Buy for November 20th | Zacks | 2026-11-20 |
+| New Strong Buy Stocks for November 20th | Zacks | 2026-11-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $52.82 (+nan%); 52w low $22.73 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 44.7 (neutral) |
-| Volatility | ATR(14) 1.85 (~nan% of price); beta 0.28 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $45.27; 52w high $52.82 (-14.29%); 52w low $22.73 (+99.16%) |
+| Trend | +16.50% vs SMA200, -2.10% vs SMA50, -4.61% vs SMA20 |
+| Momentum | RSI(14) 44.6 (neutral) |
+| Volatility | ATR(14) 1.83 (~4.0% of price); beta 0.28 |
+| Setup perspective | -14.29% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -6.5% |
+| Month | -8.4% |
+| Quarter | +5.9% |
+| Half Y | +18.1% |
+| 1Y | +93.6% |
+| YTD | +83.6% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | Revenue (ttm) | $9.24B | Revenue growth 31.50% y/y |
 | Profitability | Gross 78.98%, operating 43.31%, net 23.49% | ROA 14.06%, ROE 33.32% |
 | Balance sheet | Cash $75.00M, debt $3.43B | Current ratio 0.84, debt/equity 42.23 |
-| Valuation | P/E 7.26, forward P/E 7.61, P/S 1.62, P/B 2.11 | EV/Sales 2.08, EV/EBITDA 3.02 |
-| Growth expectations | Earnings growth 250.90%, EPS q/q 240.50% | Analyst mean target $50.50 (26 analysts) |
+| Valuation | P/E 7.36, forward P/E 7.72, P/S 1.65, P/B 2.14 | EV/Sales 2.08, EV/EBITDA 3.02 |
+| Growth expectations | Earnings growth 250.90%, EPS q/q 240.50% | Analyst mean target $50.65 (26 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 110.01% |
+| Institutional ownership | 109.98% |
 | Insider ownership | 0.46% |
 | Short float | 9.07% |
 | Short ratio (days to cover) | 4.5 |
@@ -95,6 +95,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | FMR, LLC | 9,483,234 | 2.82% | 2026-09-30 |
 
 ## 6. Risk Review and Setup Plan
+- **Volatility risk:** Beta 0.28, ATR 4.0% of price, short float 9.07%. Size positions accordingly.
 - **Short interest risk:** short float 9.07% can fuel squeezes both ways around news.
 - **Macro/sector risk:** broad sector sentiment, interest rates, and policy headlines can move the whole group regardless of company-specific execution.
 
@@ -110,21 +111,21 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 2.08 |
-| Market cap | $14.98B | EV/EBITDA | 3.02 |
+| Price | $45.27 | EV/Sales | 2.08 |
+| Market cap | $15.20B | EV/EBITDA | 3.02 |
 | Beta | 0.28 | Gross margin | 78.98% |
-| RSI(14) | 44.7 | Operating margin | 43.31% |
-| ATR(14) | 1.85 | Profit margin | 23.49% |
-| SMA20 dist | +nan% | ROA | 14.06% |
-| SMA50 dist | +nan% | ROE | 33.32% |
-| SMA200 dist | +nan% | Revenue (ttm) | $9.24B |
+| RSI(14) | 44.6 | Operating margin | 43.31% |
+| ATR(14) | 1.83 | Profit margin | 23.49% |
+| SMA20 dist | -4.61% | ROA | 14.06% |
+| SMA50 dist | -2.10% | ROE | 33.32% |
+| SMA200 dist | +16.50% | Revenue (ttm) | $9.24B |
 | 52W high | $52.82 | Revenue growth y/y | 31.50% |
-| 52W low | $22.73 | Inst. ownership | 110.01% |
-| P/E (ttm) | 7.26 | Insider ownership | 0.46% |
-| Forward P/E | 7.61 | Short float | 9.07% |
-| PEG (trailing) | 1.13 | Avg volume | 5,600,137 |
-| P/S | 1.62 | Employees | 1,791 |
-| P/B | 2.11 | Analyst rec (1=buy..5=sell) | 2.6 |
+| 52W low | $22.73 | Inst. ownership | 109.98% |
+| P/E (ttm) | 7.36 | Insider ownership | 0.46% |
+| Forward P/E | 7.72 | Short float | 9.07% |
+| PEG (trailing) | 1.10 | Avg volume | 5,585,673 |
+| P/S | 1.65 | Employees | 1,791 |
+| P/B | 2.14 | Analyst rec (1=buy..5=sell) | 2.6 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -139,7 +140,7 @@ APA Corporation, an independent energy company, explores for, develops, and prod
 | 2026-10-15 | main | Mizuho | Underperform → Underperform |
 
 ## 9. Conclusion
-APA: Moderate momentum / strong fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+APA: High momentum / strong fundamentals / reasonable value / elevated risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |

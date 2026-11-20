@@ -4,24 +4,24 @@ Signed file: `TTE.research.20.11.2026`
 
 | Field | Value |
 |---|---|
-| Current price | $nan (2026-11-20, ~15-min delayed) |
-| Market cap | $189.15B |
+| Current price | $85.48 (2026-11-20, ~15-min delayed) |
+| Market cap | $187.25B |
 | Sector / Industry | Energy / Oil & Gas Integrated |
 | Main theme | Oil & Gas Integrated — see catalysts below |
-| Current stance | Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
+| Current stance | Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate. |
 
 > Research journal, not financial advice. For education and decision journaling only — not a recommendation to buy, hold, or sell. Public Yahoo Finance data retrieved 2026-11-20.
 
 ## 1. Executive Summary
 | Area | Score / Read | Reason |
 |---|---|---|
-| Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
-| Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
+| Technical momentum | Low | Below SMA200 (-0.31%) with negative half-year (-5.58%). |
+| Fresh setup quality | Moderate / wait | -10.33% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.46%, revenue growth 41.10%. |
-| Value attractiveness | Reasonable | Forward P/E 7.10, EV/Sales 1.03. |
-| Risk level | Moderate | Beta 0.04, ATR nan% of price, short float 0.19%. |
+| Value attractiveness | Reasonable | Forward P/E 7.04, EV/Sales 1.03. |
+| Risk level | Moderate | Beta 0.04, ATR 2.1% of price, short float 0.19%. |
 
-**Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
+**Bottom line:** Low technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
 
 **Key questions before any trade (standard):**
 - Is the stock forming a new tight base, or is it simply extended after news-driven gaps?
@@ -36,30 +36,30 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 
 | Headline | Source | Date |
 |---|---|---|
-| Better Dividend Stock: TotalEnergies vs. MPLX | TIKR | 2026-11-18 |
-| Drilling for Yield in the Gulf: Chevron Drops Anchor in Deepwater | MarketBeat | 2026-11-18 |
-| Better Dividend Stock: TotalEnergies vs. Hershey | TIKR | 2026-11-18 |
-| EnQuest Exits UK, Pivots to SE Asia | Rigzone.com | 2026-11-18 |
+| TotalEnergies or Kraft Heinz: The One Dividend Stock I’d Hold for the Next 20 Years | TIKR | 2026-11-20 |
+| The Roth Conversion Mistake That Turns $5,425 a Month Tax-Free Into a Five-Figure Tax Bill | 24/7 Wall St. | 2026-11-20 |
+| What Is TotalEnergies (ENXTPA:TTE) Signaling With Its North Sea And Suriname Push? | Simply Wall St. | 2026-11-20 |
+| BP vs TotalEnergies: why TotalEnergies comes out ahead | Investing.com | 2026-11-20 |
 
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
-| Price vs 52-week range | Close $nan; 52w high $95.33 (+nan%); 52w low $61.13 (+nan%) |
-| Trend | +nan% vs SMA200, +nan% vs SMA50, +nan% vs SMA20 |
-| Momentum | RSI(14) 41.2 (neutral) |
-| Volatility | ATR(14) 1.79 (~nan% of price); beta 0.04 |
-| Setup perspective | +nan% from 52w high; no clean fresh pivot by default. |
+| Price vs 52-week range | Close $85.48; 52w high $95.33 (-10.33%); 52w low $61.13 (+39.84%) |
+| Trend | -0.31% vs SMA200, -4.20% vs SMA50, -5.24% vs SMA20 |
+| Momentum | RSI(14) 36.9 (neutral) |
+| Volatility | ATR(14) 1.77 (~2.1% of price); beta 0.04 |
+| Setup perspective | -10.33% from 52w high; no clean fresh pivot by default. |
 
 **Performance snapshot:**
 
 | Window | Return |
 |---|---|
-| Week | +nan% |
-| Month | +nan% |
-| Quarter | +nan% |
-| Half Y | +nan% |
-| 1Y | +nan% |
-| YTD | +nan% |
+| Week | -5.8% |
+| Month | -6.0% |
+| Quarter | -3.2% |
+| Half Y | -5.6% |
+| 1Y | +38.3% |
+| YTD | +31.4% |
 
 ## 4. Fundamental Analysis
 | Factor | Observation | Implication / extra |
@@ -68,13 +68,13 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | Revenue (ttm) | $214.40B | Revenue growth 41.10% y/y |
 | Profitability | Gross 39.18%, operating 17.00%, net 10.46% | ROA 7.19%, ROE 17.83% |
 | Balance sheet | Cash $37.80B, debt $63.17B | Current ratio 1.11, debt/equity 46.12 |
-| Valuation | P/E 8.61, forward P/E 7.10, P/S 0.88, P/B 1.43 | EV/Sales 1.03, EV/EBITDA 4.53 |
+| Valuation | P/E 8.53, forward P/E 7.04, P/S 0.87, P/B 1.42 | EV/Sales 1.03, EV/EBITDA 4.53 |
 | Growth expectations | Earnings growth 123.20%, EPS q/q 124.40% | Analyst mean target $100.85 (10 analysts) |
 
 ## 5. Institutional Investors and Ownership
 | Metric | Value |
 |---|---|
-| Institutional ownership | 57.39% |
+| Institutional ownership | 57.38% |
 | Insider ownership | 8.85% |
 | Short float | 0.19% |
 | Short ratio (days to cover) | 1.8 |
@@ -109,21 +109,21 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 ## 7. Full Data Snapshot
 | Metric | Value | Metric | Value |
 |---|---|---|---|
-| Price | $nan | EV/Sales | 1.03 |
-| Market cap | $189.15B | EV/EBITDA | 4.53 |
+| Price | $85.48 | EV/Sales | 1.03 |
+| Market cap | $187.25B | EV/EBITDA | 4.53 |
 | Beta | 0.04 | Gross margin | 39.18% |
-| RSI(14) | 41.2 | Operating margin | 17.00% |
-| ATR(14) | 1.79 | Profit margin | 10.46% |
-| SMA20 dist | +nan% | ROA | 7.19% |
-| SMA50 dist | +nan% | ROE | 17.83% |
-| SMA200 dist | +nan% | Revenue (ttm) | $214.40B |
+| RSI(14) | 36.9 | Operating margin | 17.00% |
+| ATR(14) | 1.77 | Profit margin | 10.46% |
+| SMA20 dist | -5.24% | ROA | 7.19% |
+| SMA50 dist | -4.20% | ROE | 17.83% |
+| SMA200 dist | -0.31% | Revenue (ttm) | $214.40B |
 | 52W high | $95.33 | Revenue growth y/y | 41.10% |
-| 52W low | $61.13 | Inst. ownership | 57.39% |
-| P/E (ttm) | 8.61 | Insider ownership | 8.85% |
-| Forward P/E | 7.10 | Short float | 0.19% |
-| PEG (trailing) | 0.65 | Avg volume | 1,795,535 |
-| P/S | 0.88 | Employees | 94,847 |
-| P/B | 1.43 | Analyst rec (1=buy..5=sell) | 2.0 |
+| 52W low | $61.13 | Inst. ownership | 57.38% |
+| P/E (ttm) | 8.53 | Insider ownership | 8.85% |
+| Forward P/E | 7.04 | Short float | 0.19% |
+| PEG (trailing) | 0.65 | Avg volume | 1,790,851 |
+| P/S | 0.87 | Employees | 94,847 |
+| P/B | 1.42 | Analyst rec (1=buy..5=sell) | 2.0 |
 
 ## 8. Analyst Actions
 | Date | Action | Firm | Rating change |
@@ -138,7 +138,7 @@ TotalEnergies SE, an integrated energy company, produces and markets oil and bio
 | 2026-03-12 | main | Piper Sandler | Neutral → Neutral |
 
 ## 9. Conclusion
-TTE: Moderate momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
+TTE: Low momentum / mixed fundamentals / reasonable value / moderate risk. Per the journal method: act only on a defined setup (new tight base, controlled pullback, or confirmed reclaim of a key level) with risk sized in advance — never chase an extended move.
 
 ## Sources
 | Source | URL | Used for |
