@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-20T08:40:37+00:00",
-  "as_of_local": "2026-11-20 08:40:37 UTC",
+  "as_of_utc": "2026-11-20T08:45:34+00:00",
+  "as_of_local": "2026-11-20 08:45:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -63,10 +63,10 @@
     {
       "symbol": "SHEL",
       "name": "Shell",
-      "price": 94.34,
-      "previous_close": 97.24,
-      "change_pct": -2.98,
-      "market_cap": 265545447184.71002,
+      "price": 94.01,
+      "previous_close": 94.34,
+      "change_pct": -0.35,
+      "market_cap": 265545453218.81567,
       "headlines": [
         {
           "title": "Chariot secures cash-generating foothold in Angola",
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.06,
-      "change_pct": -1.38
+      "price": 81.82,
+      "change_pct": -1.67
     },
     {
       "label": "Brent",
-      "price": 89.05,
-      "change_pct": -3.19
+      "price": 88.83,
+      "change_pct": -3.42
     },
     {
       "label": "NatGas",
-      "price": 3.17,
-      "change_pct": -3.09
+      "price": 3.58,
+      "change_pct": 9.55
     }
   ]
 }
