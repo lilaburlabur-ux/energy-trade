@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "Energy Trade curated universe (seed_energy_universe.py)",
-  "as_of": "2026-11-20 02:16 UTC",
+  "as_of": "2026-11-20 02:22 UTC",
   "total_tickers": 67,
   "min_bubble_size": 7,
   "render_spec": {
@@ -18,7 +18,7 @@
    "label": "Oil & Gas Majors",
    "color": "#E8A33D",
    "count": 8,
-   "total_market_cap_b": 1986.96,
+   "total_market_cap_b": 1987.0,
    "avg_change_pct": -3.74,
    "industries_included": [
     "Oil & Gas E&P",
@@ -442,7 +442,7 @@
    "label": "Shale & E&P",
    "color": "#D97742",
    "count": 9,
-   "total_market_cap_b": 325.66,
+   "total_market_cap_b": 325.7,
    "avg_change_pct": -2.86,
    "industries_included": [
     "Oil & Gas E&P"
@@ -916,7 +916,7 @@
    "label": "Oilfield Services",
    "color": "#A67C52",
    "count": 6,
-   "total_market_cap_b": 181.17,
+   "total_market_cap_b": 181.2,
    "avg_change_pct": -0.83,
    "industries_included": [
     "Oil & Gas Equipment & Services"
@@ -1237,7 +1237,7 @@
    "label": "Midstream & LNG",
    "color": "#C9A227",
    "count": 8,
-   "total_market_cap_b": 522.23,
+   "total_market_cap_b": 522.2,
    "avg_change_pct": -0.78,
    "industries_included": [
     "Oil & Gas Midstream"
@@ -1660,7 +1660,7 @@
    "label": "Refining & Downstream",
    "color": "#B65D32",
    "count": 4,
-   "total_market_cap_b": 320.72,
+   "total_market_cap_b": 320.7,
    "avg_change_pct": -5.26,
    "industries_included": [
     "Oil & Gas Refining & Marketing"
@@ -1879,7 +1879,7 @@
    "label": "Nuclear & Uranium",
    "color": "#F2D43D",
    "count": 8,
-   "total_market_cap_b": 146.02,
+   "total_market_cap_b": 146.0,
    "avg_change_pct": -2.13,
    "industries_included": [
     "Aerospace & Defense",
@@ -1996,9 +1996,9 @@
      "sector": "Industrials",
      "industry": "Aerospace & Defense",
      "country": "United States",
-     "market_cap_b": 10.7,
-     "pe": 28.98,
-     "price": 117.93,
+     "market_cap_b": 10.68,
+     "pe": 28.91,
+     "price": 117.66,
      "change_pct": -0.75,
      "volume": 1533284,
      "perf": {
@@ -2007,39 +2007,39 @@
       "1Y": -32.4
      },
      "spark": [
-      155.85,
-      152.29,
-      155.67,
-      157.59,
-      156.71,
-      150.12,
-      146.7,
-      146.35,
-      147.47,
-      141.81,
-      138.47,
-      138.01,
-      136.79,
-      135.35,
-      141.54,
-      143.83,
-      138.86,
-      137.2,
-      135.83,
-      135.11,
-      127.19,
-      134.07,
-      137.93,
-      130.47,
-      121.5,
-      119.52,
-      126.64,
-      123.99,
-      117.09,
-      117.93
+      155.49,
+      151.94,
+      155.31,
+      157.23,
+      156.35,
+      149.78,
+      146.36,
+      146.01,
+      147.13,
+      141.49,
+      138.15,
+      137.69,
+      136.48,
+      135.04,
+      141.22,
+      143.5,
+      138.54,
+      136.89,
+      135.52,
+      134.8,
+      126.9,
+      133.76,
+      137.61,
+      130.17,
+      121.22,
+      119.25,
+      126.35,
+      123.71,
+      116.82,
+      117.66
      ],
      "_note": "seeded 2026-08-01 by seed_energy_universe.py; live fields maintained by update_quotes.py",
-     "fwd_eps": 5.25
+     "fwd_eps": 5.24
     },
     {
      "ticker": "NXE",
@@ -2305,7 +2305,7 @@
    "label": "Renewables & Solar",
    "color": "#9CC65A",
    "count": 8,
-   "total_market_cap_b": 236.42,
+   "total_market_cap_b": 236.4,
    "avg_change_pct": 0.24,
    "industries_included": [
     "Solar",
@@ -2730,7 +2730,7 @@
    "label": "Grid, Storage & Electrification",
    "color": "#F08C4A",
    "count": 8,
-   "total_market_cap_b": 575.48,
+   "total_market_cap_b": 575.5,
    "avg_change_pct": 0.01,
    "industries_included": [
     "Electrical Equipment & Parts",
@@ -3156,7 +3156,7 @@
    "label": "Power & IPPs",
    "color": "#CB9E6E",
    "count": 8,
-   "total_market_cap_b": 432.01,
+   "total_market_cap_b": 432.0,
    "avg_change_pct": 0.34,
    "industries_included": [
     "Utilities - Independent Power Producers",
