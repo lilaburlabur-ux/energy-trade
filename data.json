@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-20T08:25:20+00:00",
-  "as_of_local": "2026-11-20 08:25:20 UTC",
+  "as_of_utc": "2026-11-20T08:30:45+00:00",
+  "as_of_local": "2026-11-20 08:30:45 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -69,6 +69,12 @@
       "market_cap": 265545447184.71002,
       "headlines": [
         {
+          "title": "Chariot secures cash-generating foothold in Angola",
+          "url": "https://finance.yahoo.com/energy/articles/chariot-secures-cash-generating-foothold-073400208.html",
+          "publisher": "Proactive",
+          "published": "2026-11-20T07:34:00Z"
+        },
+        {
           "title": "HF Sinclair (DINO) Names Shawn J. Carsten As CFO",
           "url": "https://finance.yahoo.com/markets/stocks/articles/hf-sinclair-dino-names-shawn-201212839.html",
           "publisher": "Simply Wall St.",
@@ -79,12 +85,6 @@
           "url": "https://finance.yahoo.com/energy/articles/enis-expanded-lummus-partnership-boost-170500348.html",
           "publisher": "Zacks",
           "published": "2026-11-19T17:05:00Z"
-        },
-        {
-          "title": "NVIDIA\u2019s Q3 Earnings, Anthropic IPO Watch, Data Center Construction Slows in Q3",
-          "url": "https://finance.yahoo.com/video/nvidia-q3-earnings-anthropic-ipo-202556170.html",
-          "publisher": "Blockspace",
-          "published": "2026-11-18T20:25:56Z"
         }
       ]
     },
@@ -517,6 +517,12 @@
       "market_cap": 77982831336.20822,
       "headlines": [
         {
+          "title": "Enterprise Products Partners (EPD) On Its Permian Expansion Push And The Undervalued Case",
+          "url": "https://finance.yahoo.com/energy/articles/enterprise-products-partners-epd-permian-080900864.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T08:09:00Z"
+        },
+        {
           "title": "3 Overlooked Dividend Stocks Paying 5% or More Right Now",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-overlooked-dividend-stocks-paying-180231364.html",
           "publisher": "24/7 Wall St.",
@@ -527,12 +533,6 @@
           "url": "https://finance.yahoo.com/energy/articles/enterprise-products-permian-expansion-supports-173100313.html",
           "publisher": "Zacks",
           "published": "2026-11-19T17:31:00Z"
-        },
-        {
-          "title": "Invest $400,000 in These 4 Dividend Stocks Yielding Over 6% for Retirement Income",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invest-400-000-4-dividend-160250698.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T16:02:50Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.46,
-      "change_pct": -0.9
+      "price": 82.42,
+      "change_pct": -0.95
     },
     {
       "label": "Brent",
-      "price": 89.45,
-      "change_pct": -2.75
+      "price": 89.47,
+      "change_pct": -2.73
     },
     {
       "label": "NatGas",
-      "price": 3.18,
-      "change_pct": -2.69
+      "price": 3.17,
+      "change_pct": -2.88
     }
   ]
 }
