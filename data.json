@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T10:32:08+00:00",
-  "as_of_local": "2026-11-20 10:32:08 UTC",
+  "as_of_utc": "2026-11-20T10:37:12+00:00",
+  "as_of_local": "2026-11-20 10:37:12 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SLB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -155,6 +153,12 @@
       "market_cap": 175733275765.85104,
       "headlines": [
         {
+          "title": "Why Is Dominion Energy (D) Facing Tough Questions In Virginia Merger Hearings?",
+          "url": "https://finance.yahoo.com/energy/articles/why-dominion-energy-d-facing-101230471.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T10:12:30Z"
+        },
+        {
           "title": "DOJ closes antitrust probe into NextEra\u2019s $66.8 bln Dominion deal",
           "url": "https://finance.yahoo.com/markets/stocks/articles/doj-closes-antitrust-probe-nextera-032504407.html",
           "publisher": "Investing.com",
@@ -165,12 +169,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/100-000-dominion-energy-exelon-164743852.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-19T16:47:43Z"
-        },
-        {
-          "title": "XLU vs VPU: Which Utility ETF Gets More From the AI Power Rush?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xlu-vs-vpu-utility-etf-161214352.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T16:12:14Z"
         }
       ]
     },
@@ -623,6 +621,34 @@
       ]
     },
     {
+      "symbol": "SLB",
+      "name": "SLB (Schlumberger)",
+      "price": 47.9,
+      "previous_close": 48.41,
+      "change_pct": -1.05,
+      "market_cap": 70701820714.94244,
+      "headlines": [
+        {
+          "title": "Is Liberty Energy Spending Too Much?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-spending-too-much-113901871.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T11:39:01Z"
+        },
+        {
+          "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
+          "url": "https://finance.yahoo.com/energy/articles/slb-expands-norway-footprint-var-142200521.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T14:22:00Z"
+        },
+        {
+          "title": "SLB Stock: Analyst Estimates & Ratings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-stock-analyst-estimates-ratings-074754675.html",
+          "publisher": "Barchart",
+          "published": "2026-11-16T07:47:54Z"
+        }
+      ]
+    },
+    {
       "symbol": "KMI",
       "name": "Kinder Morgan",
       "price": 31.09,
@@ -743,6 +769,12 @@
       "market_cap": 58623080440.811325,
       "headlines": [
         {
+          "title": "Why Is Dominion Energy (D) Facing Tough Questions In Virginia Merger Hearings?",
+          "url": "https://finance.yahoo.com/energy/articles/why-dominion-energy-d-facing-101230471.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T10:12:30Z"
+        },
+        {
           "title": "DOJ closes antitrust probe into NextEra\u2019s $66.8 bln Dominion deal",
           "url": "https://finance.yahoo.com/markets/stocks/articles/doj-closes-antitrust-probe-nextera-032504407.html",
           "publisher": "Investing.com",
@@ -753,12 +785,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/100-000-dominion-energy-exelon-164743852.html",
           "publisher": "24/7 Wall St.",
           "published": "2026-11-19T16:47:43Z"
-        },
-        {
-          "title": "How Much Upside Is Left In Dominion Energy Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-dominion-energy-133819521.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T13:38:19Z"
         }
       ]
     },
@@ -1967,8 +1993,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.74,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -1.05,
+          "price": 47.9,
           "currency": "USD"
         },
         {
@@ -2066,8 +2092,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.74,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -1.05,
+        "price": 47.9,
         "currency": "USD"
       },
       {
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.11,
-      "change_pct": -2.52
+      "price": 81.13,
+      "change_pct": -2.5
     },
     {
       "label": "Brent",
-      "price": 87.8,
-      "change_pct": -4.54
+      "price": 87.89,
+      "change_pct": -4.45
     },
     {
       "label": "NatGas",
       "price": 3.59,
-      "change_pct": 9.85
+      "change_pct": 9.91
     }
   ]
 }
