@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T13:55:08+00:00",
-  "as_of_local": "2026-11-20 13:55:08 UTC",
+  "as_of_utc": "2026-11-20T14:00:13+00:00",
+  "as_of_local": "2026-11-20 14:00:13 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "ETR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -631,6 +629,12 @@
       "market_cap": 70701820714.94244,
       "headlines": [
         {
+          "title": "Chevron to begin offshore oil and gas exploration in Greece",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-begin-offshore-oil-gas-134851852.html",
+          "publisher": "Euronews",
+          "published": "2026-11-20T13:48:51Z"
+        },
+        {
           "title": "Is Liberty Energy Spending Too Much?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-spending-too-much-113901871.html",
           "publisher": "Trefis",
@@ -641,12 +645,6 @@
           "url": "https://finance.yahoo.com/energy/articles/slb-expands-norway-footprint-var-142200521.html",
           "publisher": "Zacks",
           "published": "2026-11-17T14:22:00Z"
-        },
-        {
-          "title": "SLB Stock: Analyst Estimates & Ratings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-stock-analyst-estimates-ratings-074754675.html",
-          "publisher": "Barchart",
-          "published": "2026-11-16T07:47:54Z"
         }
       ]
     },
@@ -871,6 +869,34 @@
           "url": "https://finance.yahoo.com/energy/articles/why-think-occidental-petroleum-differently-172147996.html",
           "publisher": "Trefis",
           "published": "2026-11-18T17:21:47Z"
+        }
+      ]
+    },
+    {
+      "symbol": "ETR",
+      "name": "Entergy",
+      "price": 106.18,
+      "previous_close": 108.0,
+      "change_pct": -1.69,
+      "market_cap": 50735683853.601265,
+      "headlines": [
+        {
+          "title": "Entergy And 2 More Nuclear Power Stocks To Watch",
+          "url": "https://finance.yahoo.com/energy/articles/entergy-2-more-nuclear-power-061330177.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T06:13:30Z"
+        },
+        {
+          "title": "5 Energy Stocks to Benefit from Anthropic\u2019s $1.5 Trillion Debut",
+          "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-benefit-anthropic-220000406.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-19T22:00:00Z"
+        },
+        {
+          "title": "One Unsettled Question Sits Under Southern Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/one-unsettled-sits-under-southern-111820074.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T11:18:20Z"
         }
       ]
     },
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.3,
-      "change_pct": -1.09
+      "price": 82.43,
+      "change_pct": -0.94
     },
     {
       "label": "Brent",
-      "price": 88.98,
-      "change_pct": -3.26
+      "price": 89.17,
+      "change_pct": -3.06
     },
     {
       "label": "NatGas",
       "price": 3.67,
-      "change_pct": 12.33
+      "change_pct": 12.27
     }
   ]
 }
