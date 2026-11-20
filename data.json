@@ -1,6 +1,6 @@
 {
-  "as_of_utc": "2026-11-20T11:02:51+00:00",
-  "as_of_local": "2026-11-20 11:02:51 UTC",
+  "as_of_utc": "2026-11-20T11:08:04+00:00",
+  "as_of_local": "2026-11-20 11:08:04 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [],
   "stocks": [
@@ -769,6 +769,12 @@
       "market_cap": 58623080440.811325,
       "headlines": [
         {
+          "title": "28 ETFs Add to Dominion Energy (D) on Nov. 18",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/28-etfs-add-dominion-energy-110036028.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-20T11:00:36Z"
+        },
+        {
           "title": "Why Is Dominion Energy (D) Facing Tough Questions In Virginia Merger Hearings?",
           "url": "https://finance.yahoo.com/energy/articles/why-dominion-energy-d-facing-101230471.html",
           "publisher": "Simply Wall St.",
@@ -779,12 +785,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/doj-closes-antitrust-probe-nextera-032504407.html",
           "publisher": "Investing.com",
           "published": "2026-11-20T03:25:04Z"
-        },
-        {
-          "title": "$100,000 in Dominion Energy and Exelon Could Pay $3,846 a Year in Dividends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/100-000-dominion-energy-exelon-164743852.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T16:47:43Z"
         }
       ]
     },
@@ -2115,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.39,
-      "change_pct": -2.19
+      "price": 81.54,
+      "change_pct": -2.01
     },
     {
       "label": "Brent",
-      "price": 88.14,
-      "change_pct": -4.17
+      "price": 88.33,
+      "change_pct": -3.97
     },
     {
       "label": "NatGas",
-      "price": 3.58,
-      "change_pct": 9.61
+      "price": 3.59,
+      "change_pct": 9.7
     }
   ]
 }
