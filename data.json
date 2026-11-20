@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T21:46:06+00:00",
-  "as_of_local": "2026-11-20 21:46:06 UTC",
+  "as_of_utc": "2026-11-20T21:50:51+00:00",
+  "as_of_local": "2026-11-20 21:50:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "APA"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1293,34 +1295,6 @@
       ]
     },
     {
-      "symbol": "APA",
-      "name": "APA Corp",
-      "price": 45.03,
-      "previous_close": 44.62,
-      "change_pct": 0.92,
-      "market_cap": 15119092495.291595,
-      "headlines": [
-        {
-          "title": "APA vs. LNG: Which Stock Should Value Investors Buy Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apa-vs-lng-stock-value-154003076.html",
-          "publisher": "Zacks",
-          "published": "2026-11-20T15:40:03Z"
-        },
-        {
-          "title": "Best Momentum Stocks to Buy for November 20th",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-momentum-stocks-buy-november-140000534.html",
-          "publisher": "Zacks",
-          "published": "2026-11-20T14:00:00Z"
-        },
-        {
-          "title": "Best Income Stocks to Buy for November 20th",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-november-132800644.html",
-          "publisher": "Zacks",
-          "published": "2026-11-20T13:28:00Z"
-        }
-      ]
-    },
-    {
       "symbol": "DINO",
       "name": "HF Sinclair",
       "price": 87.39,
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.69,
-      "change_pct": 0.58
+      "price": 83.64,
+      "change_pct": 0.52
     },
     {
       "label": "Brent",
-      "price": 90.03,
-      "change_pct": -2.12
+      "price": 89.94,
+      "change_pct": -2.22
     },
     {
       "label": "NatGas",
       "price": 3.78,
-      "change_pct": 15.58
+      "change_pct": 15.61
     }
   ]
 }
