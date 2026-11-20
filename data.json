@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T09:36:21+00:00",
-  "as_of_local": "2026-11-20 09:36:21 UTC",
+  "as_of_utc": "2026-11-20T09:41:25+00:00",
+  "as_of_local": "2026-11-20 09:41:25 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "PEG"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1037,34 +1039,6 @@
           "url": "https://finance.yahoo.com/energy/articles/energy-transition-today-levelten-energy-113657014.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-19T11:36:57Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PEG",
-      "name": "Public Service Enterprise",
-      "price": 74.11,
-      "previous_close": 74.47,
-      "change_pct": -0.48,
-      "market_cap": 36944977858.13966,
-      "headlines": [
-        {
-          "title": "Can Edison's Ten-Year Record Sales Decline Last?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/edisons-ten-record-sales-decline-162307927.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T16:23:07Z"
-        },
-        {
-          "title": "Public Service Enterprise Stock: Analyst Estimates & Ratings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-stock-analyst-estimates-130450095.html",
-          "publisher": "Barchart",
-          "published": "2026-11-16T13:04:50Z"
-        },
-        {
-          "title": "Do Edison's Dividends Make Up For A Lagging Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/edisons-dividends-lagging-stock-173740284.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T17:37:40Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.52,
-      "change_pct": -2.03
+      "price": 81.4,
+      "change_pct": -2.18
     },
     {
       "label": "Brent",
-      "price": 88.57,
-      "change_pct": -3.71
+      "price": 88.34,
+      "change_pct": -3.96
     },
     {
       "label": "NatGas",
       "price": 3.58,
-      "change_pct": 9.49
+      "change_pct": 9.46
     }
   ]
 }
