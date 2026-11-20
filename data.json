@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T12:13:39+00:00",
-  "as_of_local": "2026-11-20 12:13:39 UTC",
+  "as_of_utc": "2026-11-20T12:18:52+00:00",
+  "as_of_local": "2026-11-20 12:18:52 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "NEE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -141,34 +143,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-totalenergies-vs-183426434.html",
           "publisher": "TIKR",
           "published": "2026-11-18T18:34:26Z"
-        }
-      ]
-    },
-    {
-      "symbol": "NEE",
-      "name": "NextEra Energy",
-      "price": 83.79,
-      "previous_close": 84.78,
-      "change_pct": -1.17,
-      "market_cap": 175733275765.85104,
-      "headlines": [
-        {
-          "title": "Why Is Dominion Energy (D) Facing Tough Questions In Virginia Merger Hearings?",
-          "url": "https://finance.yahoo.com/energy/articles/why-dominion-energy-d-facing-101230471.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20T10:12:30Z"
-        },
-        {
-          "title": "DOJ closes antitrust probe into NextEra\u2019s $66.8 bln Dominion deal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/doj-closes-antitrust-probe-nextera-032504407.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-20T03:25:04Z"
-        },
-        {
-          "title": "$100,000 in Dominion Energy and Exelon Could Pay $3,846 a Year in Dividends",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/100-000-dominion-energy-exelon-164743852.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-19T16:47:43Z"
         }
       ]
     },
@@ -825,6 +799,12 @@
       "market_cap": 54546569692.85975,
       "headlines": [
         {
+          "title": "A 72-Year-Old With $350,000 in AT&T, ONEOK and T. Rowe Price Collects $1,457 a Month in Dividends. How Safe Is Each Check?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/72-old-350-000-t-115023188.html",
+          "publisher": "TIKR",
+          "published": "2026-11-20T11:50:23Z"
+        },
+        {
           "title": "3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-dividends-built-roth-194751819.html",
           "publisher": "24/7 Wall St.",
@@ -835,12 +815,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-kimberly-clark-only-pick-170148037.html",
           "publisher": "TIKR",
           "published": "2026-11-18T17:01:48Z"
-        },
-        {
-          "title": "GSK or ONEOK: I Can Only Pick One Dividend Stock for the Next 10 Years. Here\u2019s Mine",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/gsk-oneok-only-pick-one-151727202.html",
-          "publisher": "TIKR",
-          "published": "2026-11-18T15:17:27Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 82.35,
-      "change_pct": -1.03
+      "price": 82.43,
+      "change_pct": -0.94
     },
     {
       "label": "Brent",
-      "price": 89.26,
-      "change_pct": -2.96
+      "price": 89.39,
+      "change_pct": -2.82
     },
     {
       "label": "NatGas",
-      "price": 3.58,
-      "change_pct": 9.39
+      "price": 3.57,
+      "change_pct": 9.15
     }
   ]
 }
