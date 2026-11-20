@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T05:18:02+00:00",
-  "as_of_local": "2026-11-20 05:18:02 UTC",
+  "as_of_utc": "2026-11-20T05:33:07+00:00",
+  "as_of_local": "2026-11-20 05:33:07 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "BP"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -225,34 +227,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/concern-behind-erste-group-call-151651946.html",
           "publisher": "Insider Monkey",
           "published": "2026-11-19T15:16:51Z"
-        }
-      ]
-    },
-    {
-      "symbol": "BP",
-      "name": "BP",
-      "price": 43.21,
-      "previous_close": 43.25,
-      "change_pct": -0.09,
-      "market_cap": 111293925185.39008,
-      "headlines": [
-        {
-          "title": "BP weighs divesting West Africa LNG stake to streamline portfolio, Bloomberg says",
-          "url": "https://finance.yahoo.com/energy/articles/bp-weighs-divesting-west-africa-184647485.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-19T18:46:47Z"
-        },
-        {
-          "title": "European Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-161006986.html",
-          "publisher": "MT Newswires",
-          "published": "2026-11-19T16:10:06Z"
-        },
-        {
-          "title": "Should Investors Buy, Hold or Sell Equinor Stock Post Q3 Earnings?",
-          "url": "https://finance.yahoo.com/energy/articles/investors-buy-hold-sell-equinor-132900291.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T13:29:00Z"
         }
       ]
     },
@@ -1749,6 +1723,12 @@
       "market_cap": 1564162703.52,
       "headlines": [
         {
+          "title": "Can NuScale Power (SMR) Keep Trading Below Book Value?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-keep-trading-051649409.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T05:16:49Z"
+        },
+        {
           "title": "Oklo Just Dropped 22% in a Month. What Would It Take to Get OKLO Stock to $25?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-just-dropped-22-month-200532898.html",
           "publisher": "24/7 Wall St.",
@@ -1759,12 +1739,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/could-investing-1-000-nuscale-182502023.html",
           "publisher": "Motley Fool",
           "published": "2026-11-19T18:25:02Z"
-        },
-        {
-          "title": "NuScale Power Expands Everstar AI Use to Boost Project Efficiency",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nuscale-power-expands-everstar-ai-155300140.html",
-          "publisher": "Zacks",
-          "published": "2026-11-19T15:53:00Z"
         }
       ]
     },
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 83.02,
-      "change_pct": -0.23
+      "price": 82.83,
+      "change_pct": -0.46
     },
     {
       "label": "Brent",
-      "price": 90.02,
-      "change_pct": -2.13
+      "price": 89.85,
+      "change_pct": -2.32
     },
     {
       "label": "NatGas",
-      "price": 3.23,
-      "change_pct": -1.01
+      "price": 3.24,
+      "change_pct": -0.92
     }
   ]
 }
