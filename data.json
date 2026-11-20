@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-20T10:57:23+00:00",
-  "as_of_local": "2026-11-20 10:57:23 UTC",
+  "as_of_utc": "2026-11-20T11:02:51+00:00",
+  "as_of_local": "2026-11-20 11:02:51 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "NOV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1519,6 +1517,34 @@
       ]
     },
     {
+      "symbol": "NOV",
+      "name": "NOV Inc",
+      "price": 16.47,
+      "previous_close": 16.85,
+      "change_pct": -2.26,
+      "market_cap": 5871760481.9723,
+      "headlines": [
+        {
+          "title": "NOV (NOV) Stock Trades At A Discount To Fair Value",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nov-nov-stock-trades-discount-001953310.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-17T00:19:53Z"
+        },
+        {
+          "title": "DTI Q3 Earnings Miss Estimates on Higher Costs Despite Sales Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html",
+          "publisher": "Zacks",
+          "published": "2026-11-10T18:15:00Z"
+        },
+        {
+          "title": "CNQ Q3 Earnings Beat on Strong Pricing and Record Thermal Output",
+          "url": "https://finance.yahoo.com/energy/articles/cnq-q3-earnings-beat-strong-152800153.html",
+          "publisher": "Zacks",
+          "published": "2026-11-09T15:28:00Z"
+        }
+      ]
+    },
+    {
       "symbol": "WFRD",
       "name": "Weatherford",
       "price": 79.61,
@@ -2089,18 +2115,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.51,
-      "change_pct": -2.04
+      "price": 81.39,
+      "change_pct": -2.19
     },
     {
       "label": "Brent",
-      "price": 88.35,
-      "change_pct": -3.95
+      "price": 88.14,
+      "change_pct": -4.17
     },
     {
       "label": "NatGas",
-      "price": 3.59,
-      "change_pct": 9.7
+      "price": 3.58,
+      "change_pct": 9.61
     }
   ]
 }
