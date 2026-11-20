@@ -36,10 +36,10 @@ Diamondback Energy, Inc., an independent oil and natural gas company, acquires, 
 
 | Headline | Source | Date |
 |---|---|---|
+| US Oil and Gas Deal Boom Lures BMO Back Into the Market | Oilprice.com | 2026-11-20 |
 | Diamondback to buy certain Double Eagle subsidiaries in $5bn Permian deal | IntelliNews | 2026-11-19 |
 | PR Q3 Earnings Beat on Higher Output and Stronger Pricing | Zacks | 2026-11-19 |
 | Should You Buy Occidental Stock For Its Cash Flow? | Trefis | 2026-11-19 |
-| Bernstein sees gas supercycle intact after Diamondback deal | Investing.com | 2026-11-18 |
 
 ## 3. Technical Analysis
 | Technical item | Read |

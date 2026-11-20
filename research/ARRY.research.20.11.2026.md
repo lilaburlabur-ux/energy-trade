@@ -32,15 +32,6 @@ Signed file: `ARRY.research.20.11.2026`
 ## 2. Company Overview and Recent Catalysts
 Array Technologies, Inc. engages in the manufacture and sale of solar tracking technology products in the United States, Spain, Brazil, Australia, and internationally. It operates through two segments, Array Legacy Operations and STI Operations. The company's products portfolio includes DuraTrack HZ V3, a single axis tracker; Array STI H250, a dual-row tracker system; Array OmniTrack; Array SkyLink, a photovoltaic-powered control tracker system; and SmarTrack, a software and control-based product. Array Technologies, Inc.
 
-**Recent headlines (potential catalysts):**
-
-| Headline | Source | Date |
-|---|---|---|
-| Why You Need To Pay Attention To Nextpower Stock | Trefis | 2026-11-18 |
-| Why Did Nextpower Stock Fall? | Trefis | 2026-11-18 |
-| Shoals Technologies (SHLS) Takes a Double Hit by Analysts and Investors | Insider Monkey | 2026-11-18 |
-| Array Technologies' Merger With Shoals Expected to Boost Cash Flow, RBC Capital Markets Says | MT Newswires | 2026-11-09 |
-
 ## 3. Technical Analysis
 | Technical item | Read |
 |---|---|
