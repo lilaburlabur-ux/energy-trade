@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T10:27:00+00:00",
-  "as_of_local": "2026-11-20 10:27:00 UTC",
+  "as_of_utc": "2026-11-20T10:32:08+00:00",
+  "as_of_local": "2026-11-20 10:32:08 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "SLB"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -617,34 +619,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/vertivs-800-vdc-push-boosts-164600968.html",
           "publisher": "Zacks",
           "published": "2026-11-19T16:46:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "SLB",
-      "name": "SLB (Schlumberger)",
-      "price": 47.9,
-      "previous_close": 48.41,
-      "change_pct": -1.05,
-      "market_cap": 70701820714.94244,
-      "headlines": [
-        {
-          "title": "Is Liberty Energy Spending Too Much?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-spending-too-much-113901871.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T11:39:01Z"
-        },
-        {
-          "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
-          "url": "https://finance.yahoo.com/energy/articles/slb-expands-norway-footprint-var-142200521.html",
-          "publisher": "Zacks",
-          "published": "2026-11-17T14:22:00Z"
-        },
-        {
-          "title": "SLB Stock: Analyst Estimates & Ratings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/slb-stock-analyst-estimates-ratings-074754675.html",
-          "publisher": "Barchart",
-          "published": "2026-11-16T07:47:54Z"
         }
       ]
     },
@@ -1993,8 +1967,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.74,
-          "change_pct": -1.05,
-          "price": 47.9,
+          "change_pct": 0.0,
+          "price": null,
           "currency": "USD"
         },
         {
@@ -2092,8 +2066,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.74,
-        "change_pct": -1.05,
-        "price": 47.9,
+        "change_pct": 0.0,
+        "price": null,
         "currency": "USD"
       },
       {
@@ -2115,18 +2089,18 @@
     },
     {
       "label": "WTI",
-      "price": 81.02,
-      "change_pct": -2.63
+      "price": 81.11,
+      "change_pct": -2.52
     },
     {
       "label": "Brent",
-      "price": 87.79,
-      "change_pct": -4.56
+      "price": 87.8,
+      "change_pct": -4.54
     },
     {
       "label": "NatGas",
-      "price": 3.58,
-      "change_pct": 9.67
+      "price": 3.59,
+      "change_pct": 9.85
     }
   ]
 }
