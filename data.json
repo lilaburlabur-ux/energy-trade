@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-20T21:35:56+00:00",
-  "as_of_local": "2026-11-20 21:35:56 UTC",
+  "as_of_utc": "2026-11-20T21:40:47+00:00",
+  "as_of_local": "2026-11-20 21:40:47 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "D"
+    "ENPH"
   ],
   "stocks": [
     {
@@ -759,6 +759,34 @@
           "url": "https://finance.yahoo.com/energy/articles/williams-afford-spending-bill-135216299.html",
           "publisher": "Trefis",
           "published": "2026-11-12T13:52:16Z"
+        }
+      ]
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy",
+      "price": 66.28,
+      "previous_close": 66.65,
+      "change_pct": -0.56,
+      "market_cap": 58297638576.15094,
+      "headlines": [
+        {
+          "title": "Is Dominion Energy (D) Stock Cheap After Its 65% Run?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-stock-cheap-181009873.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T18:10:09Z"
+        },
+        {
+          "title": "Utility ETFs to Buy as Data Center Electricity Usage Is Set to Double by 2030",
+          "url": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-data-center-165800435.html",
+          "publisher": "Zacks",
+          "published": "2026-11-20T16:58:00Z"
+        },
+        {
+          "title": "Dominion Energy (D) Draws Fresh ETF Inflows, Is The Recovery Already Priced In?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-draws-fresh-141934568.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T14:19:34Z"
         }
       ]
     },
@@ -1631,34 +1659,6 @@
       ]
     },
     {
-      "symbol": "ENPH",
-      "name": "Enphase Energy",
-      "price": 19.63,
-      "previous_close": 21.98,
-      "change_pct": -10.69,
-      "market_cap": 2597329146.4674397,
-      "headlines": [
-        {
-          "title": "T.J. Rodgers Just Sold 71% of His Enphase Stake Near $23",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/t-j-rodgers-just-sold-155250099.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-20T15:52:50Z"
-        },
-        {
-          "title": "Why You Need To Pay Attention To Nextpower Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-pay-attention-nextpower-stock-164042595.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T16:40:42Z"
-        },
-        {
-          "title": "Did The Market Read First Solar Stock Right?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-first-solar-154151558.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T15:41:51Z"
-        }
-      ]
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy",
       "price": 81.43,
@@ -2089,13 +2089,13 @@
     },
     {
       "label": "WTI",
-      "price": 83.78,
-      "change_pct": 0.69
+      "price": 83.74,
+      "change_pct": 0.64
     },
     {
       "label": "Brent",
-      "price": 90.05,
-      "change_pct": -2.1
+      "price": 90.04,
+      "change_pct": -2.11
     },
     {
       "label": "NatGas",
