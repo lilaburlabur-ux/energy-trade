@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-20T22:45:56+00:00",
-  "as_of_local": "2026-11-20 22:45:56 UTC",
+  "as_of_utc": "2026-11-20T22:50:44+00:00",
+  "as_of_local": "2026-11-20 22:50:44 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "DINO"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1317,34 +1319,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-november-132800644.html",
           "publisher": "Zacks",
           "published": "2026-11-20T13:28:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "DINO",
-      "name": "HF Sinclair",
-      "price": 87.39,
-      "previous_close": 89.72,
-      "change_pct": -2.6,
-      "market_cap": 14792606918.64508,
-      "headlines": [
-        {
-          "title": "TechnipFMC Deepens ExxonMobil Ties With Guyana Longtail Awards",
-          "url": "https://finance.yahoo.com/energy/articles/technipfmc-deepens-exxonmobil-ties-guyana-150200655.html",
-          "publisher": "Zacks",
-          "published": "2026-11-20T15:02:00Z"
-        },
-        {
-          "title": "Can Phillips 66's Midstream Investments Cushion Refining Pressures?",
-          "url": "https://finance.yahoo.com/energy/articles/phillips-66s-midstream-investments-cushion-143800536.html",
-          "publisher": "Zacks",
-          "published": "2026-11-20T14:38:00Z"
-        },
-        {
-          "title": "HF Sinclair (DINO) On New CFO Appointment And The Undervalued Narrative",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hf-sinclair-dino-cfo-appointment-221047331.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-19T22:10:47Z"
         }
       ]
     },
