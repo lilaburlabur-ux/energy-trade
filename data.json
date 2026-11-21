@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-21T07:17:03+00:00",
-  "as_of_local": "2026-11-21 07:17:03 UTC",
+  "as_of_utc": "2026-11-21T07:32:00+00:00",
+  "as_of_local": "2026-11-21 07:32:00 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "GEV"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -115,6 +113,34 @@
           "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-signaling-north-171622315.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-20T17:16:22Z"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "price": 699.33,
+      "previous_close": 756.28,
+      "change_pct": -7.53,
+      "market_cap": 185096617089.0697,
+      "headlines": [
+        {
+          "title": "$100 Of Power Now Costs $143: Is AI To Blame?",
+          "url": "https://finance.yahoo.com/energy/articles/100-power-now-costs-143-063247159.html",
+          "publisher": "Trefis",
+          "published": "2026-11-21T06:32:47Z"
+        },
+        {
+          "title": "Why GE Vernova Investors Could Make Sense Of ETFs Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-investors-could-151320691.html",
+          "publisher": "Simply Wall St.",
+          "published": "2026-11-20T15:13:20Z"
+        },
+        {
+          "title": "Here Are the AI Stocks Tanking This Morning",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026/card/here-are-the-ai-stocks-tanking-this-morning-toF5LHILCo8Cffend4F8?siteid=yhoof2&yptr=yahoo",
+          "publisher": "The Wall Street Journal",
+          "published": "2026-11-20T14:53:08Z"
         }
       ]
     },
