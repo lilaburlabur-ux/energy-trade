@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-21T03:55:41+00:00",
-  "as_of_local": "2026-11-21 03:55:41 UTC",
+  "as_of_utc": "2026-11-21T04:10:50+00:00",
+  "as_of_local": "2026-11-21 04:10:50 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "AR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -1403,6 +1401,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklos-3-1b-liquidity-cushion-122900957.html",
           "publisher": "Zacks",
           "published": "2026-11-17T12:29:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "AR",
+      "name": "Antero Resources",
+      "price": 35.67,
+      "previous_close": 36.0,
+      "change_pct": -0.92,
+      "market_cap": 10955540557.617188,
+      "headlines": [
+        {
+          "title": "Can Expand Energy Stock Hit $120?",
+          "url": "https://finance.yahoo.com/energy/articles/expand-energy-stock-hit-120-113044377.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T11:30:44Z"
+        },
+        {
+          "title": "How These 6 Natural Gas Stocks Make Money",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/6-natural-gas-stocks-money-153300478.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-15T15:33:00Z"
+        },
+        {
+          "title": "U.S. Targeted Value Portfolio (DFAT) Buys $3.7 Million More Coeur Mining on Wednesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-targeted-value-portfolio-dfat-110436527.html",
+          "publisher": "GuruFocus.com",
+          "published": "2026-11-13T11:04:36Z"
         }
       ]
     },
