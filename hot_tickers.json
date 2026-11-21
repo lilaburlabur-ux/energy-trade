@@ -1,7 +1,7 @@
 {
  "meta": {
   "section": "hot_tickers",
-  "as_of": "2026-11-21T03:38:50+00:00",
+  "as_of": "2026-11-21T06:20:14+00:00",
   "refresh_cycle": "15m quantitative; editorial enrichment each 4h takeaways cycle",
   "heat_criteria": "Any 2 of: |day move| > 5%; volume > 3x 30d avg; news catalyst within 4h. Rank by heat_score. Losers qualify \u2014 hot means attention, not direction. Never padded.",
   "disclaimer": "For informational purposes only. Not investment advice."
@@ -9,38 +9,22 @@
  "hot_tickers": [
   {
    "rank": 1,
-   "ticker": "TLN",
-   "company": "Talen Energy Corporation",
-   "move_pct": -6.46,
-   "price": 332.92,
-   "volume": 1780800,
-   "volume_vs_avg": "~2x",
-   "heat_score": 46,
+   "ticker": "VST",
+   "company": "Vistra Corp.",
+   "move_pct": -7.17,
+   "price": 115.25,
+   "volume": 8334000,
+   "volume_vs_avg": "~1.3x",
+   "heat_score": 47,
    "direction": "down",
-   "why": "Talen Energy (TLN) Locks In Long Term PJM Deals With Valuation Still In Focus",
+   "why": "Vistra Corp. (VST) Stock Forecasts",
    "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd3RzUUJJcHFQVm1rcFJPdmhkNmoyRFhnYi1SVmRiTFF1YTlCTnRoeW1KN1BkYmtaN25EZ1RhQmloYjg0ODhTcUtfX3Y0bWpkWDJzQjF0Wkx3Q0dWYnpzVEVOQXRDRndwUFEweFNmTTJlWmJfTEdPTjZBNFZMX2JxdEZWc1lIZmdOQnJFMg?oc=5",
-   "published": "2026-11-21T00:17:00+00:00",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFhZNEJVR0VyNEN5bGVUS0E4WGpzNlZLVEZzc0V5dFRTVnBkaHJfMHZLbzdEaEc5WUdaRW5oSHZXbkpoeFJGRm1oMVFzVjBIWTgwamR1VUh6cWxKZHhDMVYyZElrY0RNWDZJMHVYR0tHb3JaMGRST2x2NHZNdDlOWGdMVWM3dURsUjhJcw?oc=5",
+   "published": "2026-11-21T05:17:03+00:00",
    "sector": "Power & IPPs"
   },
   {
    "rank": 2,
-   "ticker": "RUN",
-   "company": "Sunrun Inc.",
-   "move_pct": -7.3,
-   "price": 6.6,
-   "volume": 10589800,
-   "volume_vs_avg": "~1.0x",
-   "heat_score": 45,
-   "direction": "down",
-   "why": "What The Bulls Got Wrong Before Sunrun Fell 66%",
-   "catalyst_type": "momentum_narrative",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUExZGZtLThHamNfNGFEaTVLMWNpT085bGxWakxJbzdQcUR2VXpnbzFJMUI0aDY0MjRBRlNITDJuLUNVWEpTOEpGX3oxd1IxM203QVJVOV9BWUY2UmtfRUFOZTdITHpDaV9zdEdKc0NKUnYtcFVCdmttUThvSXV0QjlpbHpmQTZMMm9UQmFnSEZEZ2ZBYlZSVHhSeEg1bFA1bFBVSmcxWElKVi1kZ253MXY5YjI0d9IBuwFBVV95cUxOVDVIWmtiYjJ2eURsVXBUT21JQzJVSENlQzRzWXJvU1dhRl9GZnZabWVlRWRmelRrRERsYjg4MloyTy1aaVNLZHhQX29tbTdmS2FXVndGOFVBUTdOOC1CeUxtSVJrTGNvdmdBU0lPanFRRTIyZzl4SXhFM3o3SHJlZlJ2cmVkbmUxSmFGdTZPTEdDdHB5U3FYRHYwNjlCX2gyWU5GOWdtM0JITTU3bzlwTEN0LXlvYmZGMnFz?oc=5",
-   "published": "2026-11-21T02:11:05+00:00",
-   "sector": "Renewables & Solar"
-  },
-  {
-   "rank": 3,
    "ticker": "ETN",
    "company": "Eaton Corporation, PLC",
    "move_pct": -5.82,
@@ -52,7 +36,7 @@
    "why": "Eaton (ETN) Drops to a Fresh One-Year Low at $311.16",
    "catalyst_type": "momentum_narrative",
    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUppT2FnSzZmc05MTzJPVEZsSUFLVFpVZFpzQ290LXc0NDdnVVdjV0h1QUp0TUNiUkFJVHUycVRfYTgtTmphal9zV0pHSFZBbU4yejY5QVVTUjhHQ1dYSUtxWHpFenVUS291WWI5YXBJaWxla2dDQ25xaHBkWjFVZ0JXMmF0N1huQU56Vw?oc=5",
-   "published": "2026-11-20T23:52:43+00:00",
+   "published": "2026-11-21T02:44:06+00:00",
    "sector": "Grid, Storage & Electrification"
   }
  ]
