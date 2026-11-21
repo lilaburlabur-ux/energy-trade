@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-21T03:25:53+00:00",
-  "as_of_local": "2026-11-21 03:25:53 UTC",
+  "as_of_utc": "2026-11-21T03:30:34+00:00",
+  "as_of_local": "2026-11-21 03:30:34 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OKE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -841,34 +843,6 @@
           "url": "https://finance.yahoo.com/energy/articles/why-think-occidental-petroleum-differently-172147996.html",
           "publisher": "Trefis",
           "published": "2026-11-18T17:21:47Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OKE",
-      "name": "ONEOK",
-      "price": 84.37,
-      "previous_close": 86.52,
-      "change_pct": -2.48,
-      "market_cap": 53191105101.27384,
-      "headlines": [
-        {
-          "title": "ONEOK: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-3-key-takeaways-long-215002087.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-20T21:50:02Z"
-        },
-        {
-          "title": "A 72-Year-Old With $350,000 in AT&T, ONEOK and T. Rowe Price Collects $1,457 a Month in Dividends. How Safe Is Each Check?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/72-old-350-000-t-115023188.html",
-          "publisher": "TIKR",
-          "published": "2026-11-20T11:50:23Z"
-        },
-        {
-          "title": "3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-dividends-built-roth-194751819.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-18T19:47:51Z"
         }
       ]
     },
