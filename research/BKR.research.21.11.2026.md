@@ -18,7 +18,7 @@ Signed file: `BKR.research.21.11.2026`
 | Technical momentum | Moderate | 1Y +nan%; price +nan% vs SMA200. |
 | Fresh setup quality | Moderate / wait | +nan% from 52w high; no clean fresh pivot by default. |
 | Fundamental quality | Mixed | Profit margin 10.08%, revenue growth 14.50%. |
-| Value attractiveness | Reasonable | Forward P/E 15.98, EV/Sales 2.01. |
+| Value attractiveness | Reasonable | Forward P/E 15.93, EV/Sales 2.01. |
 | Risk level | Moderate | Beta 1.06, ATR nan% of price, short float 2.79%. |
 
 **Bottom line:** Moderate technical momentum, mixed fundamentals, value: reasonable, risk: moderate.
@@ -68,7 +68,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | Revenue (ttm) | $28.74B | Revenue growth 14.50% y/y |
 | Profitability | Gross 23.70%, operating 12.20%, net 10.08% | ROA 4.46%, ROE 15.06% |
 | Balance sheet | Cash $5.38B, debt $18.26B | Current ratio 1.24, debt/equity 88.83 |
-| Valuation | P/E 15.40, forward P/E 15.98, P/S 1.55, P/B 2.21 | EV/Sales 2.01, EV/EBITDA 11.52 |
+| Valuation | P/E 15.40, forward P/E 15.93, P/S 1.55, P/B 2.21 | EV/Sales 2.01, EV/EBITDA 11.52 |
 | Growth expectations | Earnings growth -32.80%, EPS q/q -32.50% | Analyst mean target $69.75 (24 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -120,7 +120,7 @@ Baker Hughes Company provides a portfolio of technologies and services to energy
 | 52W high | $68.85 | Revenue growth y/y | 14.50% |
 | 52W low | $43.78 | Inst. ownership | 99.56% |
 | P/E (ttm) | 15.40 | Insider ownership | 0.51% |
-| Forward P/E | 15.98 | Short float | 2.79% |
+| Forward P/E | 15.93 | Short float | 2.79% |
 | PEG (trailing) | 1.35 | Avg volume | 8,106,793 |
 | P/S | 1.55 | Employees | 65,600 |
 | P/B | 2.21 | Analyst rec (1=buy..5=sell) | 1.6 |

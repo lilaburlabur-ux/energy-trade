@@ -123,7 +123,7 @@ Oklo Inc. develops fission power plants to provide energy at scale to customers 
 | 52W low | $19.20 | Inst. ownership | 49.32% |
 | P/E (ttm) | — | Insider ownership | 14.62% |
 | Forward P/E | -17.47 | Short float | 21.88% |
-| PEG (trailing) | — | Avg volume | 10,105,162 |
+| PEG (trailing) | — | Avg volume | 10,106,218 |
 | P/S | 1,262.29 | Employees | 215 |
 | P/B | 1.06 | Analyst rec (1=buy..5=sell) | 2.1 |
 

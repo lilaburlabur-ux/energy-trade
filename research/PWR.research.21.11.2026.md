@@ -68,7 +68,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | Revenue (ttm) | $37.29B | Revenue growth 57.40% y/y |
 | Profitability | Gross 15.76%, operating 7.07%, net 4.51% | ROA 5.93%, ROE 18.02% |
 | Balance sheet | Cash $2.32B, debt $7.51B | Current ratio 1.16, debt/equity 70.72 |
-| Valuation | P/E 49.30, forward P/E 25.73, P/S 2.26, P/B 7.99 | EV/Sales 2.40, EV/EBITDA 23.95 |
+| Valuation | P/E 50.59, forward P/E 25.73, P/S 2.26, P/B 7.99 | EV/Sales 2.40, EV/EBITDA 23.95 |
 | Growth expectations | Earnings growth 103.10%, EPS q/q 104.70% | Analyst mean target $769.78 (30 analysts) |
 
 ## 5. Institutional Investors and Ownership
@@ -121,7 +121,7 @@ Quanta Services, Inc. offers infrastructure solutions for the electric and gas u
 | SMA200 dist | +nan% | Revenue (ttm) | $37.29B |
 | 52W high | $784.99 | Revenue growth y/y | 57.40% |
 | 52W low | $412.96 | Inst. ownership | 90.98% |
-| P/E (ttm) | 49.30 | Insider ownership | 0.67% |
+| P/E (ttm) | 50.59 | Insider ownership | 0.67% |
 | Forward P/E | 25.73 | Short float | 2.65% |
 | PEG (trailing) | 1.06 | Avg volume | 1,205,009 |
 | P/S | 2.26 | Employees | 69,500 |

@@ -123,7 +123,7 @@ Uranium Energy Corp., together with its subsidiaries, engages in the exploration
 | 52W low | $5.76 | Inst. ownership | 86.63% |
 | P/E (ttm) | — | Insider ownership | 1.82% |
 | Forward P/E | -71.62 | Short float | 16.79% |
-| PEG (trailing) | — | Avg volume | 9,982,037 |
+| PEG (trailing) | — | Avg volume | 9,982,332 |
 | P/S | 70.51 | Employees | 257 |
 | P/B | 1.91 | Analyst rec (1=buy..5=sell) | 1.7 |
 

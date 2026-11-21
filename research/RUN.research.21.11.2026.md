@@ -124,7 +124,7 @@ Sunrun Inc. designs, develops, installs, sells, owns, and maintains residential 
 | 52W low | $6.89 | Inst. ownership | 108.27% |
 | P/E (ttm) | 3.33 | Insider ownership | 2.75% |
 | Forward P/E | 28.97 | Short float | 35.14% |
-| PEG (trailing) | — | Avg volume | 9,222,417 |
+| PEG (trailing) | — | Avg volume | 9,222,629 |
 | P/S | 0.41 | Employees | 9,059 |
 | P/B | 0.43 | Analyst rec (1=buy..5=sell) | 2.0 |
 

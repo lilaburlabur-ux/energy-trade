@@ -121,7 +121,7 @@ Shell plc operates as an energy and petrochemical company in Europe, Asia, Ocean
 | 52W low | $67.89 | Inst. ownership | 13.97% |
 | P/E (ttm) | 8.12 | Insider ownership | 0.01% |
 | Forward P/E | 8.34 | Short float | 1.01% |
-| PEG (trailing) | 1.30 | Avg volume | 6,097,511 |
+| PEG (trailing) | 1.30 | Avg volume | 6,055,484 |
 | P/S | 0.82 | Employees | 84,000 |
 | P/B | 1.35 | Analyst rec (1=buy..5=sell) | 2.2 |
 

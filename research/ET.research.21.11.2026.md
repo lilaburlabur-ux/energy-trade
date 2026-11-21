@@ -121,7 +121,7 @@ Energy Transfer LP, together with its subsidiaries, provides energy-related serv
 | 52W low | $15.11 | Inst. ownership | 32.78% |
 | P/E (ttm) | 12.32 | Insider ownership | 10.29% |
 | Forward P/E | 10.51 | Short float | 0.87% |
-| PEG (trailing) | 0.54 | Avg volume | 8,739,579 |
+| PEG (trailing) | 0.54 | Avg volume | 8,739,834 |
 | P/S | 0.51 | Employees | 22,311 |
 | P/B | 2.01 | Analyst rec (1=buy..5=sell) | 1.5 |
 

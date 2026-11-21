@@ -121,7 +121,7 @@ NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, di
 | 52W low | $75.49 | Inst. ownership | 87.85% |
 | P/E (ttm) | 15.04 | Insider ownership | 0.25% |
 | Forward P/E | 19.07 | Short float | 0.00% |
-| PEG (trailing) | 1.71 | Avg volume | 12,152,017 |
+| PEG (trailing) | 1.71 | Avg volume | 12,152,357 |
 | P/S | 6.07 | Employees | 17,400 |
 | P/B | 2.85 | Analyst rec (1=buy..5=sell) | 1.9 |
 

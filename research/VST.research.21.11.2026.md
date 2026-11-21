@@ -122,7 +122,7 @@ Vistra Corp., together with its subsidiaries, operates as an integrated retail e
 | 52W low | $112.89 | Inst. ownership | 88.44% |
 | P/E (ttm) | 15.57 | Insider ownership | 0.77% |
 | Forward P/E | 11.81 | Short float | 3.52% |
-| PEG (trailing) | 0.35 | Avg volume | 6,126,764 |
+| PEG (trailing) | 0.35 | Avg volume | 6,126,932 |
 | P/S | 1.90 | Employees | 6,390 |
 | P/B | 10.07 | Analyst rec (1=buy..5=sell) | 1.4 |
 

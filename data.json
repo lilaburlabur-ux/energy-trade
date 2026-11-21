@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-21T02:12:32+00:00",
-  "as_of_local": "2026-11-21 02:12:32 UTC",
+  "as_of_utc": "2026-11-21T02:19:39+00:00",
+  "as_of_local": "2026-11-21 02:19:39 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "EQNR"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -395,6 +393,34 @@
           "url": "https://finance.yahoo.com/energy/articles/phillips-66s-midstream-investments-cushion-143800536.html",
           "publisher": "Zacks",
           "published": "2026-11-20T14:38:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "EQNR",
+      "name": "Equinor",
+      "price": 39.69,
+      "previous_close": 40.13,
+      "change_pct": -1.1,
+      "market_cap": 92982874032.22,
+      "headlines": [
+        {
+          "title": "Ottawa, Newfoundland and Labrador approve $14-billion Bay du Nord offshore oil project",
+          "url": "https://finance.yahoo.com/news/ottawa-newfoundland-labrador-approve-14-221512291.html",
+          "publisher": "Financial Post",
+          "published": "2026-11-20T22:15:12Z"
+        },
+        {
+          "title": "Bay du Nord development plan approved, but what happens next?",
+          "url": "https://finance.yahoo.com/news/bay-du-nord-development-plan-215018727.html",
+          "publisher": "Financial Post",
+          "published": "2026-11-20T21:50:18Z"
+        },
+        {
+          "title": "Sector Update: Energy Stocks Lower Thursday Afternoon",
+          "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-thursday-184347774.html",
+          "publisher": "MT Newswires",
+          "published": "2026-11-19T18:43:47Z"
         }
       ]
     },

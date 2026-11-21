@@ -122,7 +122,7 @@ Vertiv Holdings Co designs, manufactures, and services critical digital infrastr
 | 52W low | $149.73 | Inst. ownership | 83.79% |
 | P/E (ttm) | 31.07 | Insider ownership | 0.25% |
 | Forward P/E | 16.84 | Short float | 2.88% |
-| PEG (trailing) | 0.57 | Avg volume | 6,237,526 |
+| PEG (trailing) | 0.57 | Avg volume | 6,237,842 |
 | P/S | 4.88 | Employees | 34,000 |
 | P/B | 11.63 | Analyst rec (1=buy..5=sell) | 1.4 |
 
