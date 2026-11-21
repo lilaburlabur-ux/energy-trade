@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-21T10:53:20+00:00",
-  "as_of_local": "2026-11-21 10:53:20 UTC",
+  "as_of_utc": "2026-11-21T10:58:40+00:00",
+  "as_of_local": "2026-11-21 10:58:40 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "SLB"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -591,6 +589,34 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-avnet-093600283.html",
           "publisher": "Zacks",
           "published": "2026-11-17T09:36:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "SLB",
+      "name": "SLB (Schlumberger)",
+      "price": 45.89,
+      "previous_close": 47.9,
+      "change_pct": -4.2,
+      "market_cap": 67734998039.67302,
+      "headlines": [
+        {
+          "title": "Chevron to begin offshore oil and gas exploration in Greece",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-begin-offshore-oil-gas-134851852.html",
+          "publisher": "Euronews",
+          "published": "2026-11-20T13:48:51Z"
+        },
+        {
+          "title": "Is Liberty Energy Spending Too Much?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-spending-too-much-113901871.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T11:39:01Z"
+        },
+        {
+          "title": "SLB Expands Norway Footprint With Var Energi Offshore Drilling Deal",
+          "url": "https://finance.yahoo.com/energy/articles/slb-expands-norway-footprint-var-142200521.html",
+          "publisher": "Zacks",
+          "published": "2026-11-17T14:22:00Z"
         }
       ]
     },
@@ -1967,8 +1993,8 @@
           "name": "SLB Ltd",
           "short": "SLB",
           "weight_pct": 3.74,
-          "change_pct": 0.0,
-          "price": null,
+          "change_pct": -4.2,
+          "price": 45.89,
           "currency": "USD"
         },
         {
@@ -2066,8 +2092,8 @@
         "name": "SLB Ltd",
         "short": "SLB",
         "weight_pct": 3.74,
-        "change_pct": 0.0,
-        "price": null,
+        "change_pct": -4.2,
+        "price": 45.89,
         "currency": "USD"
       },
       {
