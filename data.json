@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-21T03:30:34+00:00",
-  "as_of_local": "2026-11-21 03:30:34 UTC",
+  "as_of_utc": "2026-11-21T03:40:33+00:00",
+  "as_of_local": "2026-11-21 03:40:33 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "OKE"
+    "PEG"
   ],
   "stocks": [
     {
@@ -847,6 +847,34 @@
       ]
     },
     {
+      "symbol": "OKE",
+      "name": "ONEOK",
+      "price": 84.37,
+      "previous_close": 86.52,
+      "change_pct": -2.48,
+      "market_cap": 53191105101.27384,
+      "headlines": [
+        {
+          "title": "ONEOK: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oneok-3-key-takeaways-long-215002087.html",
+          "publisher": "Motley Fool",
+          "published": "2026-11-20T21:50:02Z"
+        },
+        {
+          "title": "A 72-Year-Old With $350,000 in AT&T, ONEOK and T. Rowe Price Collects $1,457 a Month in Dividends. How Safe Is Each Check?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/72-old-350-000-t-115023188.html",
+          "publisher": "TIKR",
+          "published": "2026-11-20T11:50:23Z"
+        },
+        {
+          "title": "3 Pipeline Dividends Built for a Roth IRA, and Why Pipeline Partnerships May Not Be",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-pipeline-dividends-built-roth-194751819.html",
+          "publisher": "24/7 Wall St.",
+          "published": "2026-11-18T19:47:51Z"
+        }
+      ]
+    },
+    {
       "symbol": "ETR",
       "name": "Entergy",
       "price": 104.38,
@@ -1011,34 +1039,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/buyers-defend-constellation-energy-stock-120804759.html",
           "publisher": "Trefis",
           "published": "2026-11-19T12:08:04Z"
-        }
-      ]
-    },
-    {
-      "symbol": "PEG",
-      "name": "Public Service Enterprise",
-      "price": 73.9,
-      "previous_close": 74.11,
-      "change_pct": -0.28,
-      "market_cap": 36840290076.97416,
-      "headlines": [
-        {
-          "title": "Can Edison's Ten-Year Record Sales Decline Last?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/edisons-ten-record-sales-decline-162307927.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T16:23:07Z"
-        },
-        {
-          "title": "Public Service Enterprise Stock: Analyst Estimates & Ratings",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-stock-analyst-estimates-130450095.html",
-          "publisher": "Barchart",
-          "published": "2026-11-16T13:04:50Z"
-        },
-        {
-          "title": "Do Edison's Dividends Make Up For A Lagging Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/edisons-dividends-lagging-stock-173740284.html",
-          "publisher": "Trefis",
-          "published": "2026-11-12T17:37:40Z"
         }
       ]
     },
