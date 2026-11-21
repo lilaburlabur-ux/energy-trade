@@ -1,9 +1,9 @@
 {
-  "as_of_utc": "2026-11-21T03:40:33+00:00",
-  "as_of_local": "2026-11-21 03:40:33 UTC",
+  "as_of_utc": "2026-11-21T03:55:41+00:00",
+  "as_of_local": "2026-11-21 03:55:41 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
   "errors": [
-    "PEG"
+    "AR"
   ],
   "stocks": [
     {
@@ -1043,6 +1043,34 @@
       ]
     },
     {
+      "symbol": "PEG",
+      "name": "Public Service Enterprise",
+      "price": 73.9,
+      "previous_close": 74.11,
+      "change_pct": -0.28,
+      "market_cap": 36840290076.97416,
+      "headlines": [
+        {
+          "title": "Can Edison's Ten-Year Record Sales Decline Last?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/edisons-ten-record-sales-decline-162307927.html",
+          "publisher": "Trefis",
+          "published": "2026-11-19T16:23:07Z"
+        },
+        {
+          "title": "Public Service Enterprise Stock: Analyst Estimates & Ratings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-stock-analyst-estimates-130450095.html",
+          "publisher": "Barchart",
+          "published": "2026-11-16T13:04:50Z"
+        },
+        {
+          "title": "Do Edison's Dividends Make Up For A Lagging Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/edisons-dividends-lagging-stock-173740284.html",
+          "publisher": "Trefis",
+          "published": "2026-11-12T17:37:40Z"
+        }
+      ]
+    },
+    {
       "symbol": "EQT",
       "name": "EQT Corp",
       "price": 48.89,
@@ -1375,34 +1403,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/oklos-3-1b-liquidity-cushion-122900957.html",
           "publisher": "Zacks",
           "published": "2026-11-17T12:29:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "AR",
-      "name": "Antero Resources",
-      "price": 35.67,
-      "previous_close": 36.0,
-      "change_pct": -0.92,
-      "market_cap": 10955540557.617188,
-      "headlines": [
-        {
-          "title": "Can Expand Energy Stock Hit $120?",
-          "url": "https://finance.yahoo.com/energy/articles/expand-energy-stock-hit-120-113044377.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T11:30:44Z"
-        },
-        {
-          "title": "How These 6 Natural Gas Stocks Make Money",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/6-natural-gas-stocks-money-153300478.html",
-          "publisher": "Motley Fool",
-          "published": "2026-11-15T15:33:00Z"
-        },
-        {
-          "title": "U.S. Targeted Value Portfolio (DFAT) Buys $3.7 Million More Coeur Mining on Wednesday",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/u-targeted-value-portfolio-dfat-110436527.html",
-          "publisher": "GuruFocus.com",
-          "published": "2026-11-13T11:04:36Z"
         }
       ]
     },
