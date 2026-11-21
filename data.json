@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-21T01:02:02+00:00",
-  "as_of_local": "2026-11-21 01:02:02 UTC",
+  "as_of_utc": "2026-11-21T01:07:14+00:00",
+  "as_of_local": "2026-11-21 01:07:14 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "OXY"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -813,34 +815,6 @@
           "url": "https://finance.yahoo.com/energy/articles/zacks-industry-outlook-highlights-kinder-095300150.html",
           "publisher": "Zacks",
           "published": "2026-11-17T09:53:00Z"
-        }
-      ]
-    },
-    {
-      "symbol": "OXY",
-      "name": "Occidental Petroleum",
-      "price": 53.81,
-      "previous_close": 53.76,
-      "change_pct": 0.09,
-      "market_cap": 53894326755.5,
-      "headlines": [
-        {
-          "title": "E&P stocks outlook: valuations, cash flow, and the OPEC+ wildcard",
-          "url": "https://finance.yahoo.com/energy/articles/e-p-stocks-outlook-valuations-150522308.html",
-          "publisher": "Investing.com",
-          "published": "2026-11-19T15:05:22Z"
-        },
-        {
-          "title": "Should You Buy Occidental Stock For Its Cash Flow?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-occidental-stock-cash-flow-113901476.html",
-          "publisher": "Trefis",
-          "published": "2026-11-19T11:39:01Z"
-        },
-        {
-          "title": "Why You Should Think About Occidental Petroleum Differently Now",
-          "url": "https://finance.yahoo.com/energy/articles/why-think-occidental-petroleum-differently-172147996.html",
-          "publisher": "Trefis",
-          "published": "2026-11-18T17:21:47Z"
         }
       ]
     },
