@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-21T01:37:20+00:00",
-  "as_of_local": "2026-11-21 01:37:20 UTC",
+  "as_of_utc": "2026-11-21T01:52:32+00:00",
+  "as_of_local": "2026-11-21 01:52:32 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "GEV"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -113,34 +115,6 @@
           "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-signaling-north-171622315.html",
           "publisher": "Simply Wall St.",
           "published": "2026-11-20T17:16:22Z"
-        }
-      ]
-    },
-    {
-      "symbol": "GEV",
-      "name": "GE Vernova",
-      "price": 756.28,
-      "previous_close": 772.22,
-      "change_pct": -2.06,
-      "market_cap": 185096612565.78,
-      "headlines": [
-        {
-          "title": "Why GE Vernova Investors Could Make Sense Of ETFs Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-investors-could-151320691.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20T15:13:20Z"
-        },
-        {
-          "title": "Here Are the AI Stocks Tanking This Morning",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026/card/here-are-the-ai-stocks-tanking-this-morning-toF5LHILCo8Cffend4F8?siteid=yhoof2&yptr=yahoo",
-          "publisher": "The Wall Street Journal",
-          "published": "2026-11-20T14:53:08Z"
-        },
-        {
-          "title": "Where Will AI's Power Come From?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/where-ais-power-come-122355263.html",
-          "publisher": "Trefis",
-          "published": "2026-11-20T12:23:55Z"
         }
       ]
     },
