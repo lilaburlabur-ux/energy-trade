@@ -1,10 +1,8 @@
 {
-  "as_of_utc": "2026-11-21T03:17:56+00:00",
-  "as_of_local": "2026-11-21 03:17:56 UTC",
+  "as_of_utc": "2026-11-21T03:25:53+00:00",
+  "as_of_local": "2026-11-21 03:25:53 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [
-    "FANG"
-  ],
+  "errors": [],
   "stocks": [
     {
       "symbol": "XOM",
@@ -899,6 +897,34 @@
           "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-benefit-anthropic-220000406.html",
           "publisher": "Oilprice.com",
           "published": "2026-11-19T22:00:00Z"
+        }
+      ]
+    },
+    {
+      "symbol": "FANG",
+      "name": "Diamondback Energy",
+      "price": 175.75,
+      "previous_close": 176.77,
+      "change_pct": -0.58,
+      "market_cap": 49063748055.75,
+      "headlines": [
+        {
+          "title": "Is Viper Spending Too Much?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/viper-spending-too-much-174316216.html",
+          "publisher": "Trefis",
+          "published": "2026-11-20T17:43:16Z"
+        },
+        {
+          "title": "CRGY vs. FANG: Which E&P Player Has the Upper Hand?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/crgy-vs-fang-e-p-150400550.html",
+          "publisher": "Zacks",
+          "published": "2026-11-20T15:04:00Z"
+        },
+        {
+          "title": "US Oil and Gas Deal Boom Lures BMO Back Into the Market",
+          "url": "https://finance.yahoo.com/energy/articles/us-oil-gas-deal-boom-010000489.html",
+          "publisher": "Oilprice.com",
+          "published": "2026-11-20T01:00:00Z"
         }
       ]
     },
