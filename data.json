@@ -1,8 +1,10 @@
 {
-  "as_of_utc": "2026-11-21T04:10:50+00:00",
-  "as_of_local": "2026-11-21 04:10:50 UTC",
+  "as_of_utc": "2026-11-21T04:16:02+00:00",
+  "as_of_local": "2026-11-21 04:16:02 UTC",
   "delay_note": "Quotes delayed ~15 min \u2014 free Yahoo Finance data, no API key.",
-  "errors": [],
+  "errors": [
+    "TTE"
+  ],
   "stocks": [
     {
       "symbol": "XOM",
@@ -85,34 +87,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-shell-only-one-085919392.html",
           "publisher": "TIKR",
           "published": "2026-11-20T08:59:19Z"
-        }
-      ]
-    },
-    {
-      "symbol": "TTE",
-      "name": "TotalEnergies",
-      "price": 85.2,
-      "previous_close": 86.25,
-      "change_pct": -1.22,
-      "market_cap": 186636919840.8979,
-      "headlines": [
-        {
-          "title": "TotalEnergies or Kraft Heinz: The One Dividend Stock I\u2019d Hold for the Next 20 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/totalenergies-kraft-heinz-one-dividend-192037552.html",
-          "publisher": "TIKR",
-          "published": "2026-11-20T19:20:37Z"
-        },
-        {
-          "title": "The Roth Conversion Mistake That Turns $5,425 a Month Tax-Free Into a Five-Figure Tax Bill",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/roth-conversion-mistake-turns-5-175819653.html",
-          "publisher": "24/7 Wall St.",
-          "published": "2026-11-20T17:58:19Z"
-        },
-        {
-          "title": "What Is TotalEnergies (ENXTPA:TTE) Signaling With Its North Sea And Suriname Push?",
-          "url": "https://finance.yahoo.com/energy/articles/totalenergies-enxtpa-tte-signaling-north-171622315.html",
-          "publisher": "Simply Wall St.",
-          "published": "2026-11-20T17:16:22Z"
         }
       ]
     },
